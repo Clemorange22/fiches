@@ -14,8 +14,8 @@
   "sidebarWidth": "",
   "startOutlineCollapsed": false,
   "logLevel": "warning",
-  "incrementalExport": true,
-  "deleteOldExportedFiles": false,
+  "incrementalExport": false,
+  "deleteOldExportedFiles": true,
   "addDarkModeToggle": true,
   "includeOutline": true,
   "includeGraphView": true,
@@ -29,7 +29,7 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "exportPath": "/home/clem/Documents/obsidian/private/Private/html",
+  "exportPath": "/home/clem/Documents/obsidian/project-alpha/html",
   "filesToExport": [
     [
       "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
