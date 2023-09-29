@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "b8f677cd627e9b64",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ee9b54fbafefc8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a22e108f892f8558",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.light.svg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70ab55bdd7c81471",
+    "type": "split",
+    "children": [
+      {
+        "id": "cda10632a8450acc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18d343bb94504208",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64800436288d8542",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0b4916c590383b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "931164338e959ffa",
+    "type": "split",
+    "children": [
+      {
+        "id": "df4ff067692048d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf29a58e0217258",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.light.svg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f483eda6d683cd8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.light.svg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fa14bae3b3c2a63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e1e8e251dc92375e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.light.svg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "18d343bb94504208",
+  "lastOpenFiles": [
+    "Test.md",
+    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.dark.svg",
+    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.light.svg",
+    "Excalidraw",
+    "2023-09-27.md"
+  ]
+}

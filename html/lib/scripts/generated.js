@@ -1,0 +1,1 @@
+let nodes={paths:["excalidraw/drawing-2023-09-27-16.36.35.excalidraw.html","test.html"],nodeCount:2,linkSources:[1],linkTargets:[0],labels:["Drawing 2023-09-27 16.36.35.excalidraw","Test"],radii:[7,7],linkCount:1},attractionForce=1,linkLength=10,repulsionForce=150,centralForce=3,edgePruning=100
