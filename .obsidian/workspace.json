@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique/Incertitudes et chiffres significatifs.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,51 +164,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "6cae7fc033fbe92b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "32dd9a5e9fbf5896",
-        "type": "window",
-        "children": [
-          {
-            "id": "7826b81ee02d47f9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "224e22eaa4aa5ed3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 742,
-        "height": 952,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "224e22eaa4aa5ed3",
+  "active": "a22e108f892f8558",
   "lastOpenFiles": [
     "Physique/Incertitudes et chiffres significatifs.md",
+    "index.md",
     "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
     "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
     "Test.md",
     "Incertitudes et chiffres significatifs.md",
-    "index.md",
     "Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.dark.svg.md",
     "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.light.svg",
     "Physique",
