@@ -21,15 +21,16 @@ $R=(10.1\pm1)\ \Omega$ : Incertitude cohérente
 ### Estimation de l'incertitude
 
 #### Mesures directes
-1. Erreurs systématiques
-2. Erreurs aléatoires
-	* Type **B** : $1$ mesure $\rightarrow$ Traitement *probabiliste*
-		*  (pas au programme)
-	* Type **A** : $n$ mesures $\rightarrow$ Traitement *statistique*
-		* Historigramme des résultats
-		* Moyenne
-		* Écart type $s$
-		* Incertitude $u=\Delta X=k\frac{s}{\sqrt{n}}$
+##### Erreurs systématiques
+##### Erreurs aléatoires
+* Type **B** : $1$ mesure $\rightarrow$ Traitement *probabiliste*
+	*  (pas au programme)
+* Type **A** : $n$ mesures $\rightarrow$ Traitement *statistique*
+	* Historigramme des résultats
+	* Moyenne
+	* Écart type $s$
+	* Incertitude $u=\Delta X=k\frac{s}{\sqrt{n}}$
+
 **Solution :** Estimation de $\Delta G \ \rightarrow$ Correction
 
 #### Mesures indirectes

@@ -33,6 +33,12 @@
   "filesToExport": [
     [
       "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
+      "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.dark.svg",
+      "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.light.svg",
+      "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
+      "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.light.svg",
+      "Physique/Incertitudes et chiffres significatifs.md",
+      "index.md",
       "Test.md"
     ]
   ]
