@@ -22,7 +22,12 @@ $R=(10.1\pm1)\ \Omega$ : Incertitude cohérente
 
 #### Mesures directes
 ##### Erreurs systématiques
+Écart fixe entre la valeur mesurée et la valeur réelle
+
+**Solution :** Estimation de $\Delta G \ \rightarrow$ Correction
 ##### Erreurs aléatoires
+Écart aléatoire entre la valeur mesurée et la valeur réelle
+
 * Type **B** : $1$ mesure $\rightarrow$ Traitement *probabiliste*
 	*  (pas au programme)
 * Type **A** : $n$ mesures $\rightarrow$ Traitement *statistique*

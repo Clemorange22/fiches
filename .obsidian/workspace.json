@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Physique/Incertitudes et chiffres significatifs.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,15 +132,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
+          {
+            "id": "b27a7ddcf4166630",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,19 +169,23 @@
     "type": "floating",
     "children": [
       {
-        "id": "cacbafa28b071ab6",
+        "id": "32dd9a5e9fbf5896",
         "type": "window",
         "children": [
           {
-            "id": "fe8c30f357a2da04",
+            "id": "7826b81ee02d47f9",
             "type": "tabs",
             "children": [
               {
-                "id": "e98bfdcaf481fb6d",
+                "id": "224e22eaa4aa5ed3",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "index.md",
+                    "mode": "preview",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -180,24 +195,25 @@
         "x": 0,
         "y": 0,
         "width": 742,
-        "height": 471,
+        "height": 952,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e98bfdcaf481fb6d",
+  "active": "224e22eaa4aa5ed3",
   "lastOpenFiles": [
+    "Physique/Incertitudes et chiffres significatifs.md",
     "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
+    "Test.md",
     "Incertitudes et chiffres significatifs.md",
     "index.md",
     "Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.dark.svg.md",
     "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.light.svg",
     "Physique",
     "html/index.html",
-    "Test.md",
     "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.light.svg",
-    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
     "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.dark.svg",
     "Excalidraw",
     "2023-09-27.md"
