@@ -41,7 +41,7 @@ $R=(10.1\pm1)\ \Omega$ : Incertitude cohérente
 #### Mesures indirectes
 
 $G=f(X,Y,Z,\cdots)$
-Mesure de $G$ liée au mesures 
+Mesure de $G$ liée aux mesures
 
 Les incertitudes s'**additionnent** et **ne se compensent pas**
 
