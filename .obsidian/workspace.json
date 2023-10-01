@@ -160,20 +160,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a22e108f892f8558",
   "lastOpenFiles": [
+    "Chimie/attachments/Structure de l'atome 2023-10-01 18.09.03.excalidraw.md",
+    "Chimie/attachments/Structure de l'atome 2023-10-01 18.09.03.excalidraw.light.svg",
+    "Chimie/Structure de l'atome.md",
+    "Chimie/attachments/Structure de l'atome 2023-10-01 18.09.03.excalidraw.dark.svg",
     "index.md",
     "Physique/Unités et Dimensions.md",
     "Physique/Incertitudes et chiffres significatifs.md",
     "Physique/Démarche scientifique.md",
     "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
     "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
-    "Chimie/Structure de l'atome.md",
-    "Chimie/attachments/Structure de l'atome 2023-10-01 18.09.03.excalidraw.md",
     "Chimie/attachments/Structure de l'atome 2023-10-01 17.34.20.excalidraw.md",
     "Chimie",
     "Test.md",
