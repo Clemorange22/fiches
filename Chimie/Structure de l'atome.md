@@ -13,8 +13,8 @@ La nature de la lumière est double : elle est à la fois une **onde** et **corp
 $\nu=\frac{1}{T}$
 avec $T$ la **période** en secondes
 
-![[Structure de l'atome 2023-10-01 17.34.20.excalidraw.light.svg]]
-%%[[Structure de l'atome 2023-10-01 17.34.20.excalidraw|🖋 Edit in Excalidraw]], and the [[Structure de l'atome 2023-10-01 17.34.20.excalidraw.dark.svg|dark exported image]]%%
+![[Structure de l'atome periode.excalidraw.light.svg]]
+%%[[Structure de l'atome periode.excalidraw|🖋 Edit in Excalidraw]], and the [[Structure de l'atome periode.excalidraw.dark.svg|dark exported image]]%%
 
 $C$ : vitesse de la lumière $= 3.10^8\ m.s^{-1}$
 
@@ -38,8 +38,8 @@ $1\ eV=1.6 \times 10^{-19}\ J$
 Si une particule est accélérée sous 3 volts, son énergie vaut 3 $eV$
 ### Modèle de Bohr (Hydrogène/Hydrogènoïdes)
 #### 2 types de spectroscopie
-![[Structure de l'atome 2023-10-01 18.09.03.excalidraw.light.svg]]
-%%[[Structure de l'atome 2023-10-01 18.09.03.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Structure de l'atome 2023-10-01 18.09.03.excalidraw.dark.svg|dark exported image]]%%
+![[Structure de l'atome grotrian.excalidraw.light.svg]]
+%%[[Structure de l'atome grotrian.excalidraw|🖋 Edit in Excalidraw]], and the [[Structure de l'atome grotrian.excalidraw.dark.svg|dark exported image]]%%
 #### Absorption
 Au repos, l'électron est sur son niveau fondamental $n=1$
 Quand il reçoit un rayonnement, il absorbe les photons dont le niveau d'énergie correspond à ce qui lui manque pour atteindre un niveau supérieur.
