@@ -37,7 +37,7 @@ $1\ eV=1.6 \times 10^{-19}\ J$
 
 Si une particule est accélérée sous 3 volts, son énergie vaut 3 $eV$
 ### Modèle de Bohr (Hydrogène/Hydrogènoïdes)
-### 2 types de spectroscopie
+#### 2 types de spectroscopie
 ![[Structure de l'atome 2023-10-01 18.09.03.excalidraw.light.svg]]
 %%[[Structure de l'atome 2023-10-01 18.09.03.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Structure de l'atome 2023-10-01 18.09.03.excalidraw.dark.svg|dark exported image]]%%
 #### Absorption
@@ -51,5 +51,56 @@ Certaines longueurs d'ondes bien précises sont alors absorbées car $E=h\nu=\fr
 
 #### Émission
 Lorsqu'un électron ne reçoit plus d'énergie, il se désexcite. Son niveau d'énergie baisse et il émet des photons correspondants à la différence d'énergie entre les niveaux qu'il atteint successivement
-
+#### Formules
 Pour l'hydrogène :
+$\frac{1}{\lambda}=R_{H}\left( \frac{1}{n_{1}^{2}}-\frac{1}{n_{2}^2} \right)$
+Avec :
+* $R_{H}$ une constante $R_{H}= 1096677.58\ cm^{-1}$
+* $n_{1}$ le niveau le plus faible
+* $n_{2}$ le niveau le plus grand
+
+**Séries d'émission**
+
+|Niveau d'arrivée|1|2|3|4|...|
+|--|--|--|--|--|--|
+|Série de|Lyman|Balmer|Pashen|Brackett|...|
+|Domaine des ondes émises|Ultraviolets|Visible|Infrarouges|||
+
+Pour chaque série, il existe une :
+* **raie de tête** pour $n_{1}=n_{2}+1$ 
+    * Correspond à la **plus grande** longueur d'onde de la série
+* **raie limite** pour $n_{2}\rightarrow +\infty$
+    * Correspond à la **plus petite** longueur d'onde de la série
+
+Pour les hydrogènoïdes :
+$\frac{1}{\lambda}=Z^2R_{X}\left( \frac{1}{n_{1}^{2}}-\frac{1}{n_{2}^2} \right)$
+avec $Z$ le n° atomique
+
+#### Problème de modèle de Bohr
+Il ne prend pas en compte la structure des atomes ayant plusieurs électrons sur leur couche de valence
+
+### Modèle ondulatoire de l'atome
+À toute particule de masse $m$ et de vitesse $v$, on peut associer une longueur d'onde $\lambda$
+
+$\lambda=\frac{h}{m.v}$
+
+Un objet quantique, comme l'électron, peut adopter l'état d'onde ou de corpuscule
+
+#### Nombres quantiques
+
+$n$ : nombre quantique principal = n° de la couche électronique
+$n \geq 1$
+
+$l$ : nombre quantique secondaire  = n° de la sous-couche
+$0\leq l \leq n-1$
+$l$ caractérise la façon dont l'électron bouge dans l'espace cad. la forme des orbitales
+
+$m_{l}$ : nombre quantique magnétique = n° de la "case"
+$-l\leq m_{i}\leq l$
+
+$m_{s}$ : nombre quantique magnétique de spin
+$m_{s}=\pm \frac{1}{2}$
+
+
+$j$ : couplage spin/orbite
+$j=l+m_{s}$
