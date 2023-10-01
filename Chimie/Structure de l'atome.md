@@ -13,7 +13,7 @@ La nature de la lumière est double : elle est à la fois une **onde** et **corp
 $\nu=\frac{1}{T}$
 avec $T$ la **période** en secondes
 
-![[Structure de l'atome periode.excalidraw]]
+![[Structure de l'atome periode.excalidraw.svg]]
 
 $C$ : vitesse de la lumière $= 3.10^8\ m.s^{-1}$
 
