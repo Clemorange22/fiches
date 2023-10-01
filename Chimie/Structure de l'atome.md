@@ -37,4 +37,19 @@ $1\ eV=1.6 \times 10^{-19}\ J$
 
 Si une particule est accélérée sous 3 volts, son énergie vaut 3 $eV$
 ### Modèle de Bohr (Hydrogène/Hydrogènoïdes)
+### 2 types de spectroscopie
+![[Structure de l'atome 2023-10-01 18.09.03.excalidraw.light.svg]]
+%%[[Structure de l'atome 2023-10-01 18.09.03.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Structure de l'atome 2023-10-01 18.09.03.excalidraw.dark.svg|dark exported image]]%%
+#### Absorption
+Au repos, l'électron est sur son niveau fondamental $n=1$
+Quand il reçoit un rayonnement, il absorbe les photons dont le niveau d'énergie correspond à ce qui lui manque pour atteindre un niveau supérieur.
 
+```ad-info
+Certaines longueurs d'ondes bien précises sont alors absorbées car $E=h\nu=\frac{hC}{\lambda}$
+
+```
+
+#### Émission
+Lorsqu'un électron ne reçoit plus d'énergie, il se désexcite. Son niveau d'énergie baisse et il émet des photons correspondants à la différence d'énergie entre les niveaux qu'il atteint successivement
+
+Pour l'hydrogène :
