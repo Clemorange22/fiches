@@ -15,7 +15,7 @@ Une incertitude doit être **cohérente**
 ```ad-example
 $R=(10.2\pm0.2)\ \Omega$ : Incertitude trop grande par rapport à la précison du résultat
 
-$R=(10.1\pm1)\ \Omega$ : Incertitude cohérente
+$R=(10\pm1)\ \Omega$ : Incertitude cohérente
 ```
 
 ### Estimation de l'incertitude
