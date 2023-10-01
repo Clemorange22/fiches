@@ -14,7 +14,7 @@ $\nu=\frac{1}{T}$
 avec $T$ la **période** en secondes
 
 ![[Structure de l'atome 2023-10-01 17.34.20.excalidraw.light.svg]]
-%%[[Structure de l'atome 2023-10-01 17.34.20.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Structure de l'atome 2023-10-01 17.34.20.excalidraw.dark.svg|dark exported image]]%%
+%%[[Structure de l'atome 2023-10-01 17.34.20.excalidraw|🖋 Edit in Excalidraw]], and the [[Structure de l'atome 2023-10-01 17.34.20.excalidraw.dark.svg|dark exported image]]%%
 
 $C$ : vitesse de la lumière $= 3.10^8\ m.s^{-1}$
 
@@ -35,5 +35,6 @@ $h=6.62\times10^{-34}\ J.s$
 L'électronvolt $eV$
 $1\ eV=1.6 \times 10^{-19}\ J$
 
+Si une particule est accélérée sous 3 volts, son énergie vaut 3 $eV$
 ### Modèle de Bohr (Hydrogène/Hydrogènoïdes)
 
