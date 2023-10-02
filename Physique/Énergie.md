@@ -22,3 +22,5 @@ $E_{m}=E_{c}+E_{p}=Const$
 
 **Puissance :** Énergie par unité de temps
 cf [[Unités et Dimensions]]
+
+$E=\int_{t_{1}}^{t_{2}} \, p(t) dt$
