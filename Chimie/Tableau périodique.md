@@ -25,6 +25,7 @@ Gazs rares :
 Les autres atomes ne sont pas stables, 
 ils ont tendance à perdre ou gagner des électrons pour que leur couche de valence soit saturée
 
-
+Quand $n_{electrons\ valence}\leq n_{periode}$ l'atome est un métal
+ 
 [[Tableau périodique des éléments.svg]]
 
