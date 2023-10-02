@@ -53,6 +53,7 @@ $\rightarrow$ Estimation de $\Delta G$
 	* $\Delta g = \frac{g_{max}-g_{min}}{2}$
 * Propagation
 * Différentielle
+	* $\Delta g=\sqrt{\sum_{i=1}^{N}{\left( \frac{\partial f}{\partial x_{i}} \right)^2(\Delta x_{i})^2}}$
 
 ```ad-caution
 Les incertitudes s'**additionnent** et **ne se compensent pas**
