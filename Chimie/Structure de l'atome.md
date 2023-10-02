@@ -113,5 +113,15 @@ Chaque électron possède des nombres quantiques différents
 
 #### Règles de Klechkowski
 Remplissage avec $n+l$ croissant
-![[Structure de l'atome 2023-10-02 09.15.37.excalidraw.svg]]
+![[Structure de l'atome remplissage.excalidraw.svg]]
 %%[[Structure de l'atome 2023-10-02 09.15.37.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Structure de l'atome 2023-10-02 09.15.37.excalidraw.dark.svg|dark exported image]]%%
+
+Exceptions : 
+* Chrome Cr
+* Cuivre Cu
+on remplit 3d avant 4s
+
+#### Règles de Hund
+Les électrons occupent d'abord toutes les orbitales (cases quantiques) avant de s'apparier car cela leur coûte de l'énergie
+
+
