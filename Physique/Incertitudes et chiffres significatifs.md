@@ -36,6 +36,10 @@ $R=(10\pm1)\ \Omega$ : Incertitude cohérente
 	* Écart type $s$
 	* Incertitude $u=\Delta X=k\frac{s}{\sqrt{n}}$
 
+|Valeur de **k**|1|2|3|
+|--|--|--|--|
+|Niveau de confiance|68,3%|95% | 99,8%|
+
 **Solution :** Estimation de $\Delta G \ \rightarrow$ Correction
 
 #### Mesures indirectes
