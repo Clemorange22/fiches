@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimie/Tableau périodique.md",
+                "file": "Chimie/Structure de l'atome.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimie/Tableau périodique.md",
+                "file": "Chimie/Structure de l'atome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimie/Tableau périodique.md",
+                "file": "Chimie/Structure de l'atome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimie/Tableau périodique.md"
+                "file": "Chimie/Structure de l'atome.md"
               }
             }
           },
@@ -158,11 +158,12 @@
   },
   "active": "01f843aa1dc105f5",
   "lastOpenFiles": [
+    "Chimie/Tableau périodique.md",
+    "Physique/Unités et Dimensions.md",
     "html/chimie/attachments/structure-de-l'atome-remplissage.excalidraw.svg",
     "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
     "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
     "Chimie/Structure de l'atome.md",
-    "Chimie/Tableau périodique.md",
     "Chimie/attachments/Structure de l'atome 2023-10-02 09.15.37.excalidraw.md",
     "Chimie/attachments/Structure de l'atome 2023-10-02 09.15.37.excalidraw.svg",
     "Chimie/attachments/Tableau périodique des éléments.svg",
@@ -171,7 +172,6 @@
     "Chimie/attachments/Structure de l'atome remplissage.excalidraw.svg",
     "Physique/Énergie.md",
     "index.md",
-    "Physique/Unités et Dimensions.md",
     "Physique/Incertitudes et chiffres significatifs.md",
     "Physique/Démarche scientifique.md",
     "Chimie/attachments/Structure de l'atome 2023-10-01 18.09.03.excalidraw.md",
@@ -187,7 +187,6 @@
     "Physique",
     "html/index.html",
     "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.light.svg",
-    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.dark.svg",
     "Excalidraw",
     "2023-09-27.md"
   ]
