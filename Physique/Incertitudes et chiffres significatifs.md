@@ -34,7 +34,7 @@ $R=(10\pm1)\ \Omega$ : Incertitude cohérente
 	* Historigramme des résultats
 	* Moyenne
 	* Écart type $s$
-	* Incertitude $u=\Delta X=k\frac{s}{\sqrt{n}}$
+	* Incertitude type $u=\Delta X=k\frac{s}{\sqrt{n}}$
 
 |Valeur de **k**|1|2|3|
 |--|--|--|--|
