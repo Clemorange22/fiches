@@ -45,7 +45,13 @@ $R=(10\pm1)\ \Omega$ : Incertitude cohérente
 #### Mesures indirectes
 
 $G=f(X,Y,Z,\cdots)$
-Mesure de $G$ liée aux mesures
+Mesure de $G$ liée aux mesures directes de $X$,$Y$,$Z$ par une loi de dépendance
+
+**Solution :** Estimation de $\Delta X$, $\Delta Y$, $\Delta Z$
+$\rightarrow$ Estimation de $\Delta G$
+* Encadrement
+* Propagation
+* Différentielle
 
 Les incertitudes s'**additionnent** et **ne se compensent pas**
 
