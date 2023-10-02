@@ -50,8 +50,11 @@ Mesure de $G$ liée aux mesures directes de $X$,$Y$,$Z$ par une loi de dépendan
 **Solution :** Estimation de $\Delta X$, $\Delta Y$, $\Delta Z$
 $\rightarrow$ Estimation de $\Delta G$
 * Encadrement
+	* $\Delta g = \frac{g_{max}-g_{min}}{2}$
 * Propagation
 * Différentielle
 
+```ad-caution
 Les incertitudes s'**additionnent** et **ne se compensent pas**
+```
 
