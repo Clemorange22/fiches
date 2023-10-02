@@ -74,7 +74,7 @@ Pour chaque série, il existe une :
 Pour les hydrogènoïdes :
 $\frac{1}{\lambda}=Z^2R_{X}\left( \frac{1}{n_{1}^{2}}-\frac{1}{n_{2}^2} \right)$
 avec $Z$ le n° atomique
-
+et $R_{X}$ l'énergie d'ionisation de l'atome
 #### Problème de modèle de Bohr
 Il ne prend pas en compte la structure des atomes ayant plusieurs électrons sur leur couche de valence
 
@@ -85,17 +85,21 @@ $\lambda=\frac{h}{m.v}$
 
 Un objet quantique, comme l'électron, peut adopter l'état d'onde ou de corpuscule
 
+$E_{n}=-\frac{E_{X}Z_{eff}^2}{n^2}$
+avec $Z_{eff}$ la charge nucléaire effective
 #### Nombres quantiques
 
 $n$ : nombre quantique principal = n° de la couche électronique
 $n \geq 1$
 
 $l$ : nombre quantique secondaire  = n° de la sous-couche
-$0\leq l \leq n-1$
+$0\leq l \leq n-1$ 
 $l$ caractérise la façon dont l'électron bouge dans l'espace cad. la forme des orbitales
+Sous-couches : spdf
 
 $m_{l}$ : nombre quantique magnétique = n° de la "case"
-$-l\leq m_{i}\leq l$
+$-l\leq m_{l}\leq l$
+Il y a donc $2l+1$ valeurs de  $m_{l}$ pour une valeur $l$ donnée
 
 $m_{s}$ : nombre quantique magnétique de spin
 $m_{s}=\pm \frac{1}{2}$
@@ -103,3 +107,11 @@ $m_{s}=\pm \frac{1}{2}$
 
 $j$ : couplage spin/orbite
 $j=l+m_{s}$
+
+#### Principe de Pauli
+Chaque électron possède des nombres quantiques différents
+
+#### Règles de Klechkowski
+Remplissage avec $n+l$ croissant
+![[Structure de l'atome 2023-10-02 09.15.37.excalidraw.svg]]
+%%[[Structure de l'atome 2023-10-02 09.15.37.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Structure de l'atome 2023-10-02 09.15.37.excalidraw.dark.svg|dark exported image]]%%
