@@ -42,7 +42,7 @@ Il peut être :
 |Charge électrique|$Q=I.t$|$I.T$|Coulomb|
 |Densité surfacique|$\sigma=\frac{Q}{S}$|$L^{-2}IT$|Coulomb/$m^2$
 |Force|$\vec{F}=m\vec{a}$|$MLT^{-2}$|Newton|
-|Énergie|$E_{c}=\frac{1}{2}mv^2$|$ML^2T^{-2}$|Jouls|
+|Énergie|$E_{c}=\frac{1}{2}mv^2$|$ML^2T^{-2}$|Joules|
 |Puissance|$P=\frac{\Delta E}{\Delta t}$|$ML^2T^{-3}$|Watt|
 |Tension électrique|$U=\frac{E}{Q}$|$ML^2T^{-3}I^{-1}$|Volt|
 |Résistance électrique|$R=\frac{U}{I}$|$ML^2T^{-3}I^{-2}$|Ohm|
