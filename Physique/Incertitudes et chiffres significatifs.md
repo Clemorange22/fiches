@@ -33,7 +33,7 @@ $R=(10\pm1)\ \Omega$ : Incertitude cohérente
 * Type **A** : $n$ mesures $\rightarrow$ Traitement *statistique*
 	* Historigramme des résultats
 	* Moyenne
-	* Écart type $s$
+	* Écart type $\sigma$
 	* Incertitude type $u=\Delta X=k\frac{s}{\sqrt{n}}$
 
 |Valeur de **k**|1|2|3|
