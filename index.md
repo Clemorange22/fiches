@@ -9,4 +9,5 @@ Bienvenue sur le sommaire des fiches $\alpha$ !
 * [[Énergie]]
 ## Chimie
 * [[Structure de l'atome]]
+* [[Tableau périodique]]
 
