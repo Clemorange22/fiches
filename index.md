@@ -7,6 +7,7 @@ Bienvenue sur le sommaire des fiches $\alpha$ !
 * [[Unités et Dimensions]]
 * [[Incertitudes et chiffres significatifs]]
 * [[Énergie]]
+* [[Électrocinétique]]
 ## Chimie
 * [[Structure de l'atome]]
 * [[Tableau périodique]]
