@@ -49,11 +49,26 @@ Tension dans le sens opposé du courant
 * ne passe pas par l'origine pour un dipôle actif
 
 Conductance $G=\frac{1}{R}$
-unité : siemens/mho
+unité : siemer/mho
 
-Résistance
+### Résistance
 Effet joule : $E_{perdue}=Ri^{2}$
 
 Résistances en série : $R=R_{1}+R_{2}+R_{3}$
 
 Résistances en parallèle : $\frac{1}{R}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}}$
+
+```ad-note
+Procéder par étape lors des calculs de résistance
+```
+
+**Transfigurer le réseau :** Modifier représentation d'un réseau électrique
+
+### Condensateur
+
+$i(t)=C\frac{\mathrm{d}u}{\mathrm{d}t}$ (0 quand le courant est continu)
+* Modèle condensateur parfait $\neq$ condensateur réel (résistance)
+
+### Bobine
+
+$u(t)=L\frac{\mathrm{d}i}{\mathrm{d}t}$
