@@ -44,3 +44,16 @@ Tension dans le sens opposé du courant
 	* Variable périodique
 * Transitoire
 
+**Caractéristique :** Lien entre intensité et tension aux bornes d'un dipôle
+* passe par l'origine pour un dipôle passif
+* ne passe pas par l'origine pour un dipôle actif
+
+Conductance $G=\frac{1}{R}$
+unité : siemens/mho
+
+Résistance
+Effet joule : $E_{perdue}=Ri^{2}$
+
+Résistances en série : $R=R_{1}+R_{2}+R_{3}$
+
+Résistances en parallèle : $\frac{1}{R}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}}$
