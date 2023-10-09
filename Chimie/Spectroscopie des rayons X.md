@@ -17,3 +17,10 @@ $\sqrt{ \nu } = a(Z-b)$
 $a$ et $b$ constantes pour toutes les raies d'un même type d'une même série
 $Z$ numéro atomique de l'anticathode
 
+## Absorption des rayons X
+Une partie ou totalité est absorbée par l'échantillon d'épaisseur $x$ 
+Suivant la loi de Beer-Lambert
+$I=I_{0}e^{ -\mu x }$
+$\mu$ coefficient d'absorption
+$I_{0}$ intensité initiale
+
