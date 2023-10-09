@@ -70,5 +70,9 @@ $i(t)=C\frac{\mathrm{d}u}{\mathrm{d}t}$ (0 quand le courant est continu)
 * Modèle condensateur parfait $\neq$ condensateur réel (résistance)
 
 ### Bobine
-
+Bobine parfaite
 $u(t)=L\frac{\mathrm{d}i}{\mathrm{d}t}$
+L : inductance en Henry (H)
+Bobine réelle
+$u(t)=L\frac{\mathrm{d}i}{\mathrm{d}t}+Ri(t)$
+
