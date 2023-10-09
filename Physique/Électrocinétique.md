@@ -32,3 +32,15 @@ nathalie.godin
 Branchement en série $\implies$ Même intensité
 Branchement en dérivation $\implies$ Même tension
 
+Loi des mailles : $\Sigma$ tensions $= 0$
+
+**Représentation du courant et de la tension :**
+Convention récepteur :
+Tension dans le sens opposé du courant
+
+### Différents régimes
+* Continue
+* Variable
+	* Variable périodique
+* Transitoire
+
