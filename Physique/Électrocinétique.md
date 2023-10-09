@@ -28,6 +28,7 @@ nathalie.godin
 
 * Source de courant
 * Source de tension
+    * Même si $I$ = 0 A
 
 Branchement en série $\implies$ Même intensité
 Branchement en dérivation $\implies$ Même tension
@@ -71,8 +72,10 @@ $i(t)=C\frac{\mathrm{d}u}{\mathrm{d}t}$ (0 quand le courant est continu)
 
 ### Bobine
 Bobine parfaite
-$u(t)=L\frac{\mathrm{d}i}{\mathrm{d}t}$
+$u(t)=L\frac{\mathrm{d}i }{\mathrm{d}t}$
 L : inductance en Henry (H)
 Bobine réelle
 $u(t)=L\frac{\mathrm{d}i}{\mathrm{d}t}+Ri(t)$
+
+$\vec{E}$ : force électromotrice (tension en V)
 
