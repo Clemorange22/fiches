@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Électrocinétique.md",
+                "file": "Physique/Unités et Dimensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique/Électrocinétique.md",
+                "file": "Physique/Unités et Dimensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique/Électrocinétique.md"
+                "file": "Physique/Unités et Dimensions.md"
               }
             }
           },
@@ -168,8 +168,58 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01f843aa1dc105f5",
+  "floating": {
+    "id": "37c8bd3e8fd84bcb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "aa01b5e7bcbc4119",
+        "type": "window",
+        "children": [
+          {
+            "id": "10dc6e137ce99367",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c7dab85081b343a0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Physique/Unités et Dimensions.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 302,
+        "y": 477,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c7dab85081b343a0",
   "lastOpenFiles": [
+    "Physique/Incertitudes et chiffres significatifs.md",
+    "Physique/Énergie.md",
+    "Physique/Électrocinétique.md",
+    "Physique/Démarche scientifique.md",
+    "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
+    "Chimie/Tableau périodique.md",
+    "Chimie/Structure de l'atome.md",
+    "Chimie/Spectroscopie des rayons X.md",
+    "Chimie/Propriétés des atomes.md",
+    "Chimie/attachments/Structure de l'atome periode.excalidraw.md",
+    "Chimie/attachments/Structure de l'atome grotrian.excalidraw.md",
+    "Chimie/attachments/Structure de l'atome 2023-10-02 09.15.37.excalidraw.md",
     "Physique/attachments/Pasted image 20231013135542.png",
     "Physique/attachments/Pasted image 20231013134208.png",
     "Physique/attachments/Pasted image 20231013134138.png",
@@ -180,20 +230,8 @@
     "Physique/attachments/Pasted image 20231013133933.png",
     "Physique/attachments/Pasted image 20231013133925.png",
     "Physique/attachments/Pasted image 20231013133854.png",
-    "Physique/Électrocinétique.md",
-    "Physique/attachments/Pasted image 20231013133842.png",
     "Physique/attachments",
     "Physique/Unités et Dimensions.md",
-    "Physique/Incertitudes et chiffres significatifs.md",
-    "Physique/Énergie.md",
-    "Physique/Démarche scientifique.md",
-    "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
-    "Chimie/Tableau périodique.md",
-    "Chimie/Structure de l'atome.md",
-    "Chimie/attachments/Structure de l'atome periode.excalidraw.md",
-    "Chimie/attachments/Structure de l'atome grotrian.excalidraw.md",
-    "Chimie/attachments/Structure de l'atome 2023-10-02 09.15.37.excalidraw.md",
     "index.md",
     "Physique/Untitled",
     "Excalidraw/Drawing 2023-10-02 09.24.30.excalidraw.md",
