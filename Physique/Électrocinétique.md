@@ -28,6 +28,9 @@ nathalie.godin
 |--|--|
 |![[Pasted image 20231013134138.png]]|![[Pasted image 20231013134208.png]]|
 ||*On peut avoir une tension non nulle même si $I=0$ A*|
+||*Pour une source, la tension est orientée du - vers le +*|
+|Quand éteinte, équivaut à un interrupteur ouvert|Quand éteinte, équivaut à un fils
+
 
 
 
@@ -80,4 +83,33 @@ Bobine réelle
 $u(t)=L\frac{\mathrm{d}i}{\mathrm{d}t}+Ri(t)$
 
 $\vec{E}$ : force électromotrice (tension en V)
+
+### Puissance électrique disponible dans une portion de circuit
+$P=UI$
+
+**En convention récepteur :**
+$P>0 \implies$ Le dipôle est récepteur
+$P<0 \implies$ Le dipôle est émetteur
+
+### Association de générateurs
+#### En série
+$E$ : force électro-motrice = tension aux bornes d'un générateur
+$P_{totale} = P_{1} + P_{2}+P_{3}+\dots+P_{k}=(E_{1}+E_{2}+E_{3}+\dots+E_{k})I$
+$E=\sum_{k=0}^{n}E_{k}$
+
+#### En parallèle
+
+$\frac{1}{R_{e}}=\sum_{i}R_{i}$
+$\frac{E_{e}}{R_{e}}=\sum_{i}\frac{E_{i}}{R_{i}}$
+
+### Représentation d'un générateur
+Même tension à vide
+Même résistance
+#### Thévenin
+![[Pasted image 20231013154436.png]]
+#### Norton
+![[Pasted image 20231013154447.png]]
+$E_{th}=RI_{n}$
+$R_{th}=R_{n}$
+
 
