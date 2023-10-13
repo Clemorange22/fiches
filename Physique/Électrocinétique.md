@@ -13,26 +13,16 @@ nathalie.godin
 
 **Fils de connexion :** Fil conducteur dont la résistance est négligeable
 
-* **Fil**
-![[Pasted image 20231013133810.png]]
-* **Noeuds**
-![[Pasted image 20231013133831.png]]
-* **Croisement** (sans noeud)
-![[Pasted image 20231013133842.png]]
+|Fil|Noeuds|Croisement (sans noeud)|
+|--|--|--|
+|![[Pasted image 20231013133810.png]]|![[Pasted image 20231013133831.png]]|![[Pasted image 20231013133842.png]]|
+
 ### Dipôles passifs
 
-* **Résistance**
-![[Pasted image 20231013133925.png]]
-* **Capacité**
-![[Pasted image 20231013133933.png]]
-* **Inductance**
-![[Pasted image 20231013133941.png]]
-* **Résistance variable**
-![[Pasted image 20231013134024.png]]
-* **Interrupteur**
-![[Pasted image 20231013134035.png]]
-* **Lampe**
-![[Pasted image 20231013134045.png]]
+|Résistance|Capacité|Inductance|Résistance variable|Interrupteur|Lampe|
+|--|--|-|-|-|-|
+|![[Pasted image 20231013133925.png]]|![[Pasted image 20231013133933.png]]|![[Pasted image 20231013133941.png]] |![[Pasted image 20231013134024.png]]|![[Pasted image 20231013134035.png]]|![[Pasted image 20231013134045.png]]|
+
 ### Dipôles actifs
 |Source de courant|Source de tension|
 |--|--|
@@ -47,14 +37,15 @@ Branchement en dérivation $\implies$ Même tension
 Loi des mailles : $\Sigma$ tensions $= 0$
 
 **Représentation du courant et de la tension :**
-Convention récepteur :
+**Convention récepteur :**
+![[Pasted image 20231013135542.png]]
 Tension dans le sens opposé du courant
 
 ### Différents régimes
 * Continue
 * Variable
 	* Variable périodique
-* Transitoire
+* Transitoire (correspond au démarrage d'un système)
 
 **Caractéristique :** Lien entre intensité et tension aux bornes d'un dipôle
 * passe par l'origine pour un dipôle passif
