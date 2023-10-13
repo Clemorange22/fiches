@@ -13,22 +13,33 @@ nathalie.godin
 
 **Fils de connexion :** Fil conducteur dont la résistance est négligeable
 
-* Fil
-* Noeuds
-* Croisement (sans noeud)
-### Dipôles passif
+* **Fil**
+![[Pasted image 20231013133810.png]]
+* **Noeuds**
+![[Pasted image 20231013133831.png]]
+* **Croisement** (sans noeud)
+![[Pasted image 20231013133842.png]]
+### Dipôles passifs
 
-* Résistance
-* Capacité
-* Inductance
-* Résistance variable
-* Interrupteur
-* Lampe
+* **Résistance**
+![[Pasted image 20231013133925.png]]
+* **Capacité**
+![[Pasted image 20231013133933.png]]
+* **Inductance**
+![[Pasted image 20231013133941.png]]
+* **Résistance variable**
+![[Pasted image 20231013134024.png]]
+* **Interrupteur**
+![[Pasted image 20231013134035.png]]
+* **Lampe**
+![[Pasted image 20231013134045.png]]
 ### Dipôles actifs
+|Source de courant|Source de tension|
+|--|--|
+|![[Pasted image 20231013134138.png]]|![[Pasted image 20231013134208.png]]|
+||*On peut avoir une tension non nulle même si $I=0$ A*|
 
-* Source de courant
-* Source de tension
-    * Même si $I$ = 0 A
+
 
 Branchement en série $\implies$ Même intensité
 Branchement en dérivation $\implies$ Même tension
