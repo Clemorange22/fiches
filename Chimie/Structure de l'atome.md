@@ -18,6 +18,23 @@ avec $T$ la **période** en secondes
 $C$ : vitesse de la lumière $= 3.10^8\ m.s^{-1}$
 
 $\lambda$ : longueur d'onde
+
+|Type de rayonnement|Domaine|
+|-|-|
+|Rayons $\gamma$|$0$ - $10$ pico|
+|Rayons X|$10$ pico - $10$ nm|
+|Ultras-violets|$10$ nm -$380$ nm
+|Visible|$380$ nm - $780$ nm|
+|Infrarouge|$780$ nm - $1$ mm|
+|Ondes radios|$1$ mm - $+\infty$ |
+
+
+|Couleur|Longueur d'onde|
+|-|-|
+|Violet|380 nm|
+|Bleu|480 nm|
+|Rouge|780 nm|
+
 Lumière visible : $0.4\ \micro m<\lambda<0.8\ \micro m$
 $\lambda=\frac{C}{\nu}$
 Nombre d'onde $\overline{\nu}=\frac{1}{\lambda}\ cm^{-1}$ 

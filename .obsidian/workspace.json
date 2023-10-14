@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Chimie/Corrections exos/Exo 4 spectres du lithium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Chimie/Corrections exos/Exo 4 spectres du lithium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Chimie/Corrections exos/Exo 4 spectres du lithium.md"
               }
             }
           },
@@ -178,45 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "45c14125b6cea926",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ef00e38da5a8c91e",
-        "type": "window",
-        "children": [
-          {
-            "id": "53f0e4f6cdb284d6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "36a745fd3d6347ba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 302,
-        "y": 477,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "36a745fd3d6347ba",
+  "active": "6a6bb1774bbb6ccf",
   "lastOpenFiles": [
+    "Chimie/Structure de l'atome.md",
+    "Chimie/Corrections exos/Exo 4 spectres du lithium.md",
     "Physique/Unités et Dimensions.md",
     "Physique/Incertitudes et chiffres significatifs.md",
     "Physique/Énergie.md",
@@ -225,10 +190,8 @@
     "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
     "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
     "Chimie/Tableau périodique.md",
-    "Chimie/Structure de l'atome.md",
     "Chimie/Spectroscopie des rayons X.md",
     "Chimie/Propriétés des atomes.md",
-    "Chimie/Corrections exos/Exo 4 spectres du lithium.md",
     "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.md",
     "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.md",
     "Chimie/attachments/Structure de l'atome periode.excalidraw.md",
