@@ -21,7 +21,7 @@ On en déduit donc que l'énergie d'ionisation est l'énergie nécessaire pour "
 $E_{ionisation} = \Delta E = E_{\infty} - E_{2s} = 0 -E_{2s}$
 Donc on a :
 $E_{2s} = -E_{ionisation} = -5.39\ eV$
-On peut vérifier cette valeur à l'aide de la longueur d'onde de la raire correspondant à la limite de série.
+On peut vérifier cette valeur à l'aide de la longueur d'onde de la raie correspondant à la limite de série.
 
 Les transitions possibles pour l'électron de valence sont les suivantes car $\Delta l =\pm 1$:
 * 2s $\rightarrow$ 2p
