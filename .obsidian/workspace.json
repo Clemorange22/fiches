@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01f843aa1dc105f5",
+            "id": "6a6bb1774bbb6ccf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +16,6 @@
                 "file": "Chimie/Corrections exos/Exo 4 spectres du lithium.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6a6bb1774bbb6ccf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.md"
               }
             }
           },
@@ -178,14 +168,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01f843aa1dc105f5",
+  "active": "6a6bb1774bbb6ccf",
   "lastOpenFiles": [
-    "Chimie/Corrections exos/attachments/Pasted image 20231014110006.png",
+    "Chimie/Corrections exos/attachments/Pasted image 20231014112036.png",
+    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.md",
+    "Pasted image 20231014103832.png.md",
     "Chimie/Corrections exos/Exo 4 spectres du lithium.md",
     "Chimie/Corrections exos/attachments/Pasted image 20231014103832.png",
+    "Chimie/Corrections exos/attachments/Pasted image 20231014110006.png",
     "Chimie/Corrections exos/attachments/Pasted image 20231014103812.png",
     "Chimie/Propriétés des atomes.md",
-    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.md",
     "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.svg",
     "Chimie/Corrections exos/attachments",
     "Physique/Électrocinétique.md",
