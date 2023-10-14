@@ -37,3 +37,5 @@ $E_{3p}=E_{2s}+\Delta E=-5.39+3.84=-1.55\ eV$
 
 Il nous reste à déterminer l'énergie du niveau 3s, pour cela nous devons utiliser le spectre d'émission
 
+![[Pasted image 20231014113025.png]]
+
