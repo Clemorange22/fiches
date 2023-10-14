@@ -20,11 +20,17 @@ Tout d'abord, on remarque que l'électron de valence du lithium est celui situé
 On en déduit donc que l'énergie d'ionisation est l'énergie nécessaire pour "arracher" cet électron à l'atome
 $E_{ionisation} = \Delta E = E_{\infty} - E_{2s} = -E_{2s}$
 Donc on a :
-$E_{2s} = -E_{ionisation} = -5,39\ eV$
+$E_{2s} = -E_{ionisation} = -5.39\ eV$
 Les transitions possibles pour l'électron de valence sont les suivantes car $\Delta l =\pm 1$:
 * 2s $\rightarrow$ 2p
 * 2s $\rightarrow$ 3p
 * 2s $\rightarrow$ 4p
 Cela correspond au spectre d'absorption représenté ci dessus
 
-
+Donc :
+Pour 2s $\rightarrow$ 2p
+$\Delta E = \frac{hc}{\lambda}=\frac{12400}{6707.85}=1.85\ eV$
+$E_{2p}=E_{2s}+\Delta E=-5.39+1.85=-3.54\ eV$
+Pour 2s $\rightarrow$ 3p
+$\Delta E =\frac{hc}{\lambda}=\frac{12400}{3232.60}=3.84\ eV$
+$E_{}$
