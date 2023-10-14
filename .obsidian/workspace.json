@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "c7e3580ccd934356",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "0994b870c8c8ae74",
             "type": "leaf",
             "state": {
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimie/Corrections exos/Exo 4 spectres du lithium.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimie/Corrections exos/Exo 4 spectres du lithium.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimie/Corrections exos/Exo 4 spectres du lithium.md"
+                "file": "index.md"
               }
             }
           },
@@ -168,40 +178,77 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a6bb1774bbb6ccf",
+  "floating": {
+    "id": "45c14125b6cea926",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ef00e38da5a8c91e",
+        "type": "window",
+        "children": [
+          {
+            "id": "53f0e4f6cdb284d6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "36a745fd3d6347ba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "index.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 302,
+        "y": 477,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "36a745fd3d6347ba",
   "lastOpenFiles": [
-    "Chimie/Corrections exos/attachments/Pasted image 20231014113025.png",
-    "Chimie/Corrections exos/attachments/Pasted image 20231014112036.png",
-    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.md",
-    "Pasted image 20231014103832.png.md",
-    "Chimie/Corrections exos/Exo 4 spectres du lithium.md",
-    "Chimie/Corrections exos/attachments/Pasted image 20231014103832.png",
-    "Chimie/Corrections exos/attachments/Pasted image 20231014110006.png",
-    "Chimie/Corrections exos/attachments/Pasted image 20231014103812.png",
-    "Chimie/Propriétés des atomes.md",
-    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.svg",
-    "Chimie/Corrections exos/attachments",
-    "Physique/Électrocinétique.md",
-    "Chimie/Corrections exos",
-    "Untitled",
+    "Physique/Unités et Dimensions.md",
     "Physique/Incertitudes et chiffres significatifs.md",
     "Physique/Énergie.md",
+    "Physique/Électrocinétique.md",
     "Physique/Démarche scientifique.md",
     "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
     "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
     "Chimie/Tableau périodique.md",
     "Chimie/Structure de l'atome.md",
     "Chimie/Spectroscopie des rayons X.md",
+    "Chimie/Propriétés des atomes.md",
+    "Chimie/Corrections exos/Exo 4 spectres du lithium.md",
+    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.md",
+    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.md",
     "Chimie/attachments/Structure de l'atome periode.excalidraw.md",
     "Chimie/attachments/Structure de l'atome grotrian.excalidraw.md",
     "Chimie/attachments/Structure de l'atome 2023-10-02 09.15.37.excalidraw.md",
+    "Pasted image 20231014103832.png.md",
+    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.svg",
+    "Chimie/Corrections exos/attachments/Pasted image 20231014113025.png",
+    "Chimie/Corrections exos/attachments/Pasted image 20231014112036.png",
+    "Chimie/Corrections exos/attachments/Pasted image 20231014103832.png",
+    "Chimie/Corrections exos/attachments/Pasted image 20231014110006.png",
+    "Chimie/Corrections exos/attachments/Pasted image 20231014103812.png",
+    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.svg",
+    "Chimie/Corrections exos/attachments",
+    "Chimie/Corrections exos",
+    "Untitled",
     "Physique/attachments/Pasted image 20231013135542.png",
     "Physique/attachments/Pasted image 20231013134208.png",
     "Physique/attachments/Pasted image 20231013134138.png",
-    "Physique/attachments/Pasted image 20231013134045.png",
-    "Physique/attachments/Pasted image 20231013134035.png",
     "Physique/attachments",
-    "Physique/Unités et Dimensions.md",
     "index.md",
     "Physique/Untitled",
     "Excalidraw/Drawing 2023-10-02 09.24.30.excalidraw.md",
@@ -213,7 +260,6 @@
     "Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.dark.svg.md",
     "Physique",
     "html/index.html",
-    "Excalidraw",
-    "2023-09-27.md"
+    "Excalidraw"
   ]
 }

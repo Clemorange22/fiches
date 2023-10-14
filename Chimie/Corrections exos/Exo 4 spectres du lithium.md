@@ -39,3 +39,19 @@ Il nous reste à déterminer l'énergie du niveau 3s, pour cela nous devons util
 
 ![[Pasted image 20231014113025.png]]
 
+L'excitation d'un électron du niveau 2s par des électrons d’énergie égale à 3,84 eV le conduit au niveau 3p comme vu précedemment.
+Listons les transitions possibles de 3p à 2s en émission avec $\Delta l= \pm 1$
+* 3p $\rightarrow$ 3s $\rightarrow$ 2p $\rightarrow$ 2s
+* 3p $\rightarrow$ 2s
+On sait déjà que les 2 raies de gauches corespondent respectivement aux transitions 3p $\rightarrow$ 2s et 2p $\rightarrow$ 2s
+Parmi les deux raies de droites se trouvent donc les transitions 3p $\rightarrow$ 3s et 3s $\rightarrow$ 2p
+Il est précisé dans la consigne que "le niveau 3S est plus proche énergétiquement du niveau 3P que du niveau 2P".
+On en déduit que la transition 3p $\rightarrow$ 3s a une différence d'énergie plus faible que la transition 3s $\rightarrow$ 2p, c'est à dire que la transition 3p $\rightarrow$ 3s a une longueur d'onde plus élevée.
+Cette transition émet d'onde un rayonnement de longueur d'onde $\lambda=26955.54$ Angstrom
+$\Delta E=\frac{hc}{\lambda}=\frac{12400}{26955.54}=0.46\ eV$
+$E_{3s}=E_{3p}-\Delta E=-1.55-0.46=-2.01\ eV$
+
+###### ii) Représentez sur le diagramme les transitions correspondant aux raies observées dans les spectres d’absorption et d’émission donnés ci-après.
+
+![[Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.svg]]
+%%[[Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.dark.svg|dark exported image]]%%
