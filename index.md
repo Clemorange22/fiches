@@ -10,7 +10,7 @@ Bienvenue sur le sommaire des fiches $\alpha$ !
 * [[Électrocinétique]]
 * [[Régimes transitoires]]
 ## Chimie
-* [[Structure de l'atome]]
-* [[Tableau périodique]]
-* [[Propriétés des atomes]]
-* [[Spectroscopie des rayons X]]
+* [[I - IV - Structure de l'atome]]
+* [[V - Tableau périodique]]
+* [[VI - Propriétés des atomes]]
+* [[VII - Spectroscopie des rayons X]]
