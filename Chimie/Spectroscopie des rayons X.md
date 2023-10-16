@@ -21,6 +21,16 @@ $Z$ numéro atomique de l'anticathode
 Une partie ou totalité est absorbée par l'échantillon d'épaisseur $x$ 
 Suivant la loi de Beer-Lambert
 $I=I_{0}e^{ -\mu x }$
-$\mu$ coefficient d'absorption
+$\mu$ coefficient d'absorption linéique
 $I_{0}$ intensité initiale
 
+$\mu=\mu ' \rho$
+$\mu$ coefficient d'absorption massique
+$\rho$ masse volumique
+
+
+Les caractéristiques d'absorption des rayons X peuvent servir de **filtre** et monochromatiser (=ne garder qu'une seule $\lambda$ ) $\implies$ setup expériemental
+
+
+$\lambda_{K-M}<\lambda K<\lambda_{K-L}$
+anticathode - filtre - anticathode
