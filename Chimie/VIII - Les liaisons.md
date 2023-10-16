@@ -18,3 +18,17 @@
 * double 
 * triple
 
+**Limites du modèle de Lewis :**
+L'apparition de sous-couches à partir de $n=3$ permet de considérer de nouveaux états de valence
+Ex : Phosphore a 10 électrons de valence au lieu de 8
+
+**Géométrie d'une molécule dépend de :**
+- répulsion e⁻/e⁻
+- répuslsion noyau/noyau
+- répuslsion e⁻/noyau
+- énergie cinétique des e⁻
+
+Forne des molécules dépend du nombre de doublets
+
+
+
