@@ -8,7 +8,9 @@ Bienvenue sur le sommaire des fiches $\alpha$ !
 * [[Incertitudes et chiffres significatifs]]
 * [[Énergie]]
 * [[Électrocinétique]]
+* [[Régimes transitoires]]
 ## Chimie
 * [[Structure de l'atome]]
 * [[Tableau périodique]]
-
+* [[Propriétés des atomes]]
+* [[Spectroscopie des rayons X]]

@@ -2,7 +2,7 @@ nathalie.godin
 
 ## Les composants
 
-**Dipôle :** composant avec 2 bornes
+**Dipôle :** composant avec 2 bornes : générateur ou récepteur
 **Noeud :** Jonction entre au moins 3 fils
 
 **Branche :** Ensemble de dipôles montés en série entre 2 noeud
@@ -30,6 +30,8 @@ nathalie.godin
 ||*On peut avoir une tension non nulle même si $I=0$ A*|
 ||*Pour une source, la tension est orientée du - vers le +*|
 |Quand éteinte, équivaut à un interrupteur ouvert|Quand éteinte, équivaut à un fils
+Peut être électromoteur ou contre-électromoteur
+
 
 
 
