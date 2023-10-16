@@ -95,7 +95,7 @@ $P=UI$
 $P>0 \implies$ Le dipôle est récepteur
 $P<0 \implies$ Le dipôle est émetteur
 
-### Association de générateurs
+### Association de générateurs (théorème de millman)
 #### En série
 $E$ : force électro-motrice = tension aux bornes d'un générateur
 $P_{totale} = P_{1} + P_{2}+P_{3}+\dots+P_{k}=(E_{1}+E_{2}+E_{3}+\dots+E_{k})I$
