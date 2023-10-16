@@ -38,6 +38,8 @@ Branchement en série $\implies$ Même intensité
 Branchement en dérivation $\implies$ Même tension
 
 Loi des mailles : $\Sigma$ tensions $= 0$
+Loi des noeuds : Intensités d'entrée = Intensités de sortie
+
 
 **Représentation du courant et de la tension :**
 **Convention récepteur :**
