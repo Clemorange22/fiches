@@ -1,6 +1,6 @@
 
 ## Rayon atomique
-r
+$r\propto $
 ## Énergie de ionisation
 $E_{i}$ augmente le long d'une période de gauche à droite car à $n$ donné, $Z_{eff}$ augmente
 
