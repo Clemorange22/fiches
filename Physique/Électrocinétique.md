@@ -121,3 +121,7 @@ $I_{totale}=\sum I_{source}$
 ```ad-note
 Permet de simplifier la représentation d'un ensemble de générateurs en le remplaçant par un générateur de thévenin équivalent
 ```
+
+1. Définir la partie du circuit que l'on veut remplacer
+2. Calculer la résistance à l'état passif de notre partie du circuit et l'utiliser comme résistance pour le générateur de thévenin
+3. Calculer tension à vide aux bornes de la partie du circuit étudiée $\rightarrow$ Force électromotrice $\vec{E}$ du générateur de thévenin
