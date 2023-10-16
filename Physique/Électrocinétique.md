@@ -116,3 +116,8 @@ $R_{th}=R_{n}$
 **Principe de superposition**
 $I_{totale}=\sum I_{source}$
 
+### Théorème de Thévenin
+
+```ad-note
+Permet de simplifier la représentation d'un ensemble de générateurs en le remplaçant par un générateur de thévenin équivalent
+```
