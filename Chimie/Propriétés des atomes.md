@@ -8,7 +8,8 @@ $E_{i}$ diminue à l'intérieur d'un groupe car quand $n$ augmente, les électro
 ### Exceptions
 
 $E_{i}(B)<E_{i}(Be)$ car B : 1s² 2s² 2p¹ et Be 1s² 2s²
-gpaskompri
+
+Les électrons non appariés et/ou seul sur une couche d'énergie plus élevée ont besoin de moins d'énergie pour échapper à l'attraction de l'atome
 
 ## Électronégativité
 
