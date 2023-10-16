@@ -99,7 +99,7 @@ $E=\sum_{k=0}^{n}E_{k}$
 
 #### En parallèle
 
-$\frac{1}{R_{e}}=\sum_{i}R_{i}$
+$\frac{1}{R_{e}}=\sum_{i}\frac{1}{R_{}i}$
 $\frac{E_{e}}{R_{e}}=\sum_{i}\frac{E_{i}}{R_{i}}$
 
 ### Représentation d'un générateur
@@ -109,7 +109,10 @@ Même résistance
 ![[Pasted image 20231013154436.png]]
 #### Norton
 ![[Pasted image 20231013154447.png]]
+**Pour passer d'une représentation à l'autre :**
 $E_{th}=RI_{n}$
 $R_{th}=R_{n}$
 
+**Principe de superposition**
+$I_{totale}=\sum I_{source}$
 
