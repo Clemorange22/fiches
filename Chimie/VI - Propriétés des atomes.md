@@ -1,11 +1,12 @@
 
 ## Rayon atomique
-$r\propto $
+$r\propto \frac{n^2}{Z_{eff}}$
 ## Énergie de ionisation
 $E_{i}$ augmente le long d'une période de gauche à droite car à $n$ donné, $Z_{eff}$ augmente
 
 $E_{i}$ diminue à l'intérieur d'un groupe car quand $n$ augmente, les électrons s'éloignent du noyau
 
+$E_{ionisation} \propto \frac{Z_{eff}^2}{n^2}$
 ### Exceptions
 
 $E_{i}(B)<E_{i}(Be)$ car B : 1s² 2s² 2p¹ et Be 1s² 2s²
