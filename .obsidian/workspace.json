@@ -156,44 +156,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "66474e073a3d928a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3b452cbc5327b66a",
-        "type": "window",
-        "children": [
-          {
-            "id": "5410cc04fd620368",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "499d2f4d3ca4514d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Physique/Elec/Électrocinétique.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 366,
-        "height": 471,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "499d2f4d3ca4514d",
+  "active": "6a6bb1774bbb6ccf",
   "lastOpenFiles": [
     "Physique/Bases/Unités et Dimensions.md",
     "Physique/Bases/Incertitudes et chiffres significatifs.md",
