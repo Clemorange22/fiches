@@ -35,3 +35,8 @@ Forne des molécules dépend du nombre de doublets
 Carbone : considéré à l'état excité $1s²\ 2s^{1}\ 2p^{3}\ \to$ 4 électrons de valence
 
 Doublets non-liants : provoquent un changement de forme
+
+### Théorie de Gillepsie
+1. **Écrire les structures de Lewis des molécules**
+2. **Déterminer le nombre de doublets lients/non-liants autour de l'atome central**
+3. **Déterminer la géométrie conduisant à la répulsion électromagnétique minimale entre les doublets**
