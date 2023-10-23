@@ -21,6 +21,7 @@
 **Limites du modèle de Lewis :**
 L'apparition de sous-couches à partir de $n=3$ permet de considérer de nouveaux états de valence
 Ex : Phosphore a 10 électrons de valence au lieu de 8
+Ne représente par les molécules paramagnétiques (= sensibles aux champs magnétiques)
 
 **Géométrie d'une molécule dépend de :**
 - répulsion e⁻/e⁻
@@ -29,6 +30,8 @@ Ex : Phosphore a 10 électrons de valence au lieu de 8
 - énergie cinétique des e⁻
 
 Forne des molécules dépend du nombre de doublets
+![[Pasted image 20231023091732.png]]
 
+Carbone : considéré à l'état excité $1s²\ 2s^{1}\ 2p^{3}\ \to$ 4 électrons de valence
 
-
+Doublets non-liants : provoquent un changement de forme
