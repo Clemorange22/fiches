@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimie/VIII - Les liaisons.md",
+                "file": "Chimie/X-I - Théorie des orbitales moléculaires.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimie/VIII - Les liaisons.md",
+                "file": "Chimie/X-I - Théorie des orbitales moléculaires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimie/VIII - Les liaisons.md",
+                "file": "Chimie/X-I - Théorie des orbitales moléculaires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimie/VIII - Les liaisons.md"
+                "file": "Chimie/X-I - Théorie des orbitales moléculaires.md"
               }
             }
           },
@@ -179,10 +179,12 @@
   },
   "active": "6a6bb1774bbb6ccf",
   "lastOpenFiles": [
+    "Chimie/XII.md",
+    "Chimie/X-I - Théorie des orbitales moléculaires.md",
+    "Chimie/VIII - Les liaisons.md",
     "Chimie/attachments/Pasted image 20231023093306.png",
     "Chimie/attachments/Pasted image 20231023091732.png",
     "Chimie/attachments/Pasted image 20231023093146.png",
-    "Chimie/VIII - Les liaisons.md",
     "Physique/Elec/Régimes transitoires.md",
     "index.md",
     "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
@@ -211,13 +213,11 @@
     "Chimie/attachments/VIII - Les liaisons 2023-10-16 09.36.58.excalidraw.md",
     "Physique/Elec",
     "Physique/Bases",
-    "Chimie/Tableau périodique.md",
     "Chimie/attachments/Tableau périodique des éléments.svg",
     "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.svg",
     "Chimie/Corrections exos/attachments/Pasted image 20231014113025.png",
     "Chimie/Corrections exos/attachments/Pasted image 20231014112036.png",
     "Chimie/Corrections exos/attachments/Pasted image 20231014103832.png",
-    "Chimie/Corrections exos/attachments/Pasted image 20231014110006.png",
     "Chimie/Corrections exos/attachments",
     "Chimie/Corrections exos",
     "Untitled",
