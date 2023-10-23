@@ -18,3 +18,4 @@ On utilise $U_{c}(0)$ pour en déduire la constante
 $$i(t)=C \frac{dU_{c}(t)}{dt}=C \frac{E}{RC}e^{-\frac{1}{RC}}=\frac{E}{R}e^{-1/RC}$$
 ![[Régimes transitoires 2023-10-23 08.33.47.excalidraw.svg]]
 %%[[Régimes transitoires 2023-10-23 08.33.47.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Régimes transitoires 2023-10-23 08.33.47.excalidraw.dark.svg|dark exported image]]%%
+
