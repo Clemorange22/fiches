@@ -36,7 +36,18 @@ Carbone : considéré à l'état excité $1s²\ 2s^{1}\ 2p^{3}\ \to$ 4 électron
 
 Doublets non-liants : provoquent un changement de forme
 
-### Théorie de Gillepsie
+## Théorie de Gillepsie
 1. **Écrire les structures de Lewis des molécules**
 2. **Déterminer le nombre de doublets lients/non-liants autour de l'atome central**
 3. **Déterminer la géométrie conduisant à la répulsion électromagnétique minimale entre les doublets**
+
+## Polarisation de la liason covalente
+
+Les molécules diatomiques homonucléaires ($H_2$, $F_2$….) sont **non polaires** ($\mu$ =0)
+Molécules diatomiques hétéronucléaires sont polaires ($\mu$)
+
+![[Pasted image 20231023093306.png]]
+
+L’ionicité de la liaison dépend de la différence d’électronégativité des atomes liés
+Dans le cas extrême, un électron est transféré vers l’atome le plus éléctronégatif 
+ la liaison est alors **ionique**
