@@ -48,6 +48,13 @@ Molécules diatomiques hétéronucléaires sont polaires ($\mu$)
 
 ![[Pasted image 20231023093306.png]]
 
-L’ionicité de la liaison dépend de la différence d’électronégativité des atomes liés
-Dans le cas extrême, un électron est transféré vers l’atome le plus éléctronégatif 
- la liaison est alors **ionique**
+**Ionicité de la liaison :** dépend de la différence d’électronégativité des atomes liés
+```ad-note
+Dans le cas extrême, un électron est transféré vers l’atome le plus éléctronégatif
+La liaison est alors **ionique**
+``` 
+
+
+**Molécules polyatomiques :**
+* Liaisons polarisées en général (car elles relient des atomes différents)
+* Pas forcément polaires pour des raisons de symétrie
