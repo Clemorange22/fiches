@@ -32,3 +32,5 @@ Courant toujours continu (et non pas la tension)
 Peut être remplacée par un fil
 
 $$W_{E}=\int_{0}^{\infty} ? \, dt =\frac{1}{2} Li^2$$
+
+$$\int_{0}^{\infty}\frac{\mathrm{d}t}{t}$$
