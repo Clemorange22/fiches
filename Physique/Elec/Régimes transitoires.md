@@ -31,4 +31,4 @@ $$W_{R}=\int_{0}^{\infty} R.i^{2} \, dt =\int_{0}^{\infty} u.i \, dt =\frac{1}{2
 Courant toujours continu (et non pas la tension)
 Peut être remplacée par un fil
 
-$$W_{E}=\int_{0}^{\infty} u.i \, dt =\frac{1}{2} CU^{2}$$
+$$W_{E}=\int_{0}^{\infty} ? \, dt =\frac{1}{2} Li^2$$
