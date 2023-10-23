@@ -49,7 +49,7 @@ Loi des noeuds : Intensités d'entrée = Intensités de sortie
 Tension dans le sens opposé du courant
 
 ### Différents régimes
-* Continue
+* Continu
 * Variable
 	* Variable périodique
 * Transitoire (correspond au démarrage d'un système)
