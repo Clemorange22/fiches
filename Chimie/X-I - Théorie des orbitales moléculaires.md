@@ -29,3 +29,4 @@ l'orbitale s et les 3 p forment une hybridation sp3 de forme tétraédrique
 Liaisons sigma $\sigma$ quand une orbitale est hybridée
 Liaison $\pi$ quand les orbitales ne sont pas hybridées
 
+Liaison sigma $\pi$ : liaison sigma entourée par deux liaisons $\pi$ (dans une chaîne carbonée par ex)
