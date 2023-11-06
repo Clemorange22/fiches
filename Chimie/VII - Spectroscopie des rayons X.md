@@ -18,7 +18,7 @@ $a$ et $b$ constantes pour toutes les raies d'un même type d'une même série
 $Z$ numéro atomique de l'anticathode
 #### Spectre d'émission
 2 phénomènes observables
-##### Des raies
+##### Raies discrètes
 Elles correspondent aux transitions qui sont observées lorsqu'un électron de la couche 1 de l'atome est éjecté
 Ces transitions respectent ces lois : 
 $\Delta l=1$
