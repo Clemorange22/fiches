@@ -24,3 +24,8 @@ l'orbitale s et les 3 p forment une hybridation sp3 de forme tétraédrique
 	* triple liaison
 	* angle de 180° $\to$ hybridation sp
 	* Les deux orbitales p restantes restent non-hybridées
+
+### Types de liaison
+Liaisons sigma $\sigma$ quand une orbitale est hybridée
+Liaison $\pi$ quand les orbitales ne sont pas hybridées
+
