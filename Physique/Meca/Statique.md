@@ -40,5 +40,5 @@ On la notera $\vec{F_A}$
 Soit un axe $\Delta$ de vecteur directeur $\vec{u}$
 Le moment de la force $\vec{F_A}$ par rapport à l'axe $\Delta$
 est :
-$$\vec{M_{\Delta}}(\vec{F_{A}})=\vec{M_{P\in \Delta}}(\vec{F_{A}}).\vec{u}=(\vec{PM}\wedge \vec{f_{M}}).\vec{u}=(\vec{PM},\vec{F_{A}},\vec{u})$$
+$$\overrightarrow{M_{\Delta}}(\overrightarrow{F_{A}})=\overrightarrow{M_{P\in \Delta}}(\vec{F_{A}}).\vec{u}=(\overrightarrow{PM}\wedge \vec{f_{M}}).\vec{u}=(\vec{PM},\vec{F_{A}},\vec{u})$$
 ```
