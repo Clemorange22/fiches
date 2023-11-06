@@ -29,7 +29,7 @@ nathalie.godin
 |![[Pasted image 20231013134138.png]]|![[Pasted image 20231013134208.png]]|
 ||*On peut avoir une tension non nulle même si $I=0$ A*|
 ||*Pour une source, la tension est orientée du - vers le +*|
-|Quand éteinte, équivaut à un interrupteur ouvert|Quand éteinte, équivaut à un fils
+|Quand éteinte, équivaut à un interrupteur ouvert|Quand éteinte, équivaut à un fil
 Peut être électromoteur ou contre-électromoteur
 
 
@@ -47,6 +47,19 @@ Loi des noeuds : Intensités d'entrée = Intensités de sortie
 **Convention récepteur :**
 ![[Pasted image 20231013135542.png]]
 Tension dans le sens opposé du courant
+
+### Caractéristique
+Représente le rapport entre l'intensité du courant circulant dans un dipôle et la tension à ses bornes
+
+**Symétrie par rapport au point (0,0)**
+Indique que le dipôle est **non-polarisé**, on peut le brancher dans l'autre sens sans changer son fonctionnement
+À l'inverse, quand cette symétrie n'est pas présente on parle d'un dipôle **polarisé**
+
+**Passif ou actif ?**
+La caractéristique d'un dipôle passif passe par le point (0,0)
+
+**Linéarité**
+Le dipôle est dit **linéaire** si sa courbe caractéristique est une droite
 
 ### Différents régimes
 * Continu
