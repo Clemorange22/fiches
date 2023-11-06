@@ -14,6 +14,7 @@ Pour un point : une seule relation
 
 Pour un système :
 * Somme des forces = 0 est nécessaire mais ne suffit pas
+* Il faut aussi somme des moments des forces = 0 
 
 ![[Statique 2023-11-06 08.29.58.excalidraw.svg]]
 %%[[Statique 2023-11-06 08.29.58.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Statique 2023-11-06 08.29.58.excalidraw.dark.svg|dark exported image]]%%
