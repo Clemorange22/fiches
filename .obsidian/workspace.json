@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Chimie/X-I - Théorie des orbitales moléculaires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Chimie/X-I - Théorie des orbitales moléculaires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Chimie/X-I - Théorie des orbitales moléculaires.md"
               }
             }
           },
@@ -204,8 +204,9 @@
       }
     ]
   },
-  "active": "efaaa9d19870510d",
+  "active": "6a6bb1774bbb6ccf",
   "lastOpenFiles": [
+    "index.md",
     "Physique/Meca/Statique.md",
     "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md",
     "Physique/Elec/Régimes transitoires.md",
@@ -231,7 +232,6 @@
     "Chimie/attachments/VIII - Les liaisons 2023-10-16 09.39.37.excalidraw.md",
     "Chimie/attachments/VIII - Les liaisons 2023-10-16 09.36.58.excalidraw.md",
     "Chimie/attachments/Structure de l'atome periode.excalidraw.md",
-    "Chimie/attachments/Structure de l'atome grotrian.excalidraw.md",
     "Chimie/attachments/X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05.excalidraw.svg",
     "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.svg",
     "Physique/Meca/attachments",
