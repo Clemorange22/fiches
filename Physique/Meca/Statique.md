@@ -21,3 +21,12 @@ Pour un système :
 #### Réaction
 Si un élément matériel A exerce sur un autre élément matériel A’ une force $\vec{F}$ , réciproquement A’ exerce sur A une force $\vec{F’}$, de même support et telle que $\vec{F'}=-\vec{F}$
 
+### Moment d'une force
+
+```ad-important
+Soit une force dont le point d’application est A.
+On la notera $\vec{F_A}$
+Le moment de cette force par rapport à un point P
+quelconque de l’espace est par définition :
+$$\vec{M_p}(\vec{F_A})=\vec{PA}\wedge\vec{F_A}$$
+```
