@@ -142,3 +142,9 @@ Permet de simplifier la représentation d'un ensemble de générateurs en le rem
 1. Définir la partie du circuit que l'on veut remplacer
 2. Calculer la résistance à l'état passif de notre partie du circuit et l'utiliser comme résistance pour le générateur de thévenin
 3. Calculer tension à vide aux bornes de la partie du circuit étudiée $\rightarrow$ Force électromotrice $\vec{E}$ du générateur de thévenin
+
+### Résoudre un circuit
+
+On détermine le nombre d'intensités inconnues.
+$n_{inconnues}=n_{branches}-n_{noeuds}+1$ 
+On exprime toutes les intensités en fonction des inconnues et on applique la loi des mailles
