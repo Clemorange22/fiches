@@ -24,9 +24,20 @@ Si un élément matériel A exerce sur un autre élément matériel A’ une for
 ### Moment d'une force
 
 ```ad-important
+**Moment d'une force par rapport à un point**
 Soit une force dont le point d’application est A.
 On la notera $\vec{F_A}$
 Le moment de cette force par rapport à un point P
 quelconque de l’espace est par définition :
 $$\vec{M_p}(\vec{F_A})=\vec{PA}\wedge\vec{F_A}$$
+```
+
+```ad-important
+**Moment d'une force par rapport à un axe**
+Soit une force dont le point d’application est A.
+On la notera $\vec{F_A}$
+Soit un axe $\Delta$ de vecteur directeur $\vec{u}$
+Le moment de la force $\vec{F_A}$ par rapport à l'axe $\Delta$
+est :
+$$\vec{M_{\Delta}}(\vec{F_{A}})=\vec{M_{P\in \Delta}}(\vec{F_{A}}).\vec{u}=(\vec{PM}\wedge \vec{f_{M}}).\vec{u}=(\vec{PM},\vec{F_{A}},\vec{u})$$
 ```
