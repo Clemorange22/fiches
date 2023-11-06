@@ -16,9 +16,11 @@ l'orbitale s et les 3 p forment une hybridation sp3 de forme tétraédrique
 * **Molécule tétraédrique** ($AX^4$)
 	* angle de 109,5° $\to$ hybridation sp3
 * **Molécule trigonale** ($AX^3$)
+	* double liaison
 	* angle de 120° $\to$ hybridation sp2
 	* on combine 2 orbitales p avec une orbitale s
 	* il reste une orbitale p non hybridée
 * **Molécule linéaire** ($AX^2$)
+	* triple liaison
 	* angle de 180° $\to$ hybridation sp
 	* Les deux orbitales p restantes restent non-hybridées
