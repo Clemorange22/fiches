@@ -12,7 +12,7 @@ Un électron d'une couche extérieure comble le trou laissé par l'électron arr
 Condition : $E_{electron\ accelere} \geq E_{niveau\ k}$
 $k=1$
 
-Loi de Mosley
+**Loi de Mosley**
 $\sqrt{ \nu } = a(Z-b)$
 $a$ et $b$ constantes pour toutes les raies d'un même type d'une même série
 $Z$ numéro atomique de l'anticathode
