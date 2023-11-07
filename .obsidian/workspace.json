@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimie/X-I - Théorie des orbitales moléculaires.md",
+                "file": "Physique/Elec/Électrocinétique.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimie/X-I - Théorie des orbitales moléculaires.md",
+                "file": "Physique/Elec/Électrocinétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimie/X-I - Théorie des orbitales moléculaires.md",
+                "file": "Physique/Elec/Électrocinétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimie/X-I - Théorie des orbitales moléculaires.md"
+                "file": "Physique/Elec/Électrocinétique.md"
               }
             }
           },
@@ -167,50 +167,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "9f2da13aeb0d4693",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7473da27f15a0f83",
-        "type": "window",
-        "children": [
-          {
-            "id": "e7815d2e7699489c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "efaaa9d19870510d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 950,
-        "height": 530,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "6a6bb1774bbb6ccf",
   "lastOpenFiles": [
-    "index.md",
-    "Physique/Meca/Statique.md",
-    "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md",
     "Physique/Elec/Régimes transitoires.md",
     "Physique/Elec/Électrocinétique.md",
+    "Physique/Meca/Statique.md",
+    "Chimie/X-I - Théorie des orbitales moléculaires.md",
+    "index.md",
+    "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md",
     "Physique/Elec/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.md",
     "Physique/Elec/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.md",
     "Physique/Bases/Unités et Dimensions.md",
@@ -219,7 +183,6 @@
     "Physique/Bases/Démarche scientifique.md",
     "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
     "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
-    "Chimie/X-I - Théorie des orbitales moléculaires.md",
     "Chimie/VIII - Les liaisons.md",
     "Chimie/VII - Spectroscopie des rayons X.md",
     "Chimie/VI - Propriétés des atomes.md",
