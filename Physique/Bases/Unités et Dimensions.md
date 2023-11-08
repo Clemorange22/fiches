@@ -44,6 +44,6 @@ Il peut être :
 |Force|$\vec{F}=m\vec{a}$|$MLT^{-2}$|Newton|
 |Énergie|$E_{c}=\frac{1}{2}mv^2$|$ML^2T^{-2}$|Joules|
 |Puissance|$P=\frac{\Delta E}{\Delta t}$|$ML^2T^{-3}$|Watt|
-|Tension électrique|$U=\frac{E}{Q}$|$ML^2T^{-3}I^{-1}$|Volt|
+|Tension électrique|$U=\frac{P}{I}$|$ML^2T^{-3}I^{-1}$|Volt|
 |Résistance électrique|$R=\frac{U}{I}$|$ML^2T^{-3}I^{-2}$|Ohm|
 |Capacité électrique|$C=\frac{Q}{U}$|$M^{-1}L^{-2}I^2T^4$|Farad|
