@@ -99,3 +99,19 @@ Donnée d'une résultante et d'un moment résultant
 
 Tout système tel que $\vec{R}=\vec{0}$ et $\vec{\Gamma_{P}}\neq\vec{0}$
 est réductible à un couple
+### Sytème de force équivalent à une force unique
+
+$$\overrightarrow{R}=\overrightarrow{F_{A}}$$
+$$\overrightarrow{M_{P}}(\vec{F_{A}})=\vec{0}$$
+
+#### Force concourantes en un point A
+
+![[Pasted image 20231113084749.png]]
+
+#### Forces parallèles et de même sens
+
+![[Pasted image 20231113084830.png]]
+**A est le barycentre des points $A_{i}$ de coefficients $\|\vec{F_{i}}\|$**
+
+### Frottement statique
+
