@@ -30,7 +30,7 @@ Soit une force dont le point d’application est A.
 On la notera $\vec{F_A}$
 Le moment de cette force par rapport à un point P
 quelconque de l’espace est par définition :
-$$\overline{M_p}(\overrightarrow{F_A})=\overrightarrow{PA}\wedge\overrightarrow{F_A}$$
+$$\overrightarrow{M_p}(\overrightarrow{F_A})=\overrightarrow{PA}\wedge\overrightarrow{F_A}$$
 ```
 
 ```ad-important
@@ -40,5 +40,62 @@ On la notera $\vec{F_A}$
 Soit un axe $\Delta$ de vecteur directeur $\vec{u}$
 Le moment de la force $\vec{F_A}$ par rapport à l'axe $\Delta$
 est :
-$$\overline{M_{\Delta}}(\overrightarrow{F_{A}})=\overrightarrow{M_{P\in \Delta}}(\overrightarrow{F_{A}}).\overrightarrow{u}=(\overrightarrow{PA}\wedge \overrightarrow{F_{A}}).\overrightarrow{u}=(\overrightarrow{PM},\overrightarrow{F_{A}},\overrightarrow{u})$$
+$$\overrightarrow{M_{\Delta}}(\overrightarrow{F_{A}})=\overrightarrow{M_{P\in \Delta}}(\overrightarrow{F_{A}}).\overrightarrow{u}=(\overrightarrow{PA}\wedge \overrightarrow{F_{A}}).\overrightarrow{u}=(\overrightarrow{PM},\overrightarrow{F_{A}},\overrightarrow{u})$$
 ```
+
+**Forces intérieures :** forces qui proviennent d'autres point du système
+
+**Forces extérieures :** forces provenant de l'action d'agents extérieurs au système
+
+### Loi de l'action/réaction
+#### Forces intérieures
+Somme géométrique des forces intérieures
+
+$$\sum_{j}\overrightarrow{F_{jint}}=\vec{0}$$
+
+Somme géométrique des moments des forces intérieures par rapport à tout point P
+
+$$\sum_{j} \overrightarrow{M_{P}}(\overrightarrow{F_{jint}})=\vec{0}$$
+#### Forces extérieures
+
+**Résultante des forces**
+$$\sum_{j}\overrightarrow{F_{jext}}=\vec{R}$$
+**Moment résultant**
+$$\sum_{j}\overrightarrow{M_{P}}(\overrightarrow{F_{jext}})=\vec{\Gamma_{P}}$$
+
+### Systèmes de force équivalents
+
+**Deux conditions :**
+* Égalité des résultantes
+$$\overrightarrow{R_{1}}=\overrightarrow{R_{2}}$$
+* Égalité des moments résultants en un même point P quelconque
+$$\overrightarrow{\Gamma_{1}}=\overrightarrow{\Gamma_{2}}$$
+### Réduction d'un système de forces
+
+```ad-note
+**Réduire un système de forces :** trouver un
+système plus simple qui lui soit équivalent (mêmes
+éléments vectoriels en un point P)
+```
+
+#### Système de force équivalent à 0
+
+**Deux conditions :**
+
+**Deux conditions :**
+* Résultante nulle
+$$\overrightarrow{R}=\vec{0}$$
+* Moment des forces nul en tout point P
+
+$$\overrightarrow{\Gamma_{P}}=\vec{0}$$
+
+#### Torseur
+
+Donnée d'une résultante et d'un moment résultant
+//TODO 2A
+
+
+### Système de forces équivalent à un couple
+
+Tout système tel que $\vec{R}=\vec{0}$ et $\vec{\Gamma_{P}}\neq\vec{0}$
+est réductible à un couple
