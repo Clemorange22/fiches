@@ -14,7 +14,7 @@ Bienvenue sur le sommaire des fiches $\alpha$ !
 ### Mécanique
 * [[Statique]]
 ## Chimie
-* [[I - IV - Structure de l'atome]]
-* [[V - Tableau périodique]]
-* [[VI - Propriétés des atomes]]
-* [[VII - Spectroscopie des rayons X]]
+* [[1-4 - Structure de l'atome]]
+* [[5 - Tableau périodique]]
+* [[6 - Propriétés des atomes]]
+* [[7 - Spectroscopie des rayons X]]
