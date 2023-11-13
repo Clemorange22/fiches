@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique/Meca/Statique.md",
+                "file": "Chimie/X-Différents types de liaisons.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Meca/Statique.md",
+                "file": "Chimie/X-Différents types de liaisons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique/Meca/Statique.md",
+                "file": "Chimie/X-Différents types de liaisons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique/Meca/Statique.md"
+                "file": "Chimie/X-Différents types de liaisons.md"
               }
             }
           },
@@ -169,6 +169,9 @@
   },
   "active": "6a6bb1774bbb6ccf",
   "lastOpenFiles": [
+    "Chimie/X-I - Théorie des orbitales moléculaires.md",
+    "Chimie/X-Différents types de liaisons.md",
+    "Physique/Meca/Statique.md",
     "Physique/Meca/attachments/Pasted image 20231113084830.png",
     "Physique/Meca/attachments/Pasted image 20231113084749.png",
     "Physique/Elec/Régimes transitoires.md",
@@ -179,8 +182,6 @@
     "Chimie/VII - Spectroscopie des rayons X.md",
     "Chimie/VIII - Les liaisons.md",
     "Chimie/VI - Propriétés des atomes.md",
-    "Chimie/X-I - Théorie des orbitales moléculaires.md",
-    "Physique/Meca/Statique.md",
     "index.md",
     "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md",
     "Physique/Elec/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.md",
@@ -209,7 +210,6 @@
     "Physique/Elec",
     "Physique/Bases",
     "Chimie/attachments/Tableau périodique des éléments.svg",
-    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.svg",
     "Chimie/Corrections exos/attachments",
     "Chimie/Corrections exos",
     "Untitled",
