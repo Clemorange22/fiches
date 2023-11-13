@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique/Bases/Unités et Dimensions.md",
+                "file": "Physique/Meca/Statique.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Bases/Unités et Dimensions.md",
+                "file": "Physique/Meca/Statique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique/Bases/Unités et Dimensions.md",
+                "file": "Physique/Meca/Statique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique/Bases/Unités et Dimensions.md"
+                "file": "Physique/Meca/Statique.md"
               }
             }
           },
@@ -169,20 +169,20 @@
   },
   "active": "6a6bb1774bbb6ccf",
   "lastOpenFiles": [
+    "Physique/Elec/Régimes transitoires.md",
+    "Physique/Elec/Électrocinétique.md",
+    "Physique/Bases/Unités et Dimensions.md",
     "Physique/Bases/Incertitudes et chiffres significatifs.md",
     "Physique/Bases/Démarche scientifique.md",
     "Chimie/VII - Spectroscopie des rayons X.md",
     "Chimie/VIII - Les liaisons.md",
     "Chimie/VI - Propriétés des atomes.md",
     "Chimie/X-I - Théorie des orbitales moléculaires.md",
-    "Physique/Elec/Électrocinétique.md",
-    "Physique/Elec/Régimes transitoires.md",
     "Physique/Meca/Statique.md",
     "index.md",
     "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md",
     "Physique/Elec/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.md",
     "Physique/Elec/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.md",
-    "Physique/Bases/Unités et Dimensions.md",
     "Physique/Bases/Énergie.md",
     "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
     "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
