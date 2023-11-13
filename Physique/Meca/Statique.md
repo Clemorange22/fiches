@@ -30,7 +30,7 @@ Soit une force dont le point d’application est A.
 On la notera $\vec{F_A}$
 Le moment de cette force par rapport à un point P
 quelconque de l’espace est par définition :
-$$\overrightarrow{M_p}(\overrightarrow{F_A})=\overrightarrow{PA}\wedge\overrightarrow{F_A}$$
+$$\overline{M_p}(\overrightarrow{F_A})=\overrightarrow{PA}\wedge\overrightarrow{F_A}$$
 ```
 
 ```ad-important
@@ -40,5 +40,5 @@ On la notera $\vec{F_A}$
 Soit un axe $\Delta$ de vecteur directeur $\vec{u}$
 Le moment de la force $\vec{F_A}$ par rapport à l'axe $\Delta$
 est :
-$$\overrightarrow{M_{\Delta}}(\overrightarrow{F_{A}})=\overrightarrow{M_{P\in \Delta}}(\vec{F_{A}}).\vec{u}=(\overrightarrow{PM}\wedge \vec{F_{A}}).\vec{u}=(\vec{PM},\vec{F_{A}},\vec{u})$$
+$$\overline{M_{\Delta}}(\overrightarrow{F_{A}})=\overrightarrow{M_{P\in \Delta}}(\overrightarrow{F_{A}}).\overrightarrow{u}=(\overrightarrow{PA}\wedge \overrightarrow{F_{A}}).\overrightarrow{u}=(\overrightarrow{PM},\overrightarrow{F_{A}},\overrightarrow{u})$$
 ```
