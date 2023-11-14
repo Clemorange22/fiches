@@ -23,24 +23,16 @@
             "id": "258e405b3e3b746e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9e5021fffab1f1f4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-14 08.20.43.excalidraw.md"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-14 08.20.43.excalidraw.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-14 08.20.43.excalidraw.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-14 08.20.43.excalidraw.md"
+                "file": "index.md"
               }
             }
           },
@@ -178,10 +170,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e5021fffab1f1f4",
+  "active": "258e405b3e3b746e",
   "lastOpenFiles": [
-    "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md",
     "Excalidraw/Drawing 2023-11-14 08.20.43.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-14 08.20.43.excalidraw.svg",
+    "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
+    "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.light.svg",
+    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.light.svg",
+    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.dark.svg",
+    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.svg",
+    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
+    "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md",
     "Chimie/7 - Spectroscopie des rayons X.md",
     "Physique/Bases/Énergie.md",
     "Chimie/9- Théorie des orbitales moléculaires.md",
@@ -197,8 +196,6 @@
     "Physique/Bases/Unités et Dimensions.md",
     "Physique/Bases/Incertitudes et chiffres significatifs.md",
     "Physique/Bases/Démarche scientifique.md",
-    "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
     "Chimie/X-I - Théorie des orbitales moléculaires.md",
     "Chimie/X-Différents types de liaisons.md",
     "Chimie/VIII - Les liaisons.md",
@@ -206,7 +203,6 @@
     "Chimie/VI - Propriétés des atomes.md",
     "Chimie/V - Tableau périodique.md",
     "Chimie/I - IV - Structure de l'atome.md",
-    "Chimie/Corrections exos/Exo 4 spectres du lithium.md",
     "Physique/Meca/attachments/Pasted image 20231113084830.png",
     "Physique/Meca/attachments/Pasted image 20231113084749.png",
     "Chimie/attachments/X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05.excalidraw.svg",
@@ -214,14 +210,9 @@
     "Physique/Meca/attachments",
     "Physique/Meca",
     "Chimie/attachments/Pasted image 20231023093306.png",
-    "Chimie/attachments/Pasted image 20231023091732.png",
-    "Chimie/attachments/Pasted image 20231023093146.png",
-    "Physique/Elec/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.svg",
-    "Physique/Elec/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.svg",
     "Physique/Elec/attachments",
     "Physique/Elec",
     "Physique/Bases",
-    "Chimie/attachments/Tableau périodique des éléments.svg",
     "Chimie/Corrections exos/attachments",
     "Chimie/Corrections exos",
     "Untitled",
