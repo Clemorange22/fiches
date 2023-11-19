@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Physique/Elec/Régimes transitoires.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Physique/Elec/Régimes transitoires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Physique/Elec/Régimes transitoires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Physique/Elec/Régimes transitoires.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "258e405b3e3b746e",
   "lastOpenFiles": [
+    "index.md",
     "Excalidraw/Drawing 2023-11-14 08.20.43.excalidraw.md",
     "Excalidraw/Drawing 2023-11-14 08.20.43.excalidraw.svg",
     "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
@@ -186,7 +187,6 @@
     "Chimie/9- Théorie des orbitales moléculaires.md",
     "Chimie/attachments/X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05.excalidraw.md",
     "Chimie/10-Différents types de liaisons.md",
-    "index.md",
     "html/chimie/x-différents-types-de-liaisons.html",
     "Physique/Meca/Statique.md",
     "Physique/Elec/Régimes transitoires.md",
