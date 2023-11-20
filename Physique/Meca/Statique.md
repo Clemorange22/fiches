@@ -151,4 +151,17 @@ $E_{p}=\frac{1}{2}kx^2+constante$
 
 #### élastique (fil de torsion)
 
-$E_{c}$
+$E_{c}=\frac{1}{2}C \theta^{2}+constante$
+
+### Positions d'équilibre
+
+Les positions d'équilibre correspondent à des extremums de l'énergie potentielle
+
+```ad-info
+Un équilibre est **stable** si lorsqu’on écarte légèrement
+(le point ou le système) de la position d’équilibre il
+revient à cette position.
+```
+
+Si $E_p$ existe cette position correspond à un minimum de $E_p$
+
