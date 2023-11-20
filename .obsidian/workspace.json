@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique/Elec/Régimes transitoires.md",
+                "file": "Physique/Meca/Statique.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Elec/Régimes transitoires.md",
+                "file": "Physique/Meca/Statique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique/Elec/Régimes transitoires.md",
+                "file": "Physique/Meca/Statique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique/Elec/Régimes transitoires.md"
+                "file": "Physique/Meca/Statique.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "258e405b3e3b746e",
   "lastOpenFiles": [
+    "Physique/Elec/Régimes transitoires.md",
     "index.md",
     "Excalidraw/Drawing 2023-11-14 08.20.43.excalidraw.md",
     "Excalidraw/Drawing 2023-11-14 08.20.43.excalidraw.svg",
@@ -189,7 +190,6 @@
     "Chimie/10-Différents types de liaisons.md",
     "html/chimie/x-différents-types-de-liaisons.html",
     "Physique/Meca/Statique.md",
-    "Physique/Elec/Régimes transitoires.md",
     "Physique/Elec/Électrocinétique.md",
     "Physique/Elec/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.md",
     "Physique/Elec/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.md",

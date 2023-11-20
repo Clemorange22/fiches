@@ -115,3 +115,5 @@ $$\overrightarrow{M_{P}}(\vec{F_{A}})=\vec{0}$$
 
 ### Frottement statique
 
+$\sum{\overrightarrow{F_{ext}}}+\vec{f_{s}}=\vec{0}$
+
