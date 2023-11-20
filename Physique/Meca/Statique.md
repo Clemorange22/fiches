@@ -129,3 +129,26 @@ $f_{s(max)}$ : force de frottement statique maximale en Newtons pour laquelle $\
 $\mu_{s}$ : coefficient de frottement statique (sans dimension)
 $n$ : module de la réaction normale
 
+### Énergie potentielle
+
+#### de pesanteur
+$\vec{P}=M\vec{g}$
+
+$E_{p}=MgZ+constante$
+
+```ad-caution
+Formule différente si on utilise une autre axe que $Oz$ ou ci celle-ci n'est pas collinéaire à la gravité
+```
+
+$\mathrm{d}W=\vec{P}.\mathrm{d}\vec{l}=-\mathrm{d}E_{f}$
+
+#### élastique (ressort)
+
+![[Pasted image 20231120083422.png]]
+$\vec{X}=k\vec{OP}$
+$\overline{OP}=x$
+$E_{p}=\frac{1}{2}kx^2+constante$
+
+#### élastique (fil de torsion)
+
+$E_{c}$
