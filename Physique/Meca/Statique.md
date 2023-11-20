@@ -115,6 +115,8 @@ $$\overrightarrow{M_{P}}(\vec{F_{A}})=\vec{0}$$
 
 ### Frottement statique
 
+![[Pasted image 20231120081419.png]]
+
 $\sum{\overrightarrow{F_{ext}}}+\vec{f_{s}}=\vec{0}$
 
 Le rôle du frottement statique est de « bloquer » les autres forces
@@ -126,3 +128,4 @@ $f_{s(max)} = \mu_{s} n$
 $f_{s(max)}$ : force de frottement statique maximale en Newtons pour laquelle $\sum \vec{F} = 0$
 $\mu_{s}$ : coefficient de frottement statique (sans dimension)
 $n$ : module de la réaction normale
+
