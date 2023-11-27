@@ -12,7 +12,7 @@ Bienvenue sur le sommaire des fiches $\alpha$ !
 * [[Électrocinétique]]
 * [[Régimes transitoires]]
 ### Mécanique
-* [[Statique]]
+* [[1 - Statique]]
 ## Chimie
 * [[1-4 - Structure de l'atome]]
 * [[5 - Tableau périodique]]

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique/Meca/Statique.md",
+                "file": "Physique/Meca/2 - Dynamique.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Meca/Statique.md",
+                "file": "Physique/Meca/2 - Dynamique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique/Meca/Statique.md",
+                "file": "Physique/Meca/2 - Dynamique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique/Meca/Statique.md"
+                "file": "Physique/Meca/2 - Dynamique.md"
               }
             }
           },
@@ -172,6 +172,8 @@
   },
   "active": "258e405b3e3b746e",
   "lastOpenFiles": [
+    "Physique/Meca/1 - Statique.md",
+    "Physique/Meca/2 - Dynamique.md",
     "Physique/Meca/attachments/Pasted image 20231120083422.png",
     "Physique/Meca/attachments/Pasted image 20231120081419.png",
     "Physique/Elec/Régimes transitoires.md",
@@ -191,7 +193,6 @@
     "Chimie/attachments/X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05.excalidraw.md",
     "Chimie/10-Différents types de liaisons.md",
     "html/chimie/x-différents-types-de-liaisons.html",
-    "Physique/Meca/Statique.md",
     "Physique/Elec/Électrocinétique.md",
     "Physique/Elec/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.md",
     "Physique/Elec/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.md",
@@ -208,7 +209,6 @@
     "Physique/Meca/attachments/Pasted image 20231113084830.png",
     "Physique/Meca/attachments/Pasted image 20231113084749.png",
     "Chimie/attachments/X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05.excalidraw.svg",
-    "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.svg",
     "Physique/Meca/attachments",
     "Physique/Meca",
     "Physique/Elec/attachments",
