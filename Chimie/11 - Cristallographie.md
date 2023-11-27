@@ -18,4 +18,7 @@ Représenté par un réseau de noeuds à 3 dimensions
 **Noeuds :**  points du réseau
 **Types de mailles :**
 * **Simple** : ne contient des noeuds qu'en ses 8 sommets => Un noeud en moyenne, même volume
-* **Multiple** : Peut en contenir plus
+* **Multiple** : Contient plusieurs mailles simples
+**Multiplicité d'une maille :** nb moyen de noeuds contenus dans la maille
+
+
