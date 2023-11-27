@@ -43,3 +43,11 @@ Les vecteurs $\vec{T}$ et $\vec{\frac{T}{\mathrm{d}t}}$ sont orthogonaux
 $$\frac{\mathrm{d}}{\mathrm{d}t}(\vec{T}.\vec{T})=2\vec{T}\frac{\mathrm{d}\vec{T}}{\mathrm{d}t}=0$$
 $$\vec{N}=\frac{\frac{\mathrm{d}\vec{T}}{\mathrm{d}t}}{\|\frac{\mathrm{d}\vec{T}}{\mathrm{d}t}\|}$$
 
+$$\vec{N}=\frac{R.\mathrm{d}t}{\mathrm{d}s}$$
+Où $\frac{1}{R}$ est la courbure
+
+$(M,\vec{T},\vec{N})$ définissent le plan osculateur en $M$
+
+#### Vecteur $\vec{B}$
+$$\vec{B}=\vec{T}\wedge\vec{N}$$
+$M,\vec{T},\vec{N},\vec{B}$
