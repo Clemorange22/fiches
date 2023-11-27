@@ -5,3 +5,8 @@
 
 Un point est repéré par ses coordonnées dans un repère orthonormé direct
 
+Autres systèmes de coordonnées :
+* Polaires
+* Cylindriques
+* Sphériques
+
