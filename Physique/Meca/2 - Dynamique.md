@@ -34,11 +34,12 @@ Accélération : dérivée de la vitesse en fonction du temps
 
 On cherche un vecteur $\vec{T}$ tangent à la courbe (trajectoire) et unitaire
 
+$\vec{T}=\frac{\vec{V}}{\|\vec{V}\|}$
 #### Vecteur $\vec{N}$
 
 On cherche un vecteur $\vec{N}$ 
 Les vecteurs $\vec{T}$ et $\vec{\frac{T}{\mathrm{d}t}}$ sont orthogonaux
 
 $$\frac{\mathrm{d}}{\mathrm{d}t}(\vec{T}.\vec{T})=2\vec{T}\frac{\mathrm{d}\vec{T}}{\mathrm{d}t}=0$$
-
+$$\vec{N}=\frac{\frac{\mathrm{d}\vec{T}}{\mathrm{d}t}}{\|\frac{\mathrm{d}\vec{T}}{\mathrm{d}t}\|}$$
 
