@@ -50,4 +50,5 @@ $(M,\vec{T},\vec{N})$ définissent le plan osculateur en $M$
 
 #### Vecteur $\vec{B}$
 $$\vec{B}=\vec{T}\wedge\vec{N}$$
-$M,\vec{T},\vec{N},\vec{B}$
+$(M,\vec{T},\vec{N},\vec{B})$ définissent le **repère de Frénet**
+
