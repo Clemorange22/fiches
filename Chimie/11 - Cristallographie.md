@@ -27,4 +27,13 @@ Plan formé par des fractions entières de a,b et c
 Indices h, k, l, respectivement l'inverse de la fraction correspondant  à chaque intersection a, b, c. (Réduire au plus petit commun dénominateur)
 
 Famille de plan réticulaire : chaque ensemble de plans réticulaires parallèles et équidistants qui a eux tous contiennent tous les noeuds du réseau. 
-L'équidistance hkl
+L'équidistance hkl = distance entre les plans réticulaires
+
+7 systèmes cristallins:
+* Cubique
+* Tétragonal : 2 faces carrées 4 faces rectangles
+* Orthorhombique : prisme droit 6 faces rectangles
+* Monoclinique : prisme incliné 4 faces rectangle 2 faces parallèlogramme
+* Tricilinique : Prisme incliné  faces parallèlogramme
+* Hexagonal : Prisme droit à base losange régulier
+* Rhomboèdrique : Parallélépipède toutes faces losanges
