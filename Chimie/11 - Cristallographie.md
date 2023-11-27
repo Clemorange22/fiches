@@ -37,3 +37,9 @@ L'équidistance hkl = distance entre les plans réticulaires
 * Tricilinique : Prisme incliné  faces parallèlogramme
 * Hexagonal : Prisme droit à base losange régulier
 * Rhomboèdrique : Parallélépipède toutes faces losanges
+
+14 motifs :
+* Mailles primitive
+* Maille conventionnelle à intérieur centré
+* Maille conventionnelle à bases centrées
+* Maille conventionnelle toutes bases centrées
