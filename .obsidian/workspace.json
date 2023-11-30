@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Chimie/7 - Spectroscopie des rayons X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Chimie/7 - Spectroscopie des rayons X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Chimie/7 - Spectroscopie des rayons X.md"
               }
             }
           },
@@ -170,45 +169,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "ade2512ec7441ce7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "bb44b6400215536e",
-        "type": "window",
-        "children": [
-          {
-            "id": "804b59912994bf51",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ced05593f6b2cc48",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 302,
-        "y": 477,
-        "width": 800,
-        "height": 400,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ced05593f6b2cc48",
+  "active": "6a6bb1774bbb6ccf",
   "lastOpenFiles": [
+    "index.md",
     "Physique/Meca/2 - Cinématique.md",
     "Physique/Meca/1 - Statique.md",
     "Chimie/11 - Cristallographie.md",
@@ -217,7 +180,6 @@
     "Physique/Meca/attachments/Pasted image 20231120083422.png",
     "Physique/Meca/attachments/Pasted image 20231120081419.png",
     "Physique/Elec/Régimes transitoires.md",
-    "index.md",
     "Excalidraw/Drawing 2023-11-14 08.20.43.excalidraw.md",
     "Excalidraw/Drawing 2023-11-14 08.20.43.excalidraw.svg",
     "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
