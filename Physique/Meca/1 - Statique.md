@@ -99,7 +99,7 @@ Donnée d'une résultante et d'un moment résultant
 
 Tout système tel que $\vec{R}=\vec{0}$ et $\vec{\Gamma_{P}}\neq\vec{0}$
 est réductible à un couple
-### Sytème de force équivalent à une force unique
+### Système de force équivalent à une force unique
 
 $$\overrightarrow{R}=\overrightarrow{F_{A}}$$
 $$\overrightarrow{M_{P}}(\vec{F_{A}})=\vec{0}$$

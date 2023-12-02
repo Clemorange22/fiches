@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimie/7 - Spectroscopie des rayons X.md",
+                "file": "Physique/Meca/1 - Statique.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimie/7 - Spectroscopie des rayons X.md",
+                "file": "Physique/Meca/1 - Statique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimie/7 - Spectroscopie des rayons X.md",
+                "file": "Physique/Meca/1 - Statique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimie/7 - Spectroscopie des rayons X.md"
+                "file": "Physique/Meca/1 - Statique.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "6a6bb1774bbb6ccf",
   "lastOpenFiles": [
+    "Chimie/7 - Spectroscopie des rayons X.md",
     "index.md",
     "Physique/Meca/2 - Cinématique.md",
     "Physique/Meca/1 - Statique.md",
@@ -187,7 +188,6 @@
     "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
     "Chimie/9- Théorie des orbitales moléculaires.md",
     "Chimie/8 - Les liaisons.md",
-    "Chimie/7 - Spectroscopie des rayons X.md",
     "Chimie/6 - Propriétés des atomes.md",
     "Chimie/5 - Tableau périodique.md",
     "Chimie/11 - Cristallographie.md",
