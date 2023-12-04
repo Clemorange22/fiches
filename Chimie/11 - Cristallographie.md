@@ -64,3 +64,5 @@ On utilise la diffraction des rayons X
 
 ## Structures types
 ### Les métaux
+Structures compactes composées d'atomes (assimilés à des sphères de rayon $R$$)
+Dans un plan compact qu'on appelle $\pi$, chaque sphère est tangente à 6 autres sphères.
