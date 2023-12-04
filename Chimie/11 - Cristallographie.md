@@ -72,3 +72,8 @@ Le second plan est composé d'atomes qui se placent dans l'interstice des 3 atom
 Troisième couche :
 * soit superposée à la première couche A on a l'empilement ABAB $\implies$ réseau hexagonal compact
 * Soit elle est décalée $\implies$ empilement ABC : cube à face centrée
+
+Types 
+Hexagonal compact (HC)
+Cubique face centrée (CF)
+Cubique intérieur centrée (CI)
