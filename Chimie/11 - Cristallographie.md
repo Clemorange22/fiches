@@ -73,7 +73,8 @@ Troisième couche :
 * soit superposée à la première couche A on a l'empilement ABAB $\implies$ réseau hexagonal compact
 * Soit elle est décalée $\implies$ empilement ABC : cube à face centrée
 
-Types 
-Hexagonal compact (HC)
-Cubique face centrée (CF)
-Cubique intérieur centrée (CI)
+Types de réseaux :
+* Hexagonal compact (HC)
+* Cubique face centrée (CF)
+* Cubique intérieur centrée (CI)
+
