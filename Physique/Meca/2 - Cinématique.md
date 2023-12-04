@@ -64,3 +64,14 @@ $$\frac{\mathrm{d}\vec{e_{\rho(t)}}}{\mathrm{d}t}=\frac{\mathrm{d}\vec{e_{\rho}}
 Mouvement circulaire : 
 $\vec{T}(t)=\vec{e_{\phi(t)}}$
 $\vec{N}(t)=-\vec{e_{\rho(t)}}$
+
+### Repère local cylindrique
+![[Pasted image 20231204085801.png]]
+$$\vec{e_{p}}=\cos(\phi)\vec{e_{x}}+\sin(\phi)\vec{e_{y}}$$
+$$\vec{e_{\phi}}=-\sin(\phi)\vec{e_{x}}+\cos(\phi)\vec{e_{y}}$$
+
+
+## Repère local sphérique
+![[Pasted image 20231204085905.png]]
+![[Pasted image 20231204085915.png]]
+![[Pasted image 20231204090002.png]]
