@@ -68,3 +68,7 @@ Structures compactes composées d'atomes (assimilés à des sphères de rayon $R
 Dans un plan compact qu'on appelle $\pi$, chaque sphère est tangente à 6 autres sphères.
 
 Le second plan est composé d'atomes qui se placent dans l'interstice des 3 atomes donc on forme un tétraèdre
+
+Troisième couche :
+* soit superposée à la première couche A on a l'empilement ABAB hexagonal compact
+* Soit elle est décalée $\implies$ empilement ABC : cube à face centrée
