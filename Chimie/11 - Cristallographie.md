@@ -43,3 +43,19 @@ L'équidistance hkl = distance entre les plans réticulaires
 * Maille conventionnelle à intérieur centré
 * Maille conventionnelle à bases centrées
 * Maille conventionnelle toutes bases centrées
+
+## Symétries
+### Système cubique
+Centre de symétrie C
+3 axes d'ordre 4 (milieu des faces opposées)
+4 axes d'ordre 3 (4 grandes diagonales)
+6 axes d'ordre 2 (milieu des arêtes opposées)
+
+
+## Coordinence
+nombre de plus proches voisins équidistants d'un atome ou d'un ion
+
+## Compacité
+Taux d'occupation réel par les atomes assimilés à des sphères
+$\frac{V_{atomes}}{V_{mailles}}$
+

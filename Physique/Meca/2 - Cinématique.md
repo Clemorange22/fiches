@@ -71,7 +71,22 @@ $$\vec{e_{p}}=\cos(\phi)\vec{e_{x}}+\sin(\phi)\vec{e_{y}}$$
 $$\vec{e_{\phi}}=-\sin(\phi)\vec{e_{x}}+\cos(\phi)\vec{e_{y}}$$
 
 
-## Repère local sphérique
+### Repère local sphérique
 ![[Pasted image 20231204085905.png]]
 ![[Pasted image 20231204085915.png]]
 ![[Pasted image 20231204090002.png]]
+
+## Mouvements simples d’un point matériel
+
+### Mouvement rectiligne
+![[Pasted image 20231204090427.png]]
+Trajectoire = droite
+#### Mouvement rectiligne uniformément accéléré (décéléré)
+accélération constante $\implies$ vitesse affine
+
+donc $x(t)=\frac{1}{2}at^{2}+V_{0}t+x_{0}$
+
+#### Mouvement rectiligne uniforme
+Vitesse constante $\implies$ accélération nulle
+Donc $x(t)$ affine
+
