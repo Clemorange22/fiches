@@ -5,7 +5,7 @@ Cristaux différents en fonction du type de liaison :
 * Métallique
 * Moléculaire (plus rarement)
 
-### État solide cristallin
+## État solide cristallin
 Propriétés princicpales : 
 * L'ordre et l'anisotropie
 
@@ -24,7 +24,7 @@ Représenté par un réseau de noeuds à 3 dimensions
 
 #### Plan réticulaire
 Plan formé par des fractions entières de a,b et c
-Indices h, k, l, respectivement l'inverse de la fraction correspondant  à chaque intersection a, b, c. (Réduire au plus petit commun dénominateur)
+Indices de Miller h, k, l, respectivement l'inverse de la fraction correspondant  à chaque intersection a, b, c. (Réduire au plus petit commun dénominateur)
 
 Famille de plan réticulaire : chaque ensemble de plans réticulaires parallèles et équidistants qui a eux tous contiennent tous les noeuds du réseau. 
 L'équidistance hkl = distance entre les plans réticulaires
@@ -44,20 +44,23 @@ L'équidistance hkl = distance entre les plans réticulaires
 * Maille conventionnelle à bases centrées
 * Maille conventionnelle toutes bases centrées
 
-## Symétries
-### Système cubique
+### Symétries
+#### Système cubique
 Centre de symétrie C
 3 axes d'ordre 4 (milieu des faces opposées)
 4 axes d'ordre 3 (4 grandes diagonales)
 6 axes d'ordre 2 (milieu des arêtes opposées)
 
 
-## Coordinence
+### Coordinence
 nombre de plus proches voisins équidistants d'un atome ou d'un ion
 
-## Compacité
+### Compacité
 Taux d'occupation réel par les atomes assimilés à des sphères
 $\frac{V_{atomes}}{V_{mailles}}$
 
-## Caractérisation d'un cristal (bonus)
+### Caractérisation d'un cristal (bonus)
 On utilise la diffraction des rayons X
+
+## Structures types
+### Les métaux
