@@ -59,3 +59,5 @@ nombre de plus proches voisins équidistants d'un atome ou d'un ion
 Taux d'occupation réel par les atomes assimilés à des sphères
 $\frac{V_{atomes}}{V_{mailles}}$
 
+## Caractérisation d'un cristal (bonus)
+On utilise la diffraction des rayons X
