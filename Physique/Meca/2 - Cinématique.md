@@ -61,3 +61,5 @@ $$\vec{e_{\phi}}=-\sin(\phi)\vec{e_{x}}+\cos(\phi)\vec{e_{y}}$$
 $\frac{\mathrm{d}\phi}{\mathrm{d}t}$ : vitesse angulaire
 
 $$\frac{\mathrm{d}\vec{e_{\rho(t)}}}{\mathrm{d}t}=\frac{\mathrm{d}\vec{e_{\rho}}}{\mathrm{d}\phi}\times \frac{\mathrm{d}\phi}{\mathrm{d}t}$$
+$\vec{T}(t)=\vec{e_{\phi(t)}}$
+$\vec{N}(t)=-\vec{e_{\rho(t)}}$
