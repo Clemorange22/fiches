@@ -53,7 +53,7 @@ Centre de symétrie C
 
 
 ### Coordinence
-nombre de plus proches voisins équidistants d'un atome ou d'un ion
+nombre de plus proches voisins équidistants d'un atome ou d'un ion (de signe opposé ?)
 
 ### Compacité
 Taux d'occupation réel par les atomes assimilés à des sphères
@@ -102,4 +102,6 @@ Exemples :
 	* CF avec 1 site tétraèdrique sur 2 est rempli
 
 ### Structures ioniques
-Structure CsCl : Réseau cubique primitif (CP)
+* Structure CsCl : Réseau cubique primitif (CP)
+* Structure NaCl (CF)
+* Structure  ZnS 
