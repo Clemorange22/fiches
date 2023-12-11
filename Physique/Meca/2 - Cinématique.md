@@ -92,7 +92,7 @@ Donc $x(t)$ affine
 
 #### Mouvement circulaire
 
-$$V\left( \frac{M}{R} \right)=\frac{\mathrm{d}\overrightarrow{OM}}{dt}=R \omega(t) \overrightarrow{e_{\phi}}$$
+$$V(M/R)=\frac{\mathrm{d}\overrightarrow{OM}}{dt}=R \omega(t) \overrightarrow{e_{\phi}}$$
 avec : 
 * $\omega$ la vitesse angulaire en radians/seconde
 
@@ -102,3 +102,6 @@ Vecteur rotation $\omega$
 Composition des vitesses : 
 $$V_{absolue}=V_{relative}+V_{entrainement}$$
 
+Vitesse de P par rapport au disque D : vitesse relative
+
+$$\vec{V_{r}}=\vec{V}(P/R_{1})=\frac{\mathrm{d}\overrightarrow{CP}}{\mathrm{d}t}$$
