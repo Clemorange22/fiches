@@ -99,9 +99,17 @@ avec :
 Vecteur rotation $\omega$
 
 ### Changement de référentiel
+![[Pasted image 20231211084455.png]]
 Composition des vitesses : 
 $$V_{absolue}=V_{relative}+V_{entrainement}$$
 
 Vitesse de P par rapport au disque D : vitesse relative
 
 $$\vec{V_{r}}=\vec{V}(P/R_{1})=\frac{\mathrm{d}\overrightarrow{CP}}{\mathrm{d}t}$$
+### Mouvement simple d'un solide indéformable
+
+```ad-info
+Tous les points du solide (D) n’ont **pas la même vitesse**
+par rapport au référentiel absolu $R_{0}$
+La seule exception est la translation
+```
