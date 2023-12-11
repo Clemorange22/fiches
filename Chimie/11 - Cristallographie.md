@@ -86,5 +86,9 @@ Sites intersticiels : espace libre qui reste dans la structure compacte
 
 * Réseau cubique toutes faces centrées 
 	* 8 sites tétraèdriques : 1 sous chaque sommet
-	* L'atome se place au barycentre du tétraèdre (formé par le sommet et le milieu des faces adjacentes) qui se trouve aux $\frac{3}{4}$ de la hauteur du tétraèdre
-	* Hauteur : $\frac{a}{\sqrt{ 3 }}$ car la base du tétraèdre est confondue avec le plan (III)
+		* L'atome se place au barycentre du tétraèdre (formé par le sommet et le milieu des faces adjacentes) qui se trouve aux $\frac{3}{4}$ de la hauteur du tétraèdre
+		* Hauteur : $\frac{a}{\sqrt{ 3 }}$ car la base du tétraèdre est confondue avec le plan (III)
+	* 4 sites octaédriques
+		* 1 au centre formé par le mielieu des faces
+		* 3 au milieu des arrêtes : $\frac{12\times1}{4}=3$
+		* Pour que l'atome puisse s'insérer il faut que $2R + 2r \leq a$
