@@ -98,3 +98,7 @@ avec :
 
 Vecteur rotation $\omega$
 
+### Changement de référentiel
+Composition des vitesses : 
+$$V_{absolue}=V_{relative}+V_{entrainement}$$
+
