@@ -113,3 +113,11 @@ Tous les points du solide (D) n’ont **pas la même vitesse**
 par rapport au référentiel absolu $R_{0}$
 La seule exception est la translation
 ```
+
+#### Translations
+* Rectiligne
+* Circulaire
+* Curviligne
+
+#### Rotation autour d'un axe fixe $\Delta$
+Points du solide ont tous la même vitesse angulaire mais pas la même vitesse linéaire
