@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimie/11 - Cristallographie.md",
+                "file": "Chimie/7 - Spectroscopie des rayons X.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimie/11 - Cristallographie.md",
+                "file": "Chimie/7 - Spectroscopie des rayons X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimie/11 - Cristallographie.md",
+                "file": "Chimie/7 - Spectroscopie des rayons X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimie/11 - Cristallographie.md"
+                "file": "Chimie/7 - Spectroscopie des rayons X.md"
               }
             }
           },
@@ -159,6 +159,14 @@
   },
   "active": "6a6bb1774bbb6ccf",
   "lastOpenFiles": [
+    "Chimie/10-Différents types de liaisons.md",
+    "Chimie/11 - Cristallographie.md",
+    "Chimie/8 - Les liaisons.md",
+    "Chimie/7 - Spectroscopie des rayons X.md",
+    "Chimie/6 - Propriétés des atomes.md",
+    "Chimie/5 - Tableau périodique.md",
+    "Chimie/1-4 - Structure de l'atome.md",
+    "Chimie/9- Théorie des orbitales moléculaires.md",
     "index.md",
     "Physique/Meca/2 - Cinématique.md",
     "Physique/Meca/1 - Statique.md",
@@ -173,14 +181,6 @@
     "Physique/Bases/Démarche scientifique.md",
     "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
     "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
-    "Chimie/9- Théorie des orbitales moléculaires.md",
-    "Chimie/8 - Les liaisons.md",
-    "Chimie/7 - Spectroscopie des rayons X.md",
-    "Chimie/6 - Propriétés des atomes.md",
-    "Chimie/5 - Tableau périodique.md",
-    "Chimie/11 - Cristallographie.md",
-    "Chimie/10-Différents types de liaisons.md",
-    "Chimie/1-4 - Structure de l'atome.md",
     "Chimie/Corrections exos/Exo 4 spectres du lithium.md",
     "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.md",
     "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.md",
