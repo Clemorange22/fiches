@@ -104,4 +104,5 @@ Exemples :
 ### Structures ioniques
 * Structure CsCl : Réseau cubique primitif (CP)
 * Structure NaCl (CF)
-* Structure  ZnS 
+* Structure  ZnS (CF)
+* Structure CP
