@@ -92,3 +92,10 @@ Sites intersticiels : espace libre qui reste dans la structure compacte
 		* 1 au centre formé par le mielieu des faces
 		* 3 au milieu des arrêtes : $\frac{12\times1}{4}=3$
 		* Pour que l'atome puisse s'insérer il faut que $2R + 2r \leq a$
+
+### Structures covalentes
+Structure lamellaire : atomes répartis en un pavage hexagonal maintenu que par des forces de Van der Walls
+
+Exemples : 
+* Graphite
+* Diamant
