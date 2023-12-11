@@ -92,7 +92,7 @@ Donc $x(t)$ affine
 
 #### Mouvement circulaire
 
-$$V\left( \frac{M}{R} \right)=\frac{\mathrm{d}\overrightarrow{OM}}{dt}=R \omega \overrightarrow{e_{\phi}}$$
+$$V\left( \frac{M}{R} \right)=\frac{\mathrm{d}\overrightarrow{OM}}{dt}=R \omega(t) \overrightarrow{e_{\phi}}$$
 avec : 
 * $\omega$ la vitesse angulaire en radians/seconde
 
