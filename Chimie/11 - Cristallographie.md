@@ -99,3 +99,7 @@ Structure lamellaire : atomes répartis en un pavage hexagonal maintenu que par 
 Exemples : 
 * Graphite
 * Diamant
+	* CF avec 1 site tétraèdrique sur 2 est rempli
+
+### Structures ioniques
+Structure CsCl : Réseau cubique primitif (CP)
