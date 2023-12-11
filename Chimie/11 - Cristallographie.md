@@ -77,4 +77,14 @@ Types de réseaux :
 * Hexagonal compact (HC)
 * Cubique face centrée (CF)
 * Cubique intérieur centrée (CI)
+	* Compacité 68%
 
+### Alliages
+Les atomes étrangers se placent dans les sites interstitiels
+
+Sites intersticiels : espace libre qui reste dans la structure compacte
+
+* Réseau cubique toutes faces centrées 
+	* 8 sites tétraèdriques : 1 sous chaque sommet
+	* L'atome se place au barycentre du tétraèdre (formé par le sommet et le milieu des faces adjacentes) qui se trouve aux $\frac{3}{4}$ de la hauteur du tétraèdre
+	* Hauteur : $\frac{a}{\sqrt{ 3 }}$ car la base du tétraèdre est confondue avec le plan (III)

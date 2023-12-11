@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique/Meca/2 - Cinématique.md",
+                "file": "Chimie/11 - Cristallographie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Meca/2 - Cinématique.md",
+                "file": "Chimie/11 - Cristallographie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique/Meca/2 - Cinématique.md",
+                "file": "Chimie/11 - Cristallographie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique/Meca/2 - Cinématique.md"
+                "file": "Chimie/11 - Cristallographie.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "6a6bb1774bbb6ccf",
   "lastOpenFiles": [
+    "Physique/Meca/2 - Cinématique.md",
     "Physique/Meca/attachments/Pasted image 20231211084455.png",
     "Chimie/7 - Spectroscopie des rayons X.md",
     "Chimie/10-Différents types de liaisons.md",
@@ -169,7 +170,6 @@
     "Chimie/1-4 - Structure de l'atome.md",
     "Chimie/9- Théorie des orbitales moléculaires.md",
     "index.md",
-    "Physique/Meca/2 - Cinématique.md",
     "Physique/Meca/1 - Statique.md",
     "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md",
     "Physique/Elec/Régimes transitoires.md",
@@ -194,7 +194,6 @@
     "Physique/Meca/attachments/Pasted image 20231120083422.png",
     "Physique/Meca/attachments/Pasted image 20231120081419.png",
     "Excalidraw/Drawing 2023-11-14 08.20.43.excalidraw.svg",
-    "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.light.svg",
     "html/chimie/x-différents-types-de-liaisons.html",
     "Physique/Meca/attachments",
     "Physique/Meca",
