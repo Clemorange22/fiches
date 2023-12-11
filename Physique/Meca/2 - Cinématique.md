@@ -90,3 +90,11 @@ donc $x(t)=\frac{1}{2}at^{2}+V_{0}t+x_{0}$
 Vitesse constante $\implies$ accélération nulle
 Donc $x(t)$ affine
 
+#### Mouvement circulaire
+
+$$V\left( \frac{M}{R} \right)=\frac{\mathrm{d}\overrightarrow{OM}}{dt}=R \omega \overrightarrow{e_{\phi}}$$
+avec : 
+* $\omega$ la vitesse angulaire en radians/seconde
+
+Vecteur rotation $\omega$
+
