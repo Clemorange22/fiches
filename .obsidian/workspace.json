@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimie/11 - Cristallographie.md",
+                "file": "Chimie/7 - Spectroscopie des rayons X.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimie/11 - Cristallographie.md",
+                "file": "Chimie/7 - Spectroscopie des rayons X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimie/11 - Cristallographie.md",
+                "file": "Chimie/7 - Spectroscopie des rayons X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimie/11 - Cristallographie.md"
+                "file": "Chimie/7 - Spectroscopie des rayons X.md"
               }
             }
           },
@@ -159,16 +159,16 @@
   },
   "active": "6a6bb1774bbb6ccf",
   "lastOpenFiles": [
+    "Chimie/9- Théorie des orbitales moléculaires.md",
+    "Chimie/7 - Spectroscopie des rayons X.md",
+    "Chimie/11 - Cristallographie.md",
     "Physique/Meca/2 - Cinématique.md",
     "Physique/Meca/attachments/Pasted image 20231211084455.png",
-    "Chimie/7 - Spectroscopie des rayons X.md",
     "Chimie/10-Différents types de liaisons.md",
-    "Chimie/11 - Cristallographie.md",
     "Chimie/8 - Les liaisons.md",
     "Chimie/6 - Propriétés des atomes.md",
     "Chimie/5 - Tableau périodique.md",
     "Chimie/1-4 - Structure de l'atome.md",
-    "Chimie/9- Théorie des orbitales moléculaires.md",
     "index.md",
     "Physique/Meca/1 - Statique.md",
     "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md",
