@@ -25,7 +25,7 @@ $\Delta l=1$
 $\Delta j=1$ ou $0$
 cas $\Delta n=0$ : impossible jusqu'au Scandium, mais même après il n'est pas considéré car ces transitions ont une probabilité trop faible
 ##### Un fond continu
-Il est dû aux émissions de photons des électrons qui perdent de la vitesse en raison de l'attraction de l'atome
+Il est dû aux émissions de photons des électrons qui perdent de la vitesse en raison de l'attraction de l'atomeb
 Sa longueur d'onde limite correspond aux électrons incidents totalement stoppés dont toute
 ## Absorption des rayons X
 Une partie ou totalité est absorbée par l'échantillon d'épaisseur $x$ 
