@@ -9,8 +9,8 @@ Bienvenue sur le sommaire des fiches $\alpha$ !
 * [[Incertitudes et chiffres significatifs]]
 * [[Énergie]]
 ### Electrocinétique
-* [[Électrocinétique]]
-* [[Régimes transitoires]]
+* [[1 - Électrocinétique]]
+* [[2 - Régimes transitoires]]
 ### Mécanique
 * [[1 - Statique]]
 ## Chimie
