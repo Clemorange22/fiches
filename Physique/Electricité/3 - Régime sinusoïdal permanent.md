@@ -42,4 +42,7 @@ $\vec{u}=\vec{u_{1}}+\vec{u_{2}}$
 $$U(t)=U_{m}\cos(\omega t+\phi)+jU_{m}\sin(\omega t+\phi)$$
 
 **Amplitude complexe**
-$$U=U_{m}\cos(\phi )+jU_{m}\sin(\phi)$$ 
+$$U=U_{m}\cos(\phi )+jU_{m}\sin(\phi)$$ Si $u=\sqrt{ 2 }(1+j)$
+$u(t)=2\cos\left( \omega t+\frac{\pi}{4} \right)$
+Module du nombre complexe : $Um$
+Argument : $\phi$ (utilisation de la fonction $\tan$ et $\arctan$)
