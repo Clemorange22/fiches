@@ -1,5 +1,5 @@
 ![[Régimes transitoires 2023-10-23 08.05.35.excalidraw.svg]]
-%%[[Régimes transitoires 2023-10-23 08.05.35.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Régimes transitoires 2023-10-23 08.05.35.excalidraw.dark.svg|dark exported image]]%%
+%%[[Régimes transitoires 2023-10-23 08.05.35.excalidraw|🖋 Edit in Excalidraw]], and the [[Régimes transitoires 2023-10-23 08.05.35.excalidraw.dark.svg|dark exported image]]%%
 
 Quand courant continu : condensateur $\iff$ interrupteur ouvert
 on cherche à trouver une expression de $U_{c}$ en fonction de $t$
@@ -17,7 +17,7 @@ On utilise $U_{c}(0)$ pour en déduire la constante
 
 $$i(t)=C \frac{dU_{c}(t)}{dt}=C \frac{E}{RC}e^{-\frac{1}{RC}}=\frac{E}{R}e^{-1/RC}$$
 ![[Régimes transitoires 2023-10-23 08.33.47.excalidraw.svg]]
-%%[[Régimes transitoires 2023-10-23 08.33.47.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Régimes transitoires 2023-10-23 08.33.47.excalidraw.dark.svg|dark exported image]]%%
+%%[[Régimes transitoires 2023-10-23 08.33.47.excalidraw|🖋 Edit in Excalidraw]], and the [[Régimes transitoires 2023-10-23 08.33.47.excalidraw.dark.svg|dark exported image]]%%
 
 ### Puissance fournie/absorbée
 **Par le générateur**
