@@ -71,6 +71,9 @@ Tout le reste constitue le milieu extérieur
 * masse volumique
 
 **Transformation fermée :** état final = état initial
+
+**Machine motrice :** donne du travail, $W<0$
+**Machine réceptrice :** reçoit du travail, $W>0$
 ### Exemples
 
 #### Machine à vapeur
