@@ -82,4 +82,32 @@ Produit du travail à partir de chaleur
 Nécessite du travail pour déplacer de la chaleur
 
 ## États physique du corps pur et changements d'état
+### État gazeux
+* Pas d'intercation entyre les particules
+* Forte mobilité moléculaire
 
+**Propriétés du gaz parfait :***
+* Molécules suffisaments éloignées pour négliger les interactions entre elles.
+**Loi des gazs parfaits**
+$$PV=nRT$$
+$P$ : pression en Pa(scal)
+$V$ : volume en $m^{3}$
+$R = 8,314\ J.K^{-1}.mol^{-1}$
+$n$ : mol
+$T$ : Kelvin
+
+$1\ \text{atm} = 1.1013\times10^{5} \text{bar}$
+
+$$\rho=\frac{m}{V}= \frac{n\times M}{V}=\frac{M \times P}{R \times T}$$
+Densité d'un gaz par rapport à un autre
+$$d_{\frac{1}{2}}=\frac{m_{1}}{m_{2}}=\frac{M_{1}}{M_{2}}=\frac{\rho_{1}}{\rho_{2}}$$
+
+**Fraction molaire :** $x_{i}=\frac{n_{i}}{n_{\text{total gaz}}}<1$ et $\sum_{i}x_{i}=1$
+**Loi de Dalton :** $P_{i}=x_{i}\times P_{\text{total}}$
+$M_{\text{mélange}}=\sum_{i}M_{i}\times x_{i}$
+
+### État liquide
+
+### État solide
+* Interactions entre particules fortes
+* Très faible mobilité moléculaire
