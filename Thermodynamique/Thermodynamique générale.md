@@ -54,7 +54,7 @@ Tout le reste constitue le milieu extérieur
 
 **Travail :** on considère les forces extérieures au système
 
-**Transformation :** évolution d'un système entre deux états d'équilibre
+**Transformation :** évolution d'un système entre deux états d'équilibre A et B, liée à des forces extérieures
 
 **Variable extensives :** 
 * dépendent de l'étendue du système
@@ -70,3 +70,9 @@ Tout le reste constitue le milieu extérieur
 * concentration
 * masse volumique
 
+### Exemples
+
+#### Machine à vapeur
+Produit du travail à partir de chaleur
+#### Machine frigorifique
+Nécessite du travail pour déplacer de la chaleur
