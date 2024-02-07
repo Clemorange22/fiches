@@ -70,9 +70,11 @@ Tout le reste constitue le milieu extérieur
 * concentration
 * masse volumique
 
+**Transformation fermée :** état final = état initial
 ### Exemples
 
 #### Machine à vapeur
 Produit du travail à partir de chaleur
 #### Machine frigorifique
 Nécessite du travail pour déplacer de la chaleur
+
