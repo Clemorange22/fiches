@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Thermodynamique/Thermodynamique générale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Thermodynamique/Thermodynamique générale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Thermodynamique/Thermodynamique générale.md"
               }
             }
           },
@@ -177,45 +177,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "4401929d799ad8ab",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f4f116fe3e2b411d",
-        "type": "window",
-        "children": [
-          {
-            "id": "736dec7ec8d213e5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "56a78d67777f4391",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 302,
-        "y": 477,
-        "width": 800,
-        "height": 400,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "56a78d67777f4391",
+  "active": "bdfc1b50f0fb4d8d",
   "lastOpenFiles": [
+    "index.md",
     "Thermodynamique/Thermodynamique générale.md",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.md",
     "Physique/Meca/2 - Cinématique.md",
@@ -241,7 +205,6 @@
     "Chimie/5 - Tableau périodique.md",
     "Chimie/11 - Cristallographie.md",
     "Chimie/10-Différents types de liaisons.md",
-    "Chimie/1-4 - Structure de l'atome.md",
     "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.svg",
     "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.27.21.excalidraw.svg",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.svg",
