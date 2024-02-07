@@ -77,3 +77,7 @@ Où $R+jL \omega-\frac{j}{C \omega}= Z_{equ}$ l'impédance complexe
 $$\underline{u}=\underline{i}\left( R+j\left( L \omega- \frac{1}{ C \omega} \right) \right)$$
 En notation complexe, on peut remplacer une résistance, une bobine et un condensateur en série par une impédance équivalente.
 
+$\underline{Z_{equ}}= \frac{\underline{U}}{\underline{I}}$
+D'où :
+$|\underline{Z_{equ}}|=\frac{U_{m}}{I_{m}}$
+$\theta=\mathrm{arg}(\underline{Z_{equ}})=\mathrm{arg(\underline{U})}-\mathrm{arg}(\underline{I})$
