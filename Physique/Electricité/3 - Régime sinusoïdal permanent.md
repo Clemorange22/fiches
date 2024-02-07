@@ -49,3 +49,11 @@ Argument : $\phi$ (utilisation de la fonction $\tan$ et $\arctan$)
 
 **Bobine**
 $u_{L}(t)=\frac{L\mathrm{d}i}{\mathrm{d}t}$
+
+#### Exemples
+$$i(t)= I_{\text{m}}\cos(\omega t+\phi)$$
+$$\underline{i} = I_{\text{m}}e^{j\phi}$$
+$$i_{p}(t)=\frac{I_{\text{m}}}{\omega}\sin(\omega t+\phi)=\frac{I_{\text{m}}}{\omega}\cos\left( \omega t + \phi -\frac{\pi}{2} \right)$$
+$$\underline{i_{p}}=-\frac{j}{\omega}I_{m}e^{j\phi}=-\frac{j}{\omega}\underline{i}=\frac{1}{j \omega}\underline{i}$$
+La dérivée d'une grandeur sinusoïdale de pulsation $\omega$ est en avance de phase de $\frac{\pi}{2}$ et sa primitive est en retard de phase de $\frac{\pi}{2}$
+
