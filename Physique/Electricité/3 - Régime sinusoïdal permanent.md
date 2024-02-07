@@ -81,3 +81,32 @@ $\underline{Z_{equ}}= \frac{\underline{U}}{\underline{I}}$
 D'où :
 $|\underline{Z_{equ}}|=\frac{U_{m}}{I_{m}}$
 $\theta=\mathrm{arg}(\underline{Z_{equ}})=\mathrm{arg(\underline{U})}-\mathrm{arg}(\underline{I})$
+
+## Puissance en régime sinusoïdal
+En convention générateur :
+$P>0 \implies$  Dipôle générateur
+$P<0 \implies$ Dipôle récepteur
+Comme en courant continu...
+
+$$P(t)=u(t) \times i(t) = U_{m}I_{m}\cos(\omega t + \phi_{i})\cos(\omega t + \phi_{u})$$
+$$P=\frac{1}{T}\int_{0}^{T} p(t) \, \mathrm{d}t=\frac{U_{m}I_{m}}{2}\cos(\phi_{u}-\phi_{i})$$
+> [!example]
+> Pour une résistance, pas de déphasage $\implies \phi_{u}-\phi_{i} = 0$
+> Donc $$P=\frac{U_{m}I_{m}}{2}=\frac{RI_{m}^{2}}{2}$ car $U_{m}=RI_{m}$$
+
+
+### Intensité efficace
+
+>[!info] 
+>Intensité que l'on doit appliquer en courant continu pour dissiper la même puissance
+>$$I_{e}=\frac{I_{m}}{\sqrt{ 2 }}$$
+>Qui vient de :
+>$$I_{e}=\sqrt{ \frac{1}{T} \int _{0}^{T} i^{2}(t) \, dt } = \frac{I_{m}}{\sqrt{ 2 }}$$
+
+### Puissance
+
+$$P=U_{e}I_{e}\cos(\phi_{u}-\phi_{i})=UI\cos(\phi)$$
+>[!note]
+>Si une bobine est parfaite, $\phi_{u}-\phi_{i}=\frac{\pi}{2}$
+>Donc $P=0$ (logique car on ne perd pas d'énergie)
+
