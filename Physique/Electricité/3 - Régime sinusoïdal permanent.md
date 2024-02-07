@@ -110,3 +110,5 @@ $$P=U_{e}I_{e}\cos(\phi_{u}-\phi_{i})=UI\cos(\phi)$$
 >Si une bobine est parfaite, $\phi_{u}-\phi_{i}=\frac{\pi}{2}$
 >Donc $P=0$ (logique car on ne perd pas d'énergie)
 
+Dans l'industrie, il faut que $\cos(\phi)>0.8$.
+On rajoute donc des condensateurs/bobines pour diminiuer le déphasage
