@@ -113,6 +113,16 @@ $M_{\text{mélange}}=\sum_{i}M_{i}\times x_{i}$
 * Très faible mobilité moléculaire
 
 
-### Capacité thermique
+### Capacité calorifique
+
 >[!info]
 >Grandeur permettant de quantifier la possibilité qu'a un corps d'absorber ou de restituer de l'énergie par échange thermique
+
+#### Pour les gazs
+La capacité thermique dépend de la façon dont la variation de température est réalisée
+* à volume constant ($\overline{C}_{V}$) ou non
+* à pression constante ($\overline{C}_{P}$) ou non
+
+Pour les gaz parfaits : $\overline{C}_{P} - \overline{C}_{V}= R$
+$\gamma=\frac{\overline{C}_{P}}{\overline{C}_{V}}=\frac{c_{P_{m}}}{c_{V_{m}}}$ : coefficient de Laplace
+
