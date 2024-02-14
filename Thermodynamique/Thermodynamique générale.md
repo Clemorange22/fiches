@@ -111,3 +111,8 @@ $M_{\text{mélange}}=\sum_{i}M_{i}\times x_{i}$
 ### État solide
 * Interactions entre particules fortes
 * Très faible mobilité moléculaire
+
+
+### Capacité thermique
+>[!info]
+>Grandeur permettant de quantifier la possibilité qu'a un corps d'absorber ou de restituer de l'énergie par échange thermique
