@@ -126,3 +126,7 @@ La capacité thermique dépend de la façon dont la variation de température es
 Pour les gaz parfaits : $\overline{C}_{P} - \overline{C}_{V}= R$
 $\gamma=\frac{\overline{C}_{P}}{\overline{C}_{V}}=\frac{c_{P_{m}}}{c_{V_{m}}}$ : coefficient de Laplace
 
+![[Thermodynamique générale 2024-02-14 10.22.40.excalidraw.svg]]
+%%[[Thermodynamique générale 2024-02-14 10.22.40.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+**Lors d'un changement d'état, la température et la pression sont constantes**
