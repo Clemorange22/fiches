@@ -131,5 +131,5 @@ $\gamma=\frac{\overline{C}_{P}}{\overline{C}_{V}}=\frac{c_{P_{m}}}{c_{V_{m}}}$ :
 
 **Lors d'un changement d'état, la température et la pression sont constantes**
 
-Compression d'un gaz : 3 paliers : gaz $\to$ gaz/liquide $\to$ liquide
-La pression nécéssaire augmente très rapidement à partir de la phase liquide
+Compression d'un gaz : 3 paliers : gaz $\to$ gaz/liquide $\to$ liquide (des fois seulement gaz $\to$ liquide)
+La pression nécessaire augmente très rapidement à partir de la phase liquide
