@@ -21,5 +21,10 @@ On peut utiliser une échelle logarithmique  pour représenter les fonctions de 
 Puissance $P$ en bels $= \log\left( \frac{P_{s}}{P_{e}} \right)$
 Puissance $P$ en decibels $= 10\log\left( \frac{P_{s}}{P_{e}} \right)$
 
-
-
+$G$ : gain
+Tension
+$$G=20 \log\left( \frac{V_{s}}{V_{e}} \right)$$
+Intensité
+$$G=20\log\left( \frac{I_{s}}{I_{e}} \right)$$
+Puissance
+$$G=10\log\left( \frac{P_{s}}{P_{e}} \right)$$
