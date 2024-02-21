@@ -16,6 +16,7 @@ $$|H(\omega)|=f(\omega)$$
 | Coupe-bande | Coupe une certaine bande |
 | Passe-bande | Fait passer une certaine bande |
 | Pas de filtre |  |
+On peut utiliser une échelle logarithmique  pour représenter les fonctions de transfert
 
 
 
