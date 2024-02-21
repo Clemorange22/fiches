@@ -149,3 +149,4 @@ Au cours d'une transformation d'un système d'un état 1 à  un état 2,
 $\Delta E_{\text{mecanique macro}} + \Delta U= W+Q$
 
 * Transformation fermée : $\Delta U= W+Q=0$
+* Transformation ouverte : 
