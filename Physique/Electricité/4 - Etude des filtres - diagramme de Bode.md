@@ -28,3 +28,6 @@ Intensité
 $$G=20\log\left( \frac{I_{s}}{I_{e}} \right)$$
 Puissance
 $$G=10\log\left( \frac{P_{s}}{P_{e}} \right)$$
+
+Pulsation propre : $\frac{1}{RC}$
+Pulsation réduite : $x=\frac{\omega}{\omega_{0}}$
