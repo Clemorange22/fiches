@@ -147,3 +147,5 @@ Premier principe :
 Il existe un fonction d'état extensive  $U$, appelée énergie interne et homogène à une énergie.
 Au cours d'une transformation d'un système d'un état 1 à  un état 2,
 $\Delta E_{\text{mecanique macro}} + \Delta U= W+Q$
+
+* Transformation fermée : $\Delta U= W+Q=0$
