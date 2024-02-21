@@ -18,5 +18,8 @@ $$|H(\omega)|=f(\omega)$$
 | Pas de filtre |  |
 On peut utiliser une échelle logarithmique  pour représenter les fonctions de transfert
 
+Puissance $P$ en bels $= \log\left( \frac{P_{s}}{P_{e}} \right)$
+Puissance $P$ en decibels $= 10\log\left( \frac{P_{s}}{P_{e}} \right)$
+
 
 
