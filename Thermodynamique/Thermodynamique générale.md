@@ -136,3 +136,10 @@ La pression nécessaire pour comprimer augmente très rapidement à partir de la
 
 Quand la température est assez basse, on peut avoir gaz $\to$ gaz/solide $\to$ solide
 
+## Théorème de l'énergie mécanique
+
+**Lorsqu'un système est soumis uniquement à des forces conservatives** ou à des forces dont le travail est nul, alors son énergie mécanique se conserve. $\Delta E=0$
+
+**Lorsqu'un système est soumis à des forces non conservatives,** alors son énergie mécanique ne se conserve pas. On peut écrire : $\Delta E = \Delta E_{\text{c macroscopique}} + \Delta E_{\text{c microscopique}}= \sum W$
+
+## Énergie interne
