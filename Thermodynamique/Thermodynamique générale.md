@@ -134,3 +134,5 @@ $\gamma=\frac{\overline{C}_{P}}{\overline{C}_{V}}=\frac{c_{P_{m}}}{c_{V_{m}}}$ :
 Compression d'un gaz : 3 paliers : gaz $\to$ gaz/liquide $\to$ liquide (à partir d'une température suffisamment haute : gaz $\to$ liquide)
 La pression nécessaire pour comprimer augmente très rapidement à partir de la phase liquide
 
+Quand la température est assez basse, on peut avoir gaz $\to$ gaz/solide $\to$ solide
+
