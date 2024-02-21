@@ -143,3 +143,7 @@ Quand la température est assez basse, on peut avoir gaz $\to$ gaz/solide $\to$ 
 **Lorsqu'un système est soumis à des forces non conservatives,** alors son énergie mécanique ne se conserve pas. On peut écrire : $\Delta E = \Delta E_{\text{c macroscopique}} + \Delta E_{\text{c microscopique}}= \sum W$
 
 ## Énergie interne
+Premier principe : 
+Il existe un fonction d'état extensive  $U$, appelée énergie interne et homogène à une énergie.
+Au cours d'une transformation d'un système d'un état 1 à  un état 2,
+$\Delta E_{\text{mecanique macro}} + \Delta U= W+Q$
