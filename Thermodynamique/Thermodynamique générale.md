@@ -155,3 +155,9 @@ $\Delta E_{\text{mecanique macro}} + \Delta U= W+Q$
 
 $U$ est une fonction d'état
 $W$ et $Q$ n'en sont pas
+
+>[!warning] 
+>On peut avoir une transformation ouverte avec un système fermé.
+>Exemple : piston
+
+$\delta W=-P_{ext} \times \mathrm{d}V$
