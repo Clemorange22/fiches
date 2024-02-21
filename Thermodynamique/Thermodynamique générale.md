@@ -149,4 +149,9 @@ Au cours d'une transformation d'un système d'un état 1 à  un état 2,
 $\Delta E_{\text{mecanique macro}} + \Delta U= W+Q$
 
 * Transformation fermée : $\Delta U= W+Q=0$
-* Transformation ouverte : 
+* Transformation ouverte 
+
+**Fonction d'état :** dépend seulement de l'état de départ et d'arrivée, et non pas de manière de passer de l'un à l'autre
+
+$U$ est une fonction d'état
+$W$ et $Q$ n'en sont pas
