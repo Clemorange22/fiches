@@ -172,3 +172,4 @@ $W=\int  \overline{F_{ext}} \, \vec{du} = \int  \overline{F_{ext}} \times \vec{d
 Or $dV < 0$ donc $|dV| = -dV$
 Donc $W = \int - P_{ext} \times dV$
 
+Il faut plus de travail pour une transformation brusque que réversible
