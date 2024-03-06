@@ -160,6 +160,7 @@ $W$ et $Q$ n'en sont pas
 >On peut avoir une transformation ouverte avec un système fermé.
 >Exemple : piston
 
+## Travail des forces de pression
 $\delta W=-P_{ext} \times \mathrm{d}V$
 
 Piston compresssé par un poids
@@ -170,3 +171,4 @@ Piston compresssé par un poids
 $W=\int  \overline{F_{ext}} \, \vec{du} = \int  \overline{F_{ext}} \times \vec{du}=\int P_{ext} \times S \times du=\int P_{ext} \times |dV|$
 Or $dV < 0$ donc $|dV| = -dV$
 Donc $W = \int - P_{ext} \times dV$
+
