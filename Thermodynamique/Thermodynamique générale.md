@@ -173,3 +173,13 @@ Or $dV < 0$ donc $|dV| = -dV$
 Donc $W = \int - P_{ext} \times dV$
 
 Il faut plus de travail pour une transformation brusque que réversible
+
+Système fermé : En fonction du sens de la transformation, le travail $W$ est positif ou négatif
+
+monobare : $P_{A}=P_{B}$
+isobare : $P_{A}=P_{B} = cste$
+monotherme : $T_{A}=T_{B}$
+isotherme : $T_{A}=T_{B}=cste$
+isochore : volume toujours constant
+adiabatique : transformation qui n'échange pas de chaleur
+
