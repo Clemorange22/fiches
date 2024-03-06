@@ -161,3 +161,4 @@ $W$ et $Q$ n'en sont pas
 >Exemple : piston
 
 $\delta W=-P_{ext} \times \mathrm{d}V$
+
