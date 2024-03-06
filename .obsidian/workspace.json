@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamique/Thermodynamique générale.md",
+                "file": "Physique/Meca/3 - Dynamique.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamique/Thermodynamique générale.md",
+                "file": "Physique/Meca/3 - Dynamique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thermodynamique/Thermodynamique générale.md",
+                "file": "Physique/Meca/3 - Dynamique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thermodynamique/Thermodynamique générale.md"
+                "file": "Physique/Meca/3 - Dynamique.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "64c0d3515f68b7f0",
   "lastOpenFiles": [
-    "Physique/Electricité/4 - Etude des filtres - diagramme de Bode.md",
     "Thermodynamique/Thermodynamique générale.md",
+    "Physique/Meca/3 - Dynamique.md",
+    "Physique/Electricité/4 - Etude des filtres - diagramme de Bode.md",
     "index.md",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.md",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.md",
@@ -184,7 +185,6 @@
     "Chimie/8 - Les liaisons.md",
     "Chimie/7 - Spectroscopie des rayons X.md",
     "Chimie/6 - Propriétés des atomes.md",
-    "Chimie/5 - Tableau périodique.md",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.svg",
     "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.svg",
     "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.27.21.excalidraw.svg",
