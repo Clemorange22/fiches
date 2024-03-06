@@ -162,3 +162,11 @@ $W$ et $Q$ n'en sont pas
 
 $\delta W=-P_{ext} \times \mathrm{d}V$
 
+Piston compresssé par un poids
+2 cas :
+* Transformation réversible
+* Transformation brusque
+ Soit $\vec{du }$ le déplacement élémentaire du point d'application
+$W=\int  \overline{F_{ext}} \, \vec{du} = \int  \overline{F_{ext}} \times \vec{du}=\int P_{ext} \times S \times du=\int P_{ext} \times |dV|$
+Or $dV < 0$ donc $|dV| = -dV$
+Donc $W = \int - P_{ext} \times dV$
