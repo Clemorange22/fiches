@@ -15,3 +15,6 @@ Def : voir OMNI
 
 ### Centre d'inertie
 Les coefficients sont des masses
+Trouver le centre d'inertie : analyser la répartition de masse (symétries)
+
+**Axe de révolution :** axe commun à une infinité de plans de symétrie
