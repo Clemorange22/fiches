@@ -13,3 +13,5 @@ $$\mathrm{d}m = \rho \mathrm{d}v$$
 ### Barycentre : centre d'inertie
 Def : voir OMNI
 
+### Centre d'inertie
+Les coefficients sont des masses
