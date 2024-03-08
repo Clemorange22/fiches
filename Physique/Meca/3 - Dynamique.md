@@ -18,3 +18,7 @@ Les coefficients sont des masses
 Trouver le centre d'inertie : analyser la répartition de masse (symétries)
 
 **Axe de révolution :** axe commun à une infinité de plans de symétrie
+
+Solide en rotation autour d'un axe
+Pour calculer l'énergie cinétique, il faut savoir comment la masse du solide est répartie par rapport à l'axe de rotation
+
