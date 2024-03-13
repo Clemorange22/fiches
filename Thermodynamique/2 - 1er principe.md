@@ -70,3 +70,5 @@ $\delta Q_{ev}=C_{v}\mathrm{d}T+l\mathrm{d}V$
 
 
 
+### Gaz parfait
+$\Delta U=C_{v} \times \Delta T = n \overline{C}\dots$
