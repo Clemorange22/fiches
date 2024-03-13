@@ -45,18 +45,33 @@ Loi de répartition de masse pour un solide : $\mathrm{d}m(M)=\rho(M)\mathrm{d}v
 
 **Quantité de mouvement élémentaire :** $$\overrightarrow{\mathrm{d}q(M)}=\overrightarrow{V}(M) \times \mathrm{d}m(M)$$
 Pour un point matériel $M$ de masse $m$ : $\vec{q}(M)=m\vec{V}(M)$
-
+Avec $\vec{V}$ la vitesse du point
 ### Moment cinétique
 #### Point matériel
+$$\overrightarrow{\sigma_{O}}=\overrightarrow{OM}\wedge \vec{q}(M)$$
 #### Solide indéformable
 #### Système
+$$\overrightarrow{M_{O}}(C)=\int_{S}  \overrightarrow{OM} \wedge \vec{\mathrm{d}q}=\int_{S} \overrightarrow{OM} \wedge \vec{V}(M)\mathrm{d}m(M) $$
 
+**Résultante cinétique**
+$$\vec{C}=\int_{S} \vec{\mathrm{d}q}(M)=\int_{S} \vec{V}(M)\mathrm{d}m(M)$$
+On en déduit (à démontrer) : $$\vec{C}=M \times \vec{V}(G)$$
+avec $G$ le centre de masse
+**Torseur :**
+
+$$[C]=\begin{cases} \vec{C} = \text{résulante cinétique} \\ \overrightarrow{M_{O}}(C) = \text{moment cinétique résultant} \end{cases}$$
+![[Pasted image 20240313115506.png]]
 ### Énergie cinétique
+On doit pouvoir démonter les expressions suivantes :
 
 #### Point matériel
+$$E_{k}=\frac{1}{2}m\vec{V}^{2}(M)=\frac{1}{2} \vec{q}(M) \times \vec{V}(M)$$
+
 #### Solide indéformable en translation
+$$E_{k}=\frac{1}{2}M\vec{V}^{2}(G)$$
 
 #### Solide indéformable en rotation
+$$E_{k}=\frac{1}{2} M\vec{V}^{2}(G)$$
 
 #### Système
 
