@@ -26,4 +26,4 @@ Bienvenue sur le sommaire des fiches $\alpha$ !
 * [[11 - Cristallographie]]
 
 ## Thermodynamique
-* [[Thermodynamique générale]]
+* [[1 - Thermodynamique générale]]
