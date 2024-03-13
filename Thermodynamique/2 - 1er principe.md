@@ -40,3 +40,16 @@ isotherme : $T_{A}=T_{B}=cste$
 isochore : volume toujours constant
 adiabatique : transformation qui n'échange pas de chaleur
 
+
+| Conditions spécifiques             | $\Delta U_{AB}+W_{AB}$             |                                                              | Commentaires                                         | Gaz parfait |
+| ---------------------------------- | ---------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- | ----------- |
+|                                    | Réversible                         | Irréversible                                                 |                                                      |             |
+| Monotherme ($T_{ext}$ = constante) | $T_{sys}=$ constante               | $T_{A}=T_{B}$ mais peut changer au cours de la tranformation | Dans les 2 cas, $W_{AB}$ et $Q_{AB}$ sont différents |             |
+| Isochore ($V$ constant)            | $W_{AB}=0$; $Q_{AB}=\Delta U_{AB}$ | $W_{AB}=0$; $Q_{AB}= \Delta U_{AB}$                          |                                                      |             |
+| Monobare ($P_{ext}$ constante )    | $P$ constante                      | $P$ peut être différente                                     |                                                      |             |
+| Adiabatique                        |                                    |                                                              |                                                      |             |
+$\Delta H=Q_{V}=\Delta U+ \Delta(PV)$
+où $\Delta U=Q_{V}\neq Q_{P}$
+
+$\Delta H$ : "chaleur échangée" = fonction enthalpie du système / fonction d'état
+
