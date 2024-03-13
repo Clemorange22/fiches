@@ -47,9 +47,20 @@ adiabatique : transformation qui n'échange pas de chaleur
 | Monotherme ($T_{ext}$ = constante) | $T_{sys}=$ constante               | $T_{A}=T_{B}$ mais peut changer au cours de la tranformation | Dans les 2 cas, $W_{AB}$ et $Q_{AB}$ sont différents |             |
 | Isochore ($V$ constant)            | $W_{AB}=0$; $Q_{AB}=\Delta U_{AB}$ | $W_{AB}=0$; $Q_{AB}= \Delta U_{AB}$                          |                                                      |             |
 | Monobare ($P_{ext}$ constante )    | $P$ constante                      | $P$ peut être différente                                     |                                                      |             |
-| Adiabatique                        |                                    |                                                              |                                                      |             |
+| Adiabatique                        | $Q=0$; $W_{AB}=\Delta U_{AB}$      | $Q=0$                                                        |                                                      | $PV=nRT$    |
 $\Delta H=Q_{V}=\Delta U+ \Delta(PV)$
 où $\Delta U=Q_{V}\neq Q_{P}$
 
 $\Delta H$ : "chaleur échangée" = fonction enthalpie du système / fonction d'état
 
+### Système fermé
+Soit un système fermé avec $n$ variables d'état
+$n-1$ dérivées partielles suffisent à 
+$$\mathrm{d}U_{\sigma}=\left(\frac{\partial U}{\partial T} \right) \mathrm{d}T+ \left( \frac{\partial U}{\partial V} \right)\mathrm{d}V$$
+$$\mathrm{d}U_{\sigma}=\delta W_{\sigma}+\delta Q_{\sigma}=-P_{ext}\mathrm{d}V+\delta Q_{\sigma}$$
+$$C_{v}=\left( \frac{\partial U}{\partial T} \right)_{V}$$
+$C_{v}$ : **capacité calorifique à volume constant**
+$$l=P+\left( \frac{\partial U}{\partial V} \right)_{T}$$
+$l$ : **chaleur latente d'expansion**
+
+$\delta Q_{ev}=C_{v}\mathrm{d}T+l\mathrm{d}V$
