@@ -44,6 +44,7 @@ homogène à une masse fois une vitesse
 Loi de répartition de masse pour un solide : $\mathrm{d}m(M)=\rho(M)\mathrm{d}v$
 
 **Quantité de mouvement élémentaire :** $$\overrightarrow{\mathrm{d}q(M)}=\overrightarrow{V}(M) \times \mathrm{d}m(M)$$
+Pour un point matériel $M$ de masse $m$ : $\vec{q}(M)=m\vec{V}(M)$
 
 ### Moment cinétique
 #### Point matériel
