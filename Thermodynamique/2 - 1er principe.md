@@ -41,13 +41,13 @@ isochore : volume toujours constant
 adiabatique : transformation qui n'échange pas de chaleur
 
 
-| Conditions spécifiques             | $\Delta U_{AB}+W_{AB}$             |                                                              | Commentaires                                         | Gaz parfait |
-| ---------------------------------- | ---------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- | ----------- |
-|                                    | Réversible                         | Irréversible                                                 |                                                      |             |
-| Monotherme ($T_{ext}$ = constante) | $T_{sys}=$ constante               | $T_{A}=T_{B}$ mais peut changer au cours de la tranformation | Dans les 2 cas, $W_{AB}$ et $Q_{AB}$ sont différents |             |
-| Isochore ($V$ constant)            | $W_{AB}=0$; $Q_{AB}=\Delta U_{AB}$ | $W_{AB}=0$; $Q_{AB}= \Delta U_{AB}$                          |                                                      |             |
-| Monobare ($P_{ext}$ constante )    | $P$ constante                      | $P$ peut être différente                                     |                                                      |             |
-| Adiabatique                        | $Q=0$; $W_{AB}=\Delta U_{AB}$      | $Q=0$                                                        |                                                      | $PV=nRT$    |
+| Conditions spécifiques             | $\Delta U_{AB}+W_{AB}$             |                                                              | Commentaires                                         | Gaz parfait                        |
+| ---------------------------------- | ---------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------------- |
+|                                    | Réversible                         | Irréversible                                                 |                                                      |                                    |
+| Monotherme ($T_{ext}$ = constante) | $T_{sys}=$ constante               | $T_{A}=T_{B}$ mais peut changer au cours de la tranformation | Dans les 2 cas, $W_{AB}$ et $Q_{AB}$ sont différents | $\Delta U=0$; $\Delta H=0$; $Q=-W$ |
+| Isochore ($V$ constant)            | $W_{AB}=0$; $Q_{AB}=\Delta U_{AB}$ | $W_{AB}=0$; $Q_{AB}= \Delta U_{AB}$                          |                                                      |                                    |
+| Monobare ($P_{ext}$ constante )    | $P$ constante                      | $P$ peut être différente                                     |                                                      |                                    |
+| Adiabatique                        | $Q=0$; $W_{AB}=\Delta U_{AB}$      | $Q=0$                                                        |                                                      | $PV=nRT$                           |
 $\Delta H=Q_{V}=\Delta U+ \Delta(PV)$
 où $\Delta U=Q_{V}\neq Q_{P}$
 
