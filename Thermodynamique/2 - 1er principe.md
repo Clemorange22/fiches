@@ -64,3 +64,9 @@ $$l=P+\left( \frac{\partial U}{\partial V} \right)_{T}$$
 $l$ : **chaleur latente d'expansion**
 
 $\delta Q_{ev}=C_{v}\mathrm{d}T+l\mathrm{d}V$
+
+>[!hint] 
+>Une échange de chaleur n'implique pas forcément une variation de la température d'un système, il peut aussi agir sur son volume
+
+
+
