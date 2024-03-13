@@ -37,3 +37,28 @@ Où $\mathrm{d}J_{\Delta}=[d(P, \Delta)]^{2} \times \mathrm{d}m$
 
 $$J_{\Delta}= J_{\Delta_{G}} + M d^{2}$$
 
+## Cinétique
+### Quantité de mouvement
+homogène à une masse fois une vitesse
+
+Loi de répartition de masse pour un solide : $\mathrm{d}m(M)=\rho(M)\mathrm{d}v$
+
+**Quantité de mouvement élémentaire :** $$\overrightarrow{\mathrm{d}q(M)}=\overrightarrow{V}(M) \times \mathrm{d}m(M)$$
+
+### Moment cinétique
+#### Point matériel
+#### Solide indéformable
+#### Système
+
+### Énergie cinétique
+
+#### Point matériel
+#### Solide indéformable en translation
+
+#### Solide indéformable en rotation
+
+#### Système
+
+
+
+
