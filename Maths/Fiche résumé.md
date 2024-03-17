@@ -39,3 +39,8 @@ Soit $I$ un intervalle de $\mathbb{R}$ et $f$ une fonction continue et stricteme
 * $\forall x \in [-1,1], \cos(\arccos(x))=x$
 * $\forall \theta \in \left[ 0,\pi \right], \arccos(\cos(\theta))=\theta$
 
+### liens arcsin-arccos
+* $\forall x \in [-1,1], \arccos(x)+\arcsin(x) = \frac{\pi}{2}$
+* $\forall x \in [-1,1], \cos(\arcsin(x)) = \sin(\arccos(x)) = \sqrt{ 1-x^{2} }$
+### tan
+* tan:
