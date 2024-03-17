@@ -15,3 +15,7 @@ $f([a,b])=[min(f), max(f)]$
 
 ## Bijection
 Soit $I$ un intervalle de $\mathbb{R}$ et $f$ une fonction continue et strictement monotone sur $I$
+* $f$ bijective de $I$ dans $f(I)$
+* $f(I)$ est un intervalle dont les bornes sont les limites de $f$ aux bornes de $I$
+* $f^{-1}$ : $f(I) \to I$ est continue sur $f(I)$ et a le même sens de variation que $f$
+* les courbes de $f$ et $f^{-1}$ sont 
