@@ -18,4 +18,24 @@ Soit $I$ un intervalle de $\mathbb{R}$ et $f$ une fonction continue et stricteme
 * $f$ bijective de $I$ dans $f(I)$
 * $f(I)$ est un intervalle dont les bornes sont les limites de $f$ aux bornes de $I$
 * $f^{-1}$ : $f(I) \to I$ est continue sur $f(I)$ et a le même sens de variation que $f$
-* les courbes de $f$ et $f^{-1}$ sont 
+* les courbes de $f$ et $f^{-1}$ sont symétriques par rapport à $y=x$
+
+## Fonctions trigo
+### sin
+* sin :$\left[ -\frac{\pi}{2}, \frac{\pi}{2} \right] \to [-1,1]$ 
+* continue et strictement croissante donc bijective
+### arcsin
+* arcsin : $[-1, 1] \to \left[ -\frac{\pi}{2}, \frac{\pi}{2} \right]$
+* continue, strictement croissante, impaire
+* $\forall x \in [-1,1], \sin(\arcsin(x))=x$
+* $\forall \theta \in \left[ -\frac{\pi}{2}, \frac{\pi}{2} \right], \arcsin(\sin(\theta))=\theta$
+* $\arcsin(x) \underset{0}{\sim} x$
+### cos
+* cos :$\left[ 0,\pi \right] \to [-1,1]$ 
+* continue et strictement décroissante donc bijective
+### arccos
+* arccos : $[-1, 1] \to \left[ 0,\pi \right]$
+* continue, strictement croissante
+* $\forall x \in [-1,1], \cos(\arccos(x))=x$
+* $\forall \theta \in \left[ 0,\pi \right], \arccos(\cos(\theta))=\theta$
+
