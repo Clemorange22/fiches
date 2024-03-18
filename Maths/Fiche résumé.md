@@ -43,4 +43,13 @@ Soit $I$ un intervalle de $\mathbb{R}$ et $f$ une fonction continue et stricteme
 * $\forall x \in [-1,1], \arccos(x)+\arcsin(x) = \frac{\pi}{2}$
 * $\forall x \in [-1,1], \cos(\arcsin(x)) = \sin(\arccos(x)) = \sqrt{ 1-x^{2} }$
 ### tan
-* tan: $]-\frac{\pi}{2}, \frac{\pi}{2}[$
+* tan: $]-\frac{\pi}{2}, \frac{\pi}{2}[ \to \mathbb{R}$
+* continue et strictement croissante donc bijective
+### arctan
+* arctan : $\mathbb{R} \to ]-\frac{\pi}{2}, \frac{\pi}{2}[$
+* continue, strictement croissante et impaire
+* $\forall x \in \mathbb{R}, \tan(\arctan(x))=x$
+* $\forall \theta \in ]-\frac{\pi}{2}, \frac{\pi}{2}[, \arctan(\tan(\theta))=\theta$
+* $\arctan(x) \underset{0}{\sim} x$
+* $\forall x>0, \arctan(x) + \arctan\left( \frac{1}{x} \right) = \frac{\pi}{2}$
+* $\forall x<0, \arctan(x) + \arctan\left( \frac{1}{x} \right) = -\frac{\pi}{2}$
