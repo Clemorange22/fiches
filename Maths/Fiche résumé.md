@@ -53,3 +53,6 @@ Soit $I$ un intervalle de $\mathbb{R}$ et $f$ une fonction continue et stricteme
 * $\arctan(x) \underset{0}{\sim} x$
 * $\forall x>0, \arctan(x) + \arctan\left( \frac{1}{x} \right) = \frac{\pi}{2}$
 * $\forall x<0, \arctan(x) + \arctan\left( \frac{1}{x} \right) = -\frac{\pi}{2}$
+
+
+
