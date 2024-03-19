@@ -30,6 +30,7 @@ Soit $I$ un intervalle de $\mathbb{R}$ et $f$ une fonction continue et stricteme
 * $\forall x \in [-1,1], \sin(\arcsin(x))=x$
 * $\forall \theta \in \left[ -\frac{\pi}{2}, \frac{\pi}{2} \right], \arcsin(\sin(\theta))=\theta$
 * $\arcsin(x) \underset{0}{\sim} x$
+* $\arcsin'(x)=\frac{1}{\sqrt{ 1-x^{2} }}$
 ### cos
 * cos :$\left[ 0,\pi \right] \to [-1,1]$ 
 * continue et strictement décroissante donc bijective
@@ -38,6 +39,7 @@ Soit $I$ un intervalle de $\mathbb{R}$ et $f$ une fonction continue et stricteme
 * continue, strictement croissante
 * $\forall x \in [-1,1], \cos(\arccos(x))=x$
 * $\forall \theta \in \left[ 0,\pi \right], \arccos(\cos(\theta))=\theta$
+* $\arccos'(x)=-\frac{1}{\sqrt{ 1-x^{2} }}$
 
 ### liens arcsin-arccos
 * $\forall x \in [-1,1], \arccos(x)+\arcsin(x) = \frac{\pi}{2}$
@@ -53,6 +55,8 @@ Soit $I$ un intervalle de $\mathbb{R}$ et $f$ une fonction continue et stricteme
 * $\arctan(x) \underset{0}{\sim} x$
 * $\forall x>0, \arctan(x) + \arctan\left( \frac{1}{x} \right) = \frac{\pi}{2}$
 * $\forall x<0, \arctan(x) + \arctan\left( \frac{1}{x} \right) = -\frac{\pi}{2}$
+* $\arctan'(x)=\frac{1}{1+x^{2}}$
+
 
 
 
