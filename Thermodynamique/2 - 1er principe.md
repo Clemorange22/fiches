@@ -91,3 +91,11 @@ $PV^{\frac{R}{\overline{C_{v}}}+1}=cste$
 * **Isochore** : $V_{\text{initial}}=V_{\text{final}}\implies W=0$; $\Delta U=Q=Q_{V}$
 * **Monobare :** $P_{\text{initiale}}=P_{\text{finale}}=P_{\text{extérieure}}$; GP : $\Delta U=\Delta H=0$; liqu ou sol: $\Delta U=W$
 * **Adiabatique :** ...
+
+## Centrale à vapeur
+**Coefficient de performance**
+$CoP=|\frac{\text{Energie qui m'intéresse}}{\text{Energie qui coute pour le fonctionnement}}| >0$
+
+![[2 - 1er principe 2024-03-20 10.30.30.excalidraw.svg]]
+%%[[2 - 1er principe 2024-03-20 10.30.30.excalidraw.md|🖋 Edit in Excalidraw]]%%
+

@@ -13,26 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Fiche résumé.md",
+                "file": "Thermodynamique/2 - 1er principe.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6243dfc5595f83d2",
+            "id": "ec3ce113ed9efa38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Thermodynamique/2 - 1er principe.md",
-                "mode": "source",
-                "source": false
+                "file": "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,8 +168,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6243dfc5595f83d2",
+  "active": "64c0d3515f68b7f0",
   "lastOpenFiles": [
+    "Maths/Fiche résumé.md",
+    "Thermodynamique/2 - 1er principe.md",
+    "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.md",
+    "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.svg",
     "index.md",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.md",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.md",
@@ -196,9 +197,6 @@
     "Chimie/8 - Les liaisons.md",
     "Chimie/7 - Spectroscopie des rayons X.md",
     "Chimie/6 - Propriétés des atomes.md",
-    "Chimie/5 - Tableau périodique.md",
-    "Chimie/11 - Cristallographie.md",
-    "Chimie/10-Différents types de liaisons.md",
     "Maths",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.svg",
     "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.svg",
@@ -211,7 +209,6 @@
     "Physique/Meca/attachments/Pasted image 20231204090002.png",
     "Physique/Meca/attachments/Pasted image 20231204085915.png",
     "Physique/Meca/attachments/Pasted image 20231204085905.png",
-    "Physique/Meca/attachments/Pasted image 20231204085801.png",
     "html/chimie/x-différents-types-de-liaisons.html",
     "Physique/Meca/attachments",
     "Physique/Meca",
