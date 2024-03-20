@@ -73,3 +73,7 @@ ou $$\forall x \in \mathbb{R}, P(x)=\sum^{n}_{k=0}\frac{P^{(k)}(\alpha)}{k!}(x-\
 - ch
 - th
 ## Théorème de la dérivée de la réciproque
+$f^{-1}$ est dérivable en $a$ si et seulement si $f'(a)\neq 0$
+$$(f^{-1})'(f(a))=\frac{1}{f'(a)}$$
+ou encore, si on pose $b=f(a)$
+$$(f^{-1})'(b)=\frac{1}{f' \circ f^{-1}(b)}$$
