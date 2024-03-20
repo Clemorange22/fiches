@@ -116,3 +116,6 @@ $$\vec{F}=m\vec{a}$$
 - torseur des forces intérieures $[F_{i}]$
 - torseur des forces extérieures $[F_{e}]$
 
+Il existe un référentiel galiléen $R^{G}$ et une manière de mesurer le temps dite chronologique absolue tels que le torseur des forces extérieures exercées sur un système soit à chaque instant égal au torseur dynamique
+$$[F_{e}]=[D]_{R^{G}}$$
+
