@@ -82,3 +82,12 @@ $\mathrm{d}U=n\overline{C_{V}}\mathrm{d}T$
 $\delta Q_{\text{rev}}=n\overline{C_{v}} \mathrm{d}T+l\mathrm{d}V$
 $\delta Q_{\text{rev}}=n\overline{C_{p}}\mathrm{d}T+h\mathrm{d}P$
 
+**Transformation adiabatique réversible d'un gaz parfait :** 
+$TV^{\frac{R}{\overline{C_{v}}}}=cste$
+$PV^{\frac{R}{\overline{C_{v}}}+1}=cste$
+
+#### Transformation
+* **fermée** : état initial = état final; $\Delta U=\Delta H=0$
+* **Isochore** : $V_{\text{initial}}=V_{\text{final}}\implies W=0$; $\Delta U=Q=Q_{V}$
+* **Monobare :** $P_{\text{initiale}}=P_{\text{finale}}=P_{\text{extérieure}}$; GP : $\Delta U=\Delta H=0$; liqu ou sol: $\Delta U=W$
+* **Adiabatique :** ...
