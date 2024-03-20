@@ -55,6 +55,3 @@ Soit $I$ un intervalle de $\mathbb{R}$ et $f$ une fonction continue et stricteme
 * $\forall x<0, \arctan(x) + \arctan\left( \frac{1}{x} \right) = -\frac{\pi}{2}$
 * $\arctan'(x)=\frac{1}{1+x^{2}}$
 
-
-
-
