@@ -29,7 +29,7 @@ $$J_{\Delta}=\sum^{N}_{i=1}m_{i} \times [d(P_{i}, \Delta)]^{2}$$
 $d(P_{i}, \Delta)$ est la distance du point $P_{i}$ à l'axe $\Delta$
 
 Pour une répartition continue de masse :
-$J_{\Delta}= \int \mathrm{d}J_{\Delta}$
+$$J_{\Delta}= \int \mathrm{d}J_{\Delta}$$
 Où $\mathrm{d}J_{\Delta}=[d(P, \Delta)]^{2} \times \mathrm{d}m$
 
 >[!info]
@@ -71,7 +71,7 @@ $$E_{k}=\frac{1}{2}m\vec{V}^{2}(M)=\frac{1}{2} \vec{q}(M) \times \vec{V}(M)$$
 $$E_{k}=\frac{1}{2}M\vec{V}^{2}(G)$$
 
 #### Solide indéformable en rotation
-$$E_{k}=\frac{1}{2} M\vec{V}^{2}(G)$$
+$$E_{k}=\frac{1}{2} J_{\Delta}\omega^{2}$$
 
 #### Système
 
