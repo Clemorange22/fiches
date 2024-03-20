@@ -98,4 +98,15 @@ $CoP=|\frac{\text{Energie qui m'intéresse}}{\text{Energie qui coute pour le fon
 
 ![[2 - 1er principe 2024-03-20 10.30.30.excalidraw.svg]]
 %%[[2 - 1er principe 2024-03-20 10.30.30.excalidraw.md|🖋 Edit in Excalidraw]]%%
+$CoP=\frac{-W}{Q_{1}}$
+## Machine frigorifique
+![[2 - 1er principe 2024-03-20 10.43.13.excalidraw.svg]]
+%%[[2 - 1er principe 2024-03-20 10.43.13.excalidraw.md|🖋 Edit in Excalidraw]]%%
+$CoP={\frac{Q_2}{W}}$
 
+### Pompe à chaleur
+![[Pasted image 20240320104952.png]]
+$CoP=\frac{-Q_{1}}{W}$
+
+## Rendement
+$$r=\frac{E_{\text{réelle}}}{E_{\text{rev}}}=\frac{CoP_{réel}}{CoP_{\mathrm{Re}v}}$$
