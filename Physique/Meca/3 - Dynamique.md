@@ -54,7 +54,7 @@ $$\overrightarrow{\sigma_{O}}=\overrightarrow{OM}\wedge \vec{q}(M)$$
 $$\overrightarrow{M_{O}}(C)=\int_{S}  \overrightarrow{OM} \wedge \vec{\mathrm{d}q}=\int_{S} \overrightarrow{OM} \wedge \vec{V}(M)\mathrm{d}m(M) $$
 
 **Résultante cinétique**
-$$\vec{C}=\int_{S} \vec{\mathrm{d}q}(M)=\int_{S} \vec{V}(M)\mathrm{d}m(M)$$
+$$\vec{C}=\int_{S} \vec{\mathrm{d}q}(M)=\int_{S} \vec{V}(M)\mathrm{d}m(M)=\int \frac{\vec{\mathrm{d}OG}}{\mathrm{d}t} \, dm + \int \frac{\vec{\mathrm{d}GM}}{\mathrm{d}t} \, dm =\vec{V}(G) \times M + \vec{0}$$
 On en déduit (à démontrer) : $$\vec{C}=M \times \vec{V}(G)$$
 avec $G$ le centre de masse
 **Torseur :**
