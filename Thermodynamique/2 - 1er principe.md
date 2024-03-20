@@ -71,4 +71,14 @@ $\delta Q_{ev}=C_{v}\mathrm{d}T+l\mathrm{d}V$
 
 
 ### Gaz parfait
-$\Delta U=C_{v} \times \Delta T = n \overline{C}\dots$
+$$\Delta U=n\overline{C_{v}} \times \Delta T \frac{1}{\gamma-1}(P_{f}V_{f}-P_{i}V_{i})$$
+
+$l=\frac{P}{h}=-V$
+$\mathrm{d}U=n\overline{C_{V}}\mathrm{d}T$
+
+### Transformations particulière
+**Adiabatique :** $\Delta Q=0 \iff W=\Delta U=W_{\text{adiabatique, GP}}$
+
+$\delta Q_{\text{rev}}=n\overline{C_{v}} \mathrm{d}T+l\mathrm{d}V$
+$\delta Q_{\text{rev}}=n\overline{C_{p}}\mathrm{d}T+h\mathrm{d}P$
+

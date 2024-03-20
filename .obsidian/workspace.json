@@ -23,9 +23,11 @@
             "id": "6243dfc5595f83d2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "Thermodynamique/2 - 1er principe.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "931164338e959ffa",
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Fiche résumé.md",
+                "file": "Thermodynamique/2 - 1er principe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Fiche résumé.md",
+                "file": "Thermodynamique/2 - 1er principe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Fiche résumé.md"
+                "file": "Thermodynamique/2 - 1er principe.md"
               }
             }
           },
