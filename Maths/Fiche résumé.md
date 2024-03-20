@@ -1,5 +1,3 @@
-# Équivalents
-
 # Continuité
 $sup(I)=$ plus petit majorant de I
 $inf(I)=$ plus grand majorant de I
