@@ -28,7 +28,7 @@ Soit $I$ un intervalle de $\mathbb{R}$ et $f$ une fonction continue et stricteme
 * $\forall x \in [-1,1], \sin(\arcsin(x))=x$
 * $\forall \theta \in \left[ -\frac{\pi}{2}, \frac{\pi}{2} \right], \arcsin(\sin(\theta))=\theta$
 * $\arcsin(x) \underset{0}{\sim} x$
-* $\arcsin'(x)=\frac{1}{\sqrt{ 1-x^{2} }}$
+* $\arcsin'(x)=\frac{1}{\sqrt{ 1-x^{2} }}$ $x \in ]-1,1[$
 ### cos
 * cos :$\left[ 0,\pi \right] \to [-1,1]$ 
 * continue et strictement décroissante donc bijective
@@ -37,7 +37,7 @@ Soit $I$ un intervalle de $\mathbb{R}$ et $f$ une fonction continue et stricteme
 * continue, strictement croissante
 * $\forall x \in [-1,1], \cos(\arccos(x))=x$
 * $\forall \theta \in \left[ 0,\pi \right], \arccos(\cos(\theta))=\theta$
-* $\arccos'(x)=-\frac{1}{\sqrt{ 1-x^{2} }}$
+* $\arccos'(x)=-\frac{1}{\sqrt{ 1-x^{2} }}$ $x \in ]-1,1[$
 
 ### liens arcsin-arccos
 * $\forall x \in [-1,1], \arccos(x)+\arcsin(x) = \frac{\pi}{2}$
@@ -61,4 +61,15 @@ Soit $I$ un intervalle de $\mathbb{R}$ et $f$ une fonction continue et stricteme
 $$\forall x \in \mathbb{R}, P(x)=\sum^{n}_{k=0}\frac{P^{(k)}(0)}{k!}x^{k}$$
 ou $$\forall x \in \mathbb{R}, P(x)=\sum^{n}_{k=0}\frac{P^{(k)}(\alpha)}{k!}(x-\alpha)^{k}$$
 ### Classes de fonctions
-#### Fonctions de classe $\mathbb{C$
+#### Fonctions de classe $C^{\infty}$ sur les intervalles où elles sont dérivables
+- exp
+- ln
+- sin
+- cos
+- tan
+- racine carrée
+- puissances
+- polynômes
+- ch
+- th
+## Théorème de la dérivée de la réciproque
