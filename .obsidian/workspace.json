@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6243dfc5595f83d2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +168,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "64c0d3515f68b7f0",
+  "active": "6243dfc5595f83d2",
   "lastOpenFiles": [
     "index.md",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.md",
