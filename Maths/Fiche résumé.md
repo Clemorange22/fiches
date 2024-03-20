@@ -55,3 +55,10 @@ Soit $I$ un intervalle de $\mathbb{R}$ et $f$ une fonction continue et stricteme
 * $\forall x<0, \arctan(x) + \arctan\left( \frac{1}{x} \right) = -\frac{\pi}{2}$
 * $\arctan'(x)=\frac{1}{1+x^{2}}$
 
+# Dérivation
+
+### Formule de Taylor
+$$\forall x \in \mathbb{R}, P(x)=\sum^{n}_{k=0}\frac{P^{(k)}(0)}{k!}x^{k}$$
+ou $$\forall x \in \mathbb{R}, P(x)=\sum^{n}_{k=0}\frac{P^{(k)}(\alpha)}{k!}(x-\alpha)^{k}$$
+### Classes de fonctions
+#### Fonctions de classe $\mathbb{C$
