@@ -75,6 +75,44 @@ $$E_{k}=\frac{1}{2} J_{\Delta}\omega^{2}$$
 
 #### Système
 
+### Éléments de réduction en dynamique
 
+**Quantité d'accélération :**
+$$\vec{\mathrm{d}j(M)}=\vec{a_{R_{0}}}(M)\mathrm{d}m(M)$$
+**Résultante dynamique :**
+$$\vec{D}=\int_{S}  \, \vec{dj}=\int_{S}  \,\vec{a}(M)dm(M)$$
+$$\vec{D}=M. \vec{a}(G)$$
+**Moment dynamique résulant en O :**
+$$\vec{M_{O}}(D)=\int_{S} \overrightarrow{OM}\wedge \overrightarrow{dj} = \int_{S} \overrightarrow{OM} \wedge \overrightarrow{a}(M)dm(M)$$
+$$[D]=\begin{cases} \overrightarrow{D} \\ \overrightarrow{M_{O}}(D)\end{cases}$$
 
+# Dynamique du point matériel
+**Principes de base :**
+*   masse des particules matérielles constantes
+* vitesses très faibles devant celle de la lumière
+* actions à distance transmises instantanément
+
+### 1ère loi de Newton
+Dans un repère absolu $R^{A}$ et avec une chronologie absolue un point matériel $P$ isolé possède une quantité de mouvement constante
+$\vec{q_{R^{A}}}=m \vec{V_{R^{A}}}=\vec{cte}$
+
+### 2ème loi de Newton
+Soit un point matériel $P$ soumis à des actions de la part d'autres points matériels. À l'instant t, ces actions sont représentables par un vecteur force $\vec{F}$ s'exerçant sur $P$.
+Si $\vec{F}$ est non nulle, la variation de la quantité de mouvement de $P$ est liée à $\vec{F}$ par :
+$$\frac{\mathrm{d}}{\mathrm{d}t}(\vec{q_{R^{A}}})=\vec{F} \iff \vec{F}=m. \vec{a_{R^{A}}}$$
+### 3ème loi de Newton
+
+Si à l'instant t il y a interaction entre deux points matériels $P_{1}$ et $P_{2}$, les forces que chaque point exerce sur l'autre sont opposées.
+
+## Principe de la dynamique
+Dans un référentiel absolu
+$$\vec{F}=m\vec{a}$$
+**Référentiel absolu :** Dans un référentiel absolu on devrait pouvoir suivre le mouvement de n’importe quel point matériel de l’Univers
+
+**Reférentiel galiléen ou inertiel :** C’est un référentiel dans lequel le principe d’inertie (1ère loi de Newton) est vérifié.
+
+### Principe fondamental de la dynamique
+À partir de toutes les forces mises en jeu on définit les torseurs suivants : 
+- torseur des forces intérieures $[F_{i}]$
+- torseur des forces extérieures $[F_{e}]$
 
