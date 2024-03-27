@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique/Meca/3 - Dynamique.md",
+                "file": "Physique/Meca/4 - Énergie.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "931164338e959ffa",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Meca/3 - Dynamique.md",
+                "file": "Physique/Meca/4 - Énergie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique/Meca/3 - Dynamique.md",
+                "file": "Physique/Meca/4 - Énergie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique/Meca/3 - Dynamique.md"
+                "file": "Physique/Meca/4 - Énergie.md"
               }
             }
           },
@@ -180,10 +179,11 @@
   },
   "active": "64c0d3515f68b7f0",
   "lastOpenFiles": [
+    "Physique/Meca/3 - Dynamique.md",
+    "Physique/Meca/4 - Énergie.md",
     "Thermodynamique/3 - Second principe de la thermodynamique.md",
     "Thermodynamique/2 - 1er principe.md",
     "Thermodynamique/1 - Thermodynamique générale.md",
-    "Physique/Meca/3 - Dynamique.md",
     "Physique/Electricité/3 - Régime sinusoïdal permanent.md",
     "Physique/Electricité/2 - Régimes transitoires.md",
     "Physique/Electricité/1 - Électrocinétique.md",
@@ -205,7 +205,6 @@
     "index.md",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.md",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.md",
-    "Physique/Meca/2 - Cinématique.md",
     "Thermodynamique/attachments/Pasted image 20240320110214.png",
     "Thermodynamique/attachments/Pasted image 20240320104952.png",
     "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.svg",
