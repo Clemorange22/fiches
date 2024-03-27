@@ -119,4 +119,7 @@ $$\vec{F}=m\vec{a}$$
 Il existe un référentiel galiléen $R^{G}$ et une manière de mesurer le temps dite chronologique absolue tels que le torseur des forces extérieures exercées sur un système soit à chaque instant égal au torseur dynamique
 $$[F_{e}]=[D]_{R^{G}}$$
 
-Copier Théorème du moment cinétique
+### Théorème du moment cinétique
+La dérivée par rapport au temps du moment cinétique d'un système est à chaque instant égale au moment résultant des forces extérieures **lorsque le point de référence est fixe** dans le référentiel galiléen.
+Soit dans un référentiel galiléen, **O étant fixe :**
+$$\overrightarrow{M_{O_{\text{fixe}}}}(F_{e})=\frac{\mathrm{d}}{\mathrm{d}t}[\overrightarrow{M_{O_{\text{fixe}}}(C)}]$$
