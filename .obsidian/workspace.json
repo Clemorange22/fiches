@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique/Meca/3 - Dynamique.md",
+                "file": "Thermodynamique/3 - Second principe de la thermodynamique.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Meca/3 - Dynamique.md",
+                "file": "Thermodynamique/3 - Second principe de la thermodynamique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique/Meca/3 - Dynamique.md",
+                "file": "Thermodynamique/3 - Second principe de la thermodynamique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique/Meca/3 - Dynamique.md"
+                "file": "Thermodynamique/3 - Second principe de la thermodynamique.md"
               }
             }
           },
@@ -179,6 +179,10 @@
   },
   "active": "64c0d3515f68b7f0",
   "lastOpenFiles": [
+    "Thermodynamique/2 - 1er principe.md",
+    "Thermodynamique/3 - Second principe de la thermodynamique.md",
+    "Thermodynamique/1 - Thermodynamique générale.md",
+    "Physique/Meca/3 - Dynamique.md",
     "Physique/Electricité/3 - Régime sinusoïdal permanent.md",
     "Physique/Electricité/2 - Régimes transitoires.md",
     "Physique/Electricité/1 - Électrocinétique.md",
@@ -197,14 +201,10 @@
     "Chimie/attachments/Structure de l'atome periode.excalidraw.md",
     "Chimie/attachments/Structure de l'atome grotrian.excalidraw.md",
     "Chimie/attachments/Structure de l'atome 2023-10-02 09.15.37.excalidraw.md",
-    "Physique/Meca/3 - Dynamique.md",
     "index.md",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.md",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.md",
     "Physique/Meca/2 - Cinématique.md",
-    "Physique/Meca/1 - Statique.md",
-    "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md",
-    "Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.md",
     "Thermodynamique/attachments/Pasted image 20240320110214.png",
     "Thermodynamique/attachments/Pasted image 20240320104952.png",
     "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.svg",
