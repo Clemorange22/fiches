@@ -130,8 +130,8 @@ La dérivée par rapport au temps du moment cinétique d'un système est à chaq
 Soit dans un référentiel galiléen, **O étant fixe :**
 $$\overrightarrow{M_{O_{\text{fixe}}}}(F_{e})=\frac{\mathrm{d}}{\mathrm{d}t}[\overrightarrow{M_{O_{\text{fixe}}}(C)}]$$
 
-| Moment résultant = Résultante dynamique | Moment cinétique                                   |
-| --------------------------------------- | -------------------------------------------------- |
-| Somme des moments des forces            | Intégrale des quantités de mouvement sur un solide |
+| Moment résultant = Résultante dynamique | Moment cinétique                                                        | Moment d'inertie                             |
+| --------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------- |
+| Somme des moments des forces            | Intégrale des quantités de mouvement sur un solide (masse fois vitesse) | Intégrale de la masse fois distance au carré |
 ?
 
