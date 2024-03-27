@@ -21,4 +21,8 @@ Notée $S$
 $$\Delta S_{\text{rev}}=\int_{A}^{B} \left(\frac{\delta Q}{T}\right)_{\text{rev}}$$
 $$\mathrm{d}S=\left(\frac{\delta Q}{T}\right)_{\text{rev}}=\frac{\mathrm{d}U+P\mathrm{d}V}{T}=\frac{\mathrm{d}H-V\mathrm{d}P}{T}$$
 ou $$\delta Q_{\text{rev}}=T\mathrm{d}S$$
+**Rappels :**
+Gaz parfait :
+$$\mathrm{d}U=n\overline{C_{v}}\mathrm{d}T$$
+$$\mathrm{d}H=n\overline{C_{p}}\mathrm{d}T$$
 
