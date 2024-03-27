@@ -118,6 +118,10 @@ $$\vec{F}=m\vec{a}$$
 
 Il existe un référentiel galiléen $R^{G}$ et une manière de mesurer le temps dite chronologique absolue tels que le torseur des forces extérieures exercées sur un système soit à chaque instant égal au torseur dynamique
 $$[F_{e}]=[D]_{R^{G}}$$
+### Théorème du centre de masse
+Dans un référentiel galiléen le centre de masse $G$ d'un système $S$ a le mouvement qu'aurait un point matériel de masse $M$ (masse de $S$ situé en ce point et soumis à la résultante des forces extérieures)
+
+Remarque : le mouvement du centre de masse ne dépend que des forces extérieures.
 
 ### Théorème du moment cinétique
 La dérivée par rapport au temps du moment cinétique d'un système est à chaque instant égale au moment résultant des forces extérieures **lorsque le point de référence est fixe** dans le référentiel galiléen.
