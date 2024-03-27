@@ -26,3 +26,8 @@ Gaz parfait :
 $$\mathrm{d}U=n\overline{C_{v}}\mathrm{d}T$$
 $$\mathrm{d}H=n\overline{C_{p}}\mathrm{d}T$$
 
+### Analogie entropie-volume
+$$W_{\text{rev}}=-\int_{A}^{B} P \mathrm{d}V$$
+$$Q_{\text{rev}}=\int_{A}^{B}  T\mathrm{d}S$$
+
+
