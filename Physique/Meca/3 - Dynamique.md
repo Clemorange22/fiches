@@ -104,7 +104,7 @@ $$\frac{\mathrm{d}}{\mathrm{d}t}(\vec{q_{R^{A}}})=\vec{F} \iff \vec{F}=m. \vec{a
 
 Si à l'instant t il y a interaction entre deux points matériels $P_{1}$ et $P_{2}$, les forces que chaque point exerce sur l'autre sont opposées.
 
-## Principe de la dynamique
+# Principe de la dynamique
 Dans un référentiel absolu
 $$\vec{F}=m\vec{a}$$
 **Référentiel absolu :** Dans un référentiel absolu on devrait pouvoir suivre le mouvement de n’importe quel point matériel de l’Univers
