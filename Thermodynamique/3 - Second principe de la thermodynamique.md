@@ -3,3 +3,21 @@
 Tous les moteurs nécessitent 2 sources de chaleur à différentes températures.
 
 Machine motrice : $CoP_{\text{rev}}=1-\frac{T_{f}}{T_{c}}$
+
+**Irréversibilité :** due aux :
+* pertes dues aux frottements, chocs, viscosité
+* transferts de chaleurs entre deux corps de température différentes
+$\to$ on doit distinguer les machines parfaites des machines réelles
+
+### Entropie
+- **Variable d'état (caractérise le système)**
+- Non mesurable directement
+- Grandeur extensive (comme le volume)
+
+But : prédire de façon absolue et quantitative le sens dans lequel l'énergie peut être transformée (ou pas)
+
+Notée $S$
+
+$$\Delta S_{\text{rev}}=\int_{A}^{B} \left(\frac{\delta Q}{T}\right)_{\text{rev}}$$
+$$\mathrm{d}S=\left(\frac{\delta Q}{T}\right)_{\text{rev}}$$
+ou $$\delta Q_{\text{rev}}=T\mathrm{d}S$$
