@@ -126,7 +126,7 @@ Dans un référentiel galiléen le centre de masse $G$ d'un système $S$ a le mo
 Remarque : le mouvement du centre de masse ne dépend que des forces extérieures.
 
 ### Théorème du moment cinétique
-La dérivée par rapport au temps du moment cinétique d'un système est à chaque instant égale au moment résultant des forces extérieures **lorsque le point de référence est fixe** dans le référentiel galiléen.
+La dérivée par rapport au temps du moment cinétique d'un système est à chaque instant égal au moment résultant des forces extérieures **lorsque le point de référence est fixe** dans le référentiel galiléen.
 Soit dans un référentiel galiléen, **O étant fixe :**
 $$\overrightarrow{M_{O_{\text{fixe}}}}(F_{e})=\frac{\mathrm{d}}{\mathrm{d}t}[\overrightarrow{M_{O_{\text{fixe}}}(C)}]$$
 
