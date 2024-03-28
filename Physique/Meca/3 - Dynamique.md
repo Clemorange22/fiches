@@ -1,4 +1,5 @@
 ## Masse d'un système
+
 ### Solide
 $$M=\int \dots \, dm $$
 #### Masse linéque
