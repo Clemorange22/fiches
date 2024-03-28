@@ -42,6 +42,7 @@ Où $\mathrm{d}J_{\Delta}=[d(P, \Delta)]^{2} \times \mathrm{d}m$
 
 $$J_{\Delta}= J_{\Delta_{G}} + M d^{2}$$
 
+
 ## Cinétique
 ### Quantité de mouvement
 homogène à une masse fois une vitesse
