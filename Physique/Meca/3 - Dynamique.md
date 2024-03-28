@@ -37,6 +37,7 @@ $$J_{\Delta}= \int \mathrm{d}J_{\Delta}$$
 Où $\mathrm{d}J_{\Delta}=[d(P, \Delta)]^{2} \times \mathrm{d}m$
 
 >[!info]
+>** Théorème de Huyghens**
 >Le moment d’inertie d’un système matériel (S) par rapport à un axe $\Delta$, est égal au moment d’inertie de (S) par rapport à un axe $\Delta_G$ parallèle à $\Delta$ , passant par $G$ centre d’inertie de (S), augmenté du moment d’inertie par rapport à $\Delta$ de la masse totale du système supposée centrée en G.
 
 $$J_{\Delta}= J_{\Delta_{G}} + M d^{2}$$
