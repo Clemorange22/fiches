@@ -1,4 +1,7 @@
 ## Masse d'un système
+>[!note]
+>La géométrie des masses est l’étude d’un système de points matériel $P_i$, (ou d’éléments matériels infiniment petits), affectés de coefficients positifs $m_i$ (ou dmi pour les éléments) appelés masses.
+
 
 ### Solide
 $$M=\int \dots \, dm $$
