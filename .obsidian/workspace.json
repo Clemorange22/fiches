@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "4d37e0d75c306ec9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "91d505441e375ef5",
             "type": "leaf",
             "state": {
@@ -39,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +189,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "64c0d3515f68b7f0",
+  "active": "4d37e0d75c306ec9",
   "lastOpenFiles": [
     "Physique/Meca/2 - Cinématique.md",
     "Physique/Meca/4 - Énergie.md",
