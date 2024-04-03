@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "4d37e0d75c306ec9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
             "id": "91d505441e375ef5",
             "type": "leaf",
             "state": {
@@ -100,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "931164338e959ffa",
@@ -117,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Meca/3 - Dynamique.md",
+                "file": "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique/Meca/3 - Dynamique.md",
+                "file": "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique/Meca/3 - Dynamique.md"
+                "file": "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.md"
               }
             }
           },
@@ -189,8 +178,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d37e0d75c306ec9",
+  "active": "91d505441e375ef5",
   "lastOpenFiles": [
+    "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.md",
+    "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.md",
+    "Physique/Meca/3 - Dynamique.md",
     "Physique/Meca/2 - Cinématique.md",
     "Physique/Meca/4 - Énergie.md",
     "index.md",
@@ -214,9 +206,6 @@
     "Chimie/9- Théorie des orbitales moléculaires.md",
     "Chimie/8 - Les liaisons.md",
     "Chimie/7 - Spectroscopie des rayons X.md",
-    "Chimie/6 - Propriétés des atomes.md",
-    "Chimie/5 - Tableau périodique.md",
-    "Chimie/11 - Cristallographie.md",
     "Thermodynamique/attachments/Pasted image 20240320110214.png",
     "Thermodynamique/attachments/Pasted image 20240320104952.png",
     "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.svg",
