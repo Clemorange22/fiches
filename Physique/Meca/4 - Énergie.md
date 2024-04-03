@@ -26,3 +26,7 @@ Avec $\overrightarrow{M_{O}(\vec{f_{i}})}=(L_{i},M_{i},N_{i})$
 
 ##### Rotation finie de $\theta_{1}$ à $\theta_{2}$
 $$T=\int_{\theta_{1}}^{\theta_{2}} dT=\int_{\theta_{1}}^{\theta_{2}} N(\theta)\mathrm{d}\theta $$
+## Unités de puissance et de travail
+$$P=\frac{\mathrm{dT}}{\mathrm{dt}}=\vec{f}\cdot \vec{v}$$
+$$[P]=[f][v]=MLT^{-2}\times LT^{-1}=ML^{2}T^{-3}$$
+**Unités :** watt (W)
