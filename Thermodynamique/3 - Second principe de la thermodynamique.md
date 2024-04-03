@@ -31,3 +31,4 @@ $$W_{\text{rev}}=-\int_{A}^{B} P \mathrm{d}V$$
 $$Q_{\text{rev}}=\int_{A}^{B}  T\mathrm{d}S$$
 
 
+**Si la variation d'entropie est positive, alors la transformation est possible**
