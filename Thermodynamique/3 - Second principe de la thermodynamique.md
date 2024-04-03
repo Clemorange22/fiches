@@ -32,3 +32,15 @@ $$Q_{\text{rev}}=\int_{A}^{B}  T\mathrm{d}S$$
 
 
 **Si la variation d'entropie est positive, alors la transformation est possible**
+
+Lorsqu'un système isolé énergétiquement évolue, son entropie $S$ varie de telle façon que $\Delta S_{\text{système isolé}}\geq 0$
+Le système isolé (c'est à dire qui n'échange aucune énergie ni matière) s'apparente à ce qu'on a défini comme l'univers.
+
+Système $\sigma$ $+$ milieu extérieur $\sigma_{1}=$ univers (isolé)
+
+$$\Delta S_{\text{univers}}=\Delta S_{\sigma}+\Delta S_{\sigma_{1}}$$
+Transformation réversible (idéale) de $\sigma$: $\Delta S_{\text{univers}}=0$
+Transformation irréversible (réelle) de $\sigma$ : $\Delta S_{\text{univers}}>0$
+Transformation impossible de $\sigma$ : $\Delta S_{\text{univers}}<0$
+
+Si $\sigma_{1}$ est une source de température ($T$ constante) : $\Delta S_{\sigma_{1}}=\frac{Q_{\sigma_{1}}}{T_{\sigma_{1}}}$
