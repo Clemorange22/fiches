@@ -4,7 +4,7 @@ Travail : résistant ou moteur
 
 Une force "travaille" si son point d'application se déplace
 
-$$\mathrm{d}\vec{l}=\vec{v}\mathrm{d}t$$
+$$\mathrm{d}\vec{l}=\vec{v}\times\mathrm{d}t$$
 Puissance développée par la force
 $$P=\frac{\mathrm{d}T}{\mathrm{d}t}=\vec{f}\cdot \vec{v}$$
 $$P=M_{A(\vec{f})}\dots$$
