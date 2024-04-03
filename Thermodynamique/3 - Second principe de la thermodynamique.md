@@ -44,3 +44,4 @@ Transformation irréversible (réelle) de $\sigma$ : $\Delta S_{\text{univers}}>
 Transformation impossible de $\sigma$ : $\Delta S_{\text{univers}}<0$
 
 Si $\sigma_{1}$ est une source de température ($T$ constante) : $\Delta S_{\sigma_{1}}=\frac{Q_{\sigma_{1}}}{T_{\sigma_{1}}}$
+
