@@ -27,6 +27,22 @@ Avec $\overrightarrow{M_{O}(\vec{f_{i}})}=(L_{i},M_{i},N_{i})$
 ##### Rotation finie de $\theta_{1}$ à $\theta_{2}$
 $$T=\int_{\theta_{1}}^{\theta_{2}} dT=\int_{\theta_{1}}^{\theta_{2}} N(\theta)\mathrm{d}\theta $$
 ## Unités de puissance et de travail
+#### Puissance
 $$P=\frac{\mathrm{dT}}{\mathrm{dt}}=\vec{f}\cdot \vec{v}$$
 $$[P]=[f][v]=MLT^{-2}\times LT^{-1}=ML^{2}T^{-3}$$
-**Unités :** watt (W)
+Unité : watt (W)
+#### Travail
+$$[T]=[f][dl]=MLT^{-2}.L=ML^{2}T^{-2}$$
+Unité : joule (J)
+
+#### Énergie potentielle
+
+Soit un système $\Sigma$ dont la position dépend de $n$ paramètres indépendants $q_{i}(t)$ et de $t$.
+Les efforts exercés sur $\Sigma$ admettent une énergie
+potentielle s’ il existe une fonction $E_{p}[q_{i}(t),t]$ telle que la puissance de ces efforts soit :
+$$P=-\frac{\mathrm{d}}{\mathrm{d}t}(E_{p}[q_{i}(t),t])$$
+>[!note]
+>Seuls certains efforts particuliers admettent une énergie potentielle
+>Si $E_{p}$ existe elle est définie à une constante près
+
+$$T(t_{1},t_{2})=E_{p}[q_{i}(t_{1}),t_{1}]-E_{p}[q_{i}(t_{2}),t_{2}]$$
