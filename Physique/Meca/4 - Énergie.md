@@ -44,5 +44,9 @@ $$P=-\frac{\mathrm{d}}{\mathrm{d}t}(E_{p}[q_{i}(t),t])$$
 >[!note]
 >Seuls certains efforts particuliers admettent une énergie potentielle
 >Si $E_{p}$ existe elle est définie à une constante près
-
+#### Travail des efforts
 $$T(t_{1},t_{2})=E_{p}[q_{i}(t_{1}),t_{1}]-E_{p}[q_{i}(t_{2}),t_{2}]$$
+**Ou lorsque $E_{p}$ ne dépend pas de t :**
+$$T(t_{1},t_{2})=E_{p}[q_{i}(t_{1})]-E_{p}[q_{i}(t_{2})]$$
+Le travail ne dépend alors que des positions initiale et finale
+
