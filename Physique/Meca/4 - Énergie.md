@@ -44,7 +44,7 @@ $$P=-\frac{\mathrm{d}}{\mathrm{d}t}(E_{p}[q_{i}(t),t])$$
 >[!note]
 >Seuls certains efforts particuliers admettent une énergie potentielle
 >Si $E_{p}$ existe elle est définie à une constante près
-#### Travail des efforts
+## Travail des efforts
 $$T(t_{1},t_{2})=E_{p}[q_{i}(t_{1}),t_{1}]-E_{p}[q_{i}(t_{2}),t_{2}]$$
 **Ou lorsque $E_{p}$ ne dépend pas de t :**
 $$T(t_{1},t_{2})=E_{p}[q_{i}(t_{1})]-E_{p}[q_{i}(t_{2})]$$
@@ -73,5 +73,7 @@ $$E_{k}=E_{c}= \frac{1}{2}mv$$
 >La **variation d’énergie cinétique** d’un système matériel entre deux instants quelconques est égale à la **somme algébrique des travaux** effectués entre ces deux instants par toutes les forces (intérieures et extérieures) appliquées au système.
 
 
+### Énergie mécanique
+Soit un **système conservatif** c'est à dire tel que les forces intérieures permettent de définir une énergie potentielle
 
-
+$$E_{m}=E_{p}+E_{k}$$
