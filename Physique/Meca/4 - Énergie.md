@@ -77,3 +77,9 @@ $$E_{k}=E_{c}= \frac{1}{2}mv$$
 Soit un **système conservatif** c'est à dire tel que les forces intérieures permettent de définir une énergie potentielle
 
 $$E_{m}=E_{p}+E_{k}$$
+$$E_{m_{2}}-E_{m_{1}}=\sum T_{ext}$$
+Si le système est **mécaniquement isolé** (= soumis à aucune force extérieure) :
+$$\sum T_{ext}=0 \iff E_{m_{2}}-E_{m_{1}} = 0$$
+#### Stabilité des équilibres
+Les positions d'équilibre stable correspondent à des minimas d'énergie potentielle
+
