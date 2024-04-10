@@ -10,3 +10,10 @@ $T_{A}=T_{B}=T_{ext}$
 $Q<0 \implies$ réaction **exothermique**
 $Q=0 \implies$ réaction **athermique**
 $Q>0 \implies$ réaction **endothermiquie**
+
+$$H=U+PV$$
+$$\implies H=U+RTn$$
+$$\implies \Delta H=\Delta U+RT \times \Delta n_{gaz}$$
+### État standard
+**Température :** à préciser
+**Pression :** 1 bar
