@@ -11,6 +11,6 @@
     "math": "#set page(margin: 0pt)\n#set align(horizon)",
     "code": "#set page(margin: (y: 1em, x: 0pt))"
   },
-  "plugin_version": "0.8.0",
+  "plugin_version": "0.10.0",
   "autoDownloadPackages": true
 }
