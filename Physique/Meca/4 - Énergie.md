@@ -51,4 +51,4 @@ $$T(t_{1},t_{2})=E_{p}[q_{i}(t_{1})]-E_{p}[q_{i}(t_{2})]$$
 Le travail ne dépend alors que des positions initiale et finale
 
 #### Énergie potentielle élastique
-Travail du couple de rappel : $\mathrm{d}T=N\mathrm{d}\theta=-C\mathrm{d}\theta=-\mathrm{d}E_{p}$
+Travail du couple de rappel : $\mathrm{d}T=N\mathrm{d}\theta=-C \theta\mathrm{d}\theta=-\mathrm{d}E_{p}$
