@@ -17,3 +17,8 @@ $$\implies \Delta H=\Delta U+RT \times \Delta n_{gaz}$$
 ### État standard
 **Température :** à préciser
 **Pression :** 1 bar
+
+### Loi de Hess
+Niveau d'enthalpie de référence
+$$\Delta H_{total} = \Delta H_{\text{formation produits}}-\Delta H_{\text{formation réactifs}}$$
+
