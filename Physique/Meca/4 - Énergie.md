@@ -54,3 +54,24 @@ Le travail ne dépend alors que des positions initiale et finale
 Travail du couple de rappel : $\mathrm{d}T=N\mathrm{d}\theta=-C \theta\mathrm{d}\theta=-\mathrm{d}E_{p}$
 
 Si $E_{p}$ n'existe pas : travail non conservatif (ex: frottements)
+
+### Énergie cinétique
+Soit $\vec{F}$ la résultante de toutes les forces appliquées à un pont matériel $M$ de masse $m$ et $\vec{v}$ sa vitesse (ref galiléen)
+$$\vec{F}=m\frac{\mathrm{d}\vec{v}}{\mathrm{d}t}$$
+$$\mathrm{d}T=\vec{F} \cdot \vec{v}\ \mathrm{d}t=m\frac{\mathrm{d}\vec{v}}{\mathrm{d}t}\cdot \vec{v}\ \mathrm{d}t=\frac{1}{2}m \times\mathrm{d}(v^{2})$$
+Donc :
+$$E_{k}=E_{c}= \frac{1}{2}mv$$
+#### Théorème de l'énergie cinétique pour un point matériel
+
+>[!note]
+>La **variation d'énergie cinétique** d'un point matériel entre deux instants quelconques est égale à **la somme des travaux** de toutes les forces appliquées à ce point, le long de la portion correspondante de trajectoire
+
+#### Pour un système
+##### Quelconque
+
+>[!note]
+>La **variation d’énergie cinétique** d’un système matériel entre deux instants quelconques est égale à la **somme algébrique des travaux** effectués entre ces deux instants par toutes les forces (intérieures et extérieures) appliquées au système.
+
+
+
+
