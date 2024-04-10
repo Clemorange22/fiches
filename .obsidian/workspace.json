@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique/Meca/4 - Énergie.md",
+                "file": "Thermodynamique/3 - Second principe de la thermodynamique.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "931164338e959ffa",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Meca/4 - Énergie.md",
+                "file": "Thermodynamique/3 - Second principe de la thermodynamique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique/Meca/4 - Énergie.md",
+                "file": "Thermodynamique/3 - Second principe de la thermodynamique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique/Meca/4 - Énergie.md"
+                "file": "Thermodynamique/3 - Second principe de la thermodynamique.md"
               }
             }
           },
@@ -182,13 +183,13 @@
   },
   "active": "91d505441e375ef5",
   "lastOpenFiles": [
+    "Physique/Meca/4 - Énergie.md",
     "Physique/Electricité/4 - Etude des filtres - diagramme de Bode.md",
     "Thermodynamique/3 - Second principe de la thermodynamique.md",
     "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.md",
     "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.md",
     "Physique/Meca/3 - Dynamique.md",
     "Physique/Meca/2 - Cinématique.md",
-    "Physique/Meca/4 - Énergie.md",
     "index.md",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.md",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.md",
