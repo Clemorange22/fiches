@@ -52,3 +52,5 @@ Le travail ne dépend alors que des positions initiale et finale
 
 #### Énergie potentielle élastique
 Travail du couple de rappel : $\mathrm{d}T=N\mathrm{d}\theta=-C \theta\mathrm{d}\theta=-\mathrm{d}E_{p}$
+
+Si $E_{p}$ n'existe pas : travail non conservatif (ex: frottements)
