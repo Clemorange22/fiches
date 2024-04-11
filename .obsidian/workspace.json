@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Physique/Meca/3 - Dynamique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Physique/Meca/3 - Dynamique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Physique/Meca/3 - Dynamique.md"
               }
             }
           },
@@ -181,45 +180,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "8ab08a72028a07f2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d421f362ecea44db",
-        "type": "window",
-        "children": [
-          {
-            "id": "841376d9d3e26201",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ccbbaf1d45c38905",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 269,
-        "y": 434,
-        "width": 900,
-        "height": 500,
-        "maximize": true,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "ccbbaf1d45c38905",
+  "active": "64c0d3515f68b7f0",
   "lastOpenFiles": [
+    "index.md",
     "Thermodynamique/4 - Thermochimie.md",
     "Thermodynamique/3 - Second principe de la thermodynamique.md",
     "Thermodynamique/2 - 1er principe.md",
@@ -245,7 +208,6 @@
     "Physique/Bases/Incertitudes et chiffres significatifs.md",
     "Physique/Bases/Énergie.md",
     "Physique/Bases/Démarche scientifique.md",
-    "Maths/Fiche résumé.md",
     "Thermodynamique/attachments/Pasted image 20240320110214.png",
     "Thermodynamique/attachments/Pasted image 20240320104952.png",
     "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.svg",
