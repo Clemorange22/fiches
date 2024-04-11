@@ -5,7 +5,7 @@
 
 ### Solide
 $$M=\int \dots \, dm $$
-#### Masse linéque
+#### Masse linéique
 $$\mathrm{d}m = \lambda \mathrm{d}l$$
 $\lambda$ (kg/m) = masse linéique
 #### Masse surfacique
