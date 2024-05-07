@@ -35,3 +35,4 @@ Si pas dans les tables $\to$ 0 par convention
 ### Pouvoir calorifique inférieur / supérieur
 En fonction de l'état physique des réactifs/produits, la quantité d'énergie dégagée par une réaction peut être différente
 
+Si réaction chimiques réalisées à température différente: variation d'enthalpie négligeable
