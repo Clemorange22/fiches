@@ -10,7 +10,8 @@ $$\frac{\mathrm{d}^{2}x}{\mathrm{d}t}+2\lambda\frac{ \mathrm{d}x}{\mathrm{d}t}+\
 $\Delta > 0 :$ **apériodique** 
 $\Delta$ = 0 : **apériodique critique**
 $\Delta < 0$ : **pseudo-périodique**
-
+$\omega=\sqrt{ \omega_{0}^{2}-\lambda^{2} }$
+Régime apériodique critique : $\lambda=\omega_{0}$
 ### Facteur de qualité
 $$Q=2\pi \frac{E_{max}}{E_{\text{perdue/période}}}$$
 
