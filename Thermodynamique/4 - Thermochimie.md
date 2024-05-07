@@ -33,3 +33,4 @@ $$\Delta H_{total} = \Delta H_{\text{formation produits}}-\Delta H_{\text{format
 Si pas dans les tables $\to$ 0 par convention
 
 ### Pouvoir calorifique inférieur / supérieur
+En fonction de l'état physique des réactifs, 
