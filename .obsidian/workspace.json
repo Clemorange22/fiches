@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique/Meca/Oscillations.md",
+                "file": "Thermodynamique/4 - Thermochimie.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Meca/Oscillations.md",
+                "file": "Thermodynamique/4 - Thermochimie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique/Meca/Oscillations.md",
+                "file": "Thermodynamique/4 - Thermochimie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique/Meca/Oscillations.md"
+                "file": "Thermodynamique/4 - Thermochimie.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "64c0d3515f68b7f0",
   "lastOpenFiles": [
-    "Physique/Meca/4 - Énergie.md",
     "Physique/Meca/Oscillations.md",
+    "Physique/Meca/4 - Énergie.md",
     "Physique/Meca/3 - Dynamique.md",
     "index.md",
     "Thermodynamique/4 - Thermochimie.md",

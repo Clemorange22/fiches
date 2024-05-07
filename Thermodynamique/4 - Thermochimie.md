@@ -22,3 +22,12 @@ $$\implies \Delta H=\Delta U+RT \times \Delta n_{gaz}$$
 Niveau d'enthalpie de référence
 $$\Delta H_{total} = \Delta H_{\text{formation produits}}-\Delta H_{\text{formation réactifs}}$$
 
+| Élément | État standard de référence |
+| ------- | -------------------------- |
+| $C$     | $C$ (graphite)             |
+| $H$     | $H_2$ (gaz)                |
+| $O$     | $O_2$ (gaz)                |
+| $N$     | $N_2$ (gaz)                |
+| $Cl$    | $Cl_2$ (gaz)               |
+**Enthalpie de formation des composés simples**
+Si pas dans les tables $\to$ 0 par convention
