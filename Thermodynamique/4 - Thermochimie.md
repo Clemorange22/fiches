@@ -17,7 +17,7 @@ $$\implies \Delta H=\Delta U+RT \times \Delta n_{gaz}$$
 ### État standard
 **Température :** à préciser
 **Pression :** 1 bar
-
+=> Transformations monobare
 ### Loi de Hess
 Niveau d'enthalpie de référence
 $$\Delta H_{total} = \Delta H_{\text{formation produits}}-\Delta H_{\text{formation réactifs}}$$
@@ -31,3 +31,5 @@ $$\Delta H_{total} = \Delta H_{\text{formation produits}}-\Delta H_{\text{format
 | $Cl$    | $Cl_2$ (gaz)               |
 **Enthalpie de formation des composés simples**
 Si pas dans les tables $\to$ 0 par convention
+
+### Pouvoir calorifique inférieur / supérieur
