@@ -19,3 +19,11 @@ Donc $G$ est une fonction d'état:
 * indépendante du chemin parcouru
 * ne dépend que de l'état initial et l'état final
 * $\mathrm{d}G$ différentielle exacte
+#### Pour un système fermé
+
+$$\mathrm{d}U=\delta Q_{rev}+\delta W_{\text{rev}}=T\mathrm{d}S-P\mathrm{d}V$$
+$$\mathrm{d}H=T \mathrm{d}S+V\mathrm{dP}$$
+$$\mathrm{d}G=-S\mathrm{d}T+V\mathrm{d}P$$
+#### Pour un système homogène ouvert
+$$\mathrm{d}G=-S\mathrm{d}T+V\mathrm{d}P+\overline{G}\mathrm{d}n$$
+$\left( \frac{\partial G}{\partial n} \right)_{T, P} =\overline{G}$: **enthalpie libre molaire** ou **potentiel chimique**
