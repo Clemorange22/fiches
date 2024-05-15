@@ -21,3 +21,8 @@ Par mesure: une demi graduation d'incertitude $=0.05$ ml
 ## Théorie
 * géométrie VSEPR ?
 * schémas de lewis
+
+## Oxydo-réduction
+* Potentiel standard $E°$ : 
+	* plus il est élevé, plus l'oxydant est fort
+	* plus il est faible, plus le réducteur est fort
