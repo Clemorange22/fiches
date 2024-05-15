@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimie/12 - TPS S2 Révisions.md",
+                "file": "Thermodynamique/4 - Thermochimie.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimie/12 - TPS S2 Révisions.md",
+                "file": "Thermodynamique/4 - Thermochimie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimie/12 - TPS S2 Révisions.md",
+                "file": "Thermodynamique/4 - Thermochimie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimie/12 - TPS S2 Révisions.md"
+                "file": "Thermodynamique/4 - Thermochimie.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "64c0d3515f68b7f0",
   "lastOpenFiles": [
-    "Physique/Meca/5 - Oscillations.md",
     "Chimie/12 - TPS S2 Révisions.md",
+    "Physique/Meca/5 - Oscillations.md",
     "Thermodynamique/4 - Thermochimie.md",
     "Physique/Meca/4 - Énergie.md",
     "Physique/Meca/3 - Dynamique.md",
