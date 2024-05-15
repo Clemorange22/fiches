@@ -27,3 +27,6 @@ $$\mathrm{d}G=-S\mathrm{d}T+V\mathrm{d}P$$
 #### Pour un système homogène ouvert
 $$\mathrm{d}G=-S\mathrm{d}T+V\mathrm{d}P+\overline{G}\mathrm{d}n$$
 $\left( \frac{\partial G}{\partial n} \right)_{T, P} =\overline{G}$: **enthalpie libre molaire** ou **potentiel chimique**
+
+#### Pour un système homogène fermé
+
