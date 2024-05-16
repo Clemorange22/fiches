@@ -28,5 +28,11 @@ $$\mathrm{d}G=-S\mathrm{d}T+V\mathrm{d}P$$
 $$\mathrm{d}G=-S\mathrm{d}T+V\mathrm{d}P+\overline{G}\mathrm{d}n$$
 $\left( \frac{\partial G}{\partial n} \right)_{T, P} =\overline{G}$: **enthalpie libre molaire** ou **potentiel chimique**
 
-#### Pour un système homogène fermé
+#### Pour un système hétérogène ouvert
 
+
+* Si $\overline{G}_{\alpha}$ > $\overline{G}_{\beta}$  alors $\mathrm{d}n_{\alpha}<0$ et $\mathrm{d}n_{\beta}>0$
+	* Transfert de matière irréversible de $\alpha$ vers $\beta$
+* Si $\overline{G}_{\alpha}$ < $\overline{G}_{\beta}$  alors $\mathrm{d}n_{\alpha}>0$ et $\mathrm{d}n_{\beta}<0$
+	* Transfert de matière irréversible de $\beta$ vers $\alpha$
+* Si $\overline{G}_{\alpha}=\overline{G}_{\beta}$  alors $\mathrm{d}n_{\alpha}=-\mathrm{d}n_{\beta}=0$
