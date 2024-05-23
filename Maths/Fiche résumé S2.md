@@ -97,3 +97,6 @@ $$\iff f'(c)=\frac{f(b)-f(a)}{b-a}$$
  $$m(b-a)\leq f(b)-f(a) \leq M(b-a)$$
  Supposons qu'il existe $k \geq 0$ tel que $\forall t \in]a,b[, |f'(x)|\leq k$
 $$|f(b)-f(a)| \leq k(b-a)$$
+### Théorème de la limite de la dérivée
+Soit $f$ une fonction continue sur $I$ et soit $a \in I$
+On suppose que $f$ est dérivable sur $I - \{a\}$
