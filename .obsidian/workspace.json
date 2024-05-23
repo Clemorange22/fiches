@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamique/4 - Thermochimie.md",
+                "file": "Maths/Fiche résumé S2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thermodynamique/4 - Thermochimie.md",
+                "file": "Maths/Fiche résumé S2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thermodynamique/4 - Thermochimie.md"
+                "file": "Maths/Fiche résumé S2.md"
               }
             }
           },
@@ -179,51 +179,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "2239bbf59c0b1044",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a7e18794d783f8c5",
-        "type": "window",
-        "children": [
-          {
-            "id": "de5b3f4be0cef995",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7626175c3c3b02e7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Thermodynamique/4 - Thermochimie.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1440,
-        "y": 555,
-        "width": 900,
-        "height": 500,
-        "maximize": true,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "7626175c3c3b02e7",
+  "active": "64c0d3515f68b7f0",
   "lastOpenFiles": [
+    "Thermodynamique/4 - Thermochimie.md",
     "Thermodynamique/attachments/5 - Fonction enthalpie libre.md",
     "Physique/Meca/5 - Oscillations.md",
     "Physique/Meca/3 - Dynamique.md",
     "Maths/Fiche résumé S2.md",
     "Chimie/12 - TPS S2 Révisions.md",
-    "Thermodynamique/4 - Thermochimie.md",
     "Physique/Meca/4 - Énergie.md",
     "index.md",
     "Thermodynamique/3 - Second principe de la thermodynamique.md",
