@@ -1,4 +1,168 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[project-alpha]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>project-alpha</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 10 Apr 2024 10:18:48 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 10 Apr 2024 10:18:46 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[4 - Énergie]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[project-alpha]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>project-alpha</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 23 May 2024 15:48:43 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 23 May 2024 15:48:41 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[12 - TPS S2 Révisions]]></title><description><![CDATA[ 
+ <br><br>
+<br>Attention diacide
+<br>Tableau d'avancement
+<br><br><br><br> Diluer la solution titrante<br><br> Diluer la solution titrée<br><br>
+<br>Si acide fort/base faible ou acide faible/base forte
+
+<br>on peut déterminer le pka de l'espèce titrée  pH à la demie-équivalence
+
+
+<br>Sinon impossible
+<br><br><br>Par mesure: une demi graduation d'incertitude  ml<br>
+2 mesures: le zéro et la mesure du volume écoulé<br><br>
+<br>géométrie VSEPR ?
+<br>schémas de lewis
+<br><br>
+<br>Potentiel standard  : 
+
+<br>plus il est élevé, plus l'oxydant est fort
+<br>plus il est faible, plus le réducteur est fort
+
+
+]]></description><link>chimie/12-tps-s2-révisions.html</link><guid isPermaLink="false">Chimie/12 - TPS S2 Révisions.md</guid><pubDate>Mon, 13 May 2024 16:32:23 GMT</pubDate></item><item><title><![CDATA[Continuité]]></title><description><![CDATA[ 
+ <br><br> plus petit majorant de I<br>
+ plus grand majorant de I<br><br>Soit  continue sur un intervalle <br>
+Alors pour tout réel , il existe au moins un réel  tel que <br><br>segment : intervalle de la forme  (fermé borné) avec  et  réels<br>
+<br>
+conséquence : l'image d'un segment par une fonction continue est un segment<br><br>Soit  un intervalle de  et  une fonction continue et strictement monotone sur <br>
+<br> bijective de  dans 
+<br> est un intervalle dont les bornes sont les limites de  aux bornes de 
+<br> :  est continue sur  et a le même sens de variation que 
+<br>les courbes de  et  sont symétriques par rapport à 
+<br><br><br>
+<br>sin : 
+<br>continue et strictement croissante donc bijective
+<br><br>
+<br>arcsin : 
+<br>continue, strictement croissante, impaire
+<br>
+<br>
+<br>
+<br> 
+<br><br>
+<br>cos : 
+<br>continue et strictement décroissante donc bijective
+<br><br>
+<br>arccos : 
+<br>continue, strictement croissante
+<br>
+<br>
+<br> 
+<br><br>
+<br>
+<br>
+<br><br>
+<br>tan: 
+<br>continue et strictement croissante donc bijective
+<br><br>
+<br>arctan : 
+<br>continue, strictement croissante et impaire
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br><br>ou <br><br><br>
+<br>exp
+<br>ln
+<br>sin
+<br>cos
+<br>tan
+<br>racine carrée
+<br>puissances
+<br>polynômes
+<br>ch
+<br>th
+<br><br> est dérivable en  si et seulement si <br>
+ou encore, si on pose <br>
+<br><br><br>Soit  dérivable sur  et  tq  ne soit pas une borne de . Si  admet un extremum local en , alors <br><br>Soient  et  deux réels tq . Soit  continue sur  et dérivable sur <br>
+Si , alors il existe  tq  <br><br>Soient  et  deux réels tq . Soit  continue sur  et dérivable sur <br>
+Alors il existe  tq:<br>
+<br><br> Soit  continue sur  et dérivable sur <br>
+Supposons qu'il existe des réels  et  tels que <br>
+ Supposons qu'il existe  tel que <br>
+<br><br>Soit  une fonction continue sur  et soit <br>
+On suppose que  est dérivable sur <br>
+<br>Si  admet une limite finie  et , alors  est dérivable en  et 
+<br>Si , alors  n'est pas dérivable en , et  admet en  une tangente verticale
+<br><br>binome de newton : commutativité !]]></description><link>maths/fiche-résumé-s2.html</link><guid isPermaLink="false">Maths/Fiche résumé S2.md</guid><pubDate>Thu, 23 May 2024 15:46:44 GMT</pubDate></item><item><title><![CDATA[3 - Dynamique]]></title><description><![CDATA[ 
+ <br><br>Note
+La géométrie des masses est l’étude d’un système de points matériel , (ou d’éléments matériels infiniment petits), affectés de coefficients positifs  (ou dmi pour les éléments) appelés masses.
+<br><br><br><br> (kg/m) = masse linéique<br><br> (kg/m²) masse surfacique<br><br><br><br>Def : voir OMNI<br><br>Les coefficients sont des masses<br>
+Trouver le centre d'inertie : analyser la répartition de masse (symétries)<br>Axe de révolution : axe commun à une infinité de plans de symétrie<br>Solide en rotation autour d'un axe<br>
+Pour calculer l'énergie cinétique, il faut savoir comment la masse du solide est répartie par rapport à l'axe de rotation<br><br>Le moment d'inertie par rapport à un axe  d'un système (S) formé de n points  de masses  est donné par :<br>
+ est la distance du point  à l'axe <br>Pour une répartition continue de masse :<br>
+Où <br>Info
+ Théorème de Huyghens<br>
+Le moment d’inertie d’un système matériel (S) par rapport à un axe , est égal au moment d’inertie de (S) par rapport à un axe  parallèle à  , passant par  centre d’inertie de (S), augmenté du moment d’inertie par rapport à  de la masse totale du système supposée centrée en G.
+<br><br><br><br>homogène à une masse fois une vitesse<br>Loi de répartition de masse pour un solide : <br>Quantité de mouvement élémentaire : Pour un point matériel  de masse  : <br>
+Avec  la vitesse du point<br><br><br><br><br><br><br>Résultante cinétique<br>
+On en déduit (à démontrer) : avec  le centre de masse<br>
+Torseur :<br><img alt="Pasted image 20240313115506.png" src="physique/meca/attachments/pasted-image-20240313115506.png"><br><br>On doit pouvoir démonter les expressions suivantes :<br><br><br><br><br><br><br><br><br>Quantité d'accélération :<br>
+Résultante dynamique :<br>
+Moment dynamique résulant en O :<br>
+<br><br>Principes de base :<br>
+<br>masse des particules matérielles constantes
+<br>vitesses très faibles devant celle de la lumière
+<br>actions à distance transmises instantanément
+<br><br>Dans un repère absolu  et avec une chronologie absolue un point matériel  isolé possède une quantité de mouvement constante<br>
+<br><br>Soit un point matériel  soumis à des actions de la part d'autres points matériels. À l'instant t, ces actions sont représentables par un vecteur force  s'exerçant sur .<br>
+Si  est non nulle, la variation de la quantité de mouvement de  est liée à  par :<br>
+<br><br>Si à l'instant t il y a interaction entre deux points matériels  et , les forces que chaque point exerce sur l'autre sont opposées.<br><br>Dans un référentiel absolu<br>
+Référentiel absolu : Dans un référentiel absolu on devrait pouvoir suivre le mouvement de n’importe quel point matériel de l’Univers<br>Reférentiel galiléen ou inertiel : C’est un référentiel dans lequel le principe d’inertie (1ère loi de Newton) est vérifié.<br><br>À partir de toutes les forces mises en jeu on définit les torseurs suivants : <br>
+<br>torseur des forces intérieures 
+<br>torseur des forces extérieures 
+<br>Il existe un référentiel galiléen  et une manière de mesurer le temps dite chronologique absolue tels que le torseur des forces extérieures exercées sur un système soit à chaque instant égal au torseur dynamique<br>
+ Résultante des forces extérieures = Résultante dynamique<br>
++Moment résultant des forces extérieures en  = Moment dynamique en <br><br>Dans un référentiel galiléen le centre de masse  d'un système  a le mouvement qu'aurait un point matériel de masse  (masse de  situé en ce point et soumis à la résultante des forces extérieures)<br>Remarque : le mouvement du centre de masse ne dépend que des forces extérieures.<br><br>La dérivée par rapport au temps du moment cinétique d'un système est à chaque instant égal au moment résultant des forces extérieures lorsque le point de référence est fixe dans le référentiel galiléen.<br>
+Soit dans un référentiel galiléen, O étant fixe :<br>
+<br><br>?]]></description><link>physique/meca/3-dynamique.html</link><guid isPermaLink="false">Physique/Meca/3 - Dynamique.md</guid><pubDate>Thu, 11 Apr 2024 22:50:39 GMT</pubDate><enclosure url="physique/meca/attachments/pasted-image-20240313115506.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="physique/meca/attachments/pasted-image-20240313115506.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[5 - Oscillations]]></title><description><![CDATA[ 
+ <br>Info
+Un oscillateur est un système qui évolue de part et d'autre d'un équilibre stable<br>
+Lorsque sa position au cours du temps est une fonction sinusoïdale, on parle d'oscillateur harmonique
+<br>Cette année: pendules à un seul degré de liberté<br><br>Oscillateur libre : aucun système extérieur ne lui fournit de l'énergie après sa mise en mouvement = oscillations non entretenues<br>
+ apériodique<br>
+ = 0 : apériodique critique<br>
+ : pseudo-périodique<br>
+<br>
+Régime apériodique critique : <br><br><br>]]></description><link>physique/meca/5-oscillations.html</link><guid isPermaLink="false">Physique/Meca/5 - Oscillations.md</guid><pubDate>Tue, 07 May 2024 09:12:49 GMT</pubDate></item><item><title><![CDATA[5 - Fonction enthalpie libre]]></title><description><![CDATA[ 
+ <br>Variation d'entropie de l'univers peut être parfois difficile à calculer (à cause de la variation d'entropie de l'extérieur)<br><br>Notée <br>
+Définie sur le système  uniquement, permet de prédire la possibilité/nature d'une transformation<br>
+<br>Diminution: transformation irréversible
+<br>Stagnation: transformation réversible
+<br>Augmentation: impossible sans apport d'énergie
+<br>On retient :<br>
+Donc  est une fonction d'état:<br>
+<br>indépendante du chemin parcouru
+<br>ne dépend que de l'état initial et l'état final
+<br> différentielle exacte
+<br><br><br><br>: enthalpie libre molaire ou potentiel chimique<br><br>
+<br>Si  &gt;   alors  et 
+
+<br>Transfert de matière irréversible de  vers 
+
+
+<br>Si  &lt;   alors  et 
+
+<br>Transfert de matière irréversible de  vers 
+
+
+<br>Si   alors 
+]]></description><link>thermodynamique/attachments/5-fonction-enthalpie-libre.html</link><guid isPermaLink="false">Thermodynamique/attachments/5 - Fonction enthalpie libre.md</guid><pubDate>Wed, 15 May 2024 08:59:59 GMT</pubDate></item><item><title><![CDATA[4 - Thermochimie]]></title><description><![CDATA[ 
+ <br>On s'intéresse maintenant à des transformations chimiques<br>
+Rappel : enthalpie<br>
+<br>
+<br>
+ : avancement<br><br><br>
+ réaction exothermique<br>
+ réaction athermique<br>
+ réaction endothermiquie<br><br><br>Température : à préciser<br>
+Pression : 1 bar<br>
+=&gt; Transformations monobare<br><br>Niveau d'enthalpie de référence<br>
+<br><br>Enthalpie de formation des composés simples<br>
+Si pas dans les tables  0 par convention<br><br>En fonction de l'état physique des réactifs/produits, la quantité d'énergie dégagée par une réaction peut être différente<br>Si réaction chimiques réalisées à température différente: variation d'enthalpie négligeable]]></description><link>thermodynamique/4-thermochimie.html</link><guid isPermaLink="false">Thermodynamique/4 - Thermochimie.md</guid><pubDate>Wed, 15 May 2024 08:09:06 GMT</pubDate></item><item><title><![CDATA[4 - Énergie]]></title><description><![CDATA[ 
  <br><br>Travail : résistant ou moteur<br>Une force "travaille" si son point d'application se déplace<br>Puissance développée par la force<br>
 <br><br><br><br><br><br><br> est la résultante des forces<br>
 Travail total le long de la courbe  :<br>
@@ -344,64 +508,7 @@ L'équidistance hkl = distance entre les plans réticulaires<br>7 systèmes cris
     
     
   
-  ]]></description><link>excalidraw/incertitudes-et-chiffres-significatifs-2023-09-29-15.48.59.excalidraw.html</link><guid isPermaLink="false">Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md</guid><pubDate>Fri, 29 Sep 2023 13:50:16 GMT</pubDate></item><item><title><![CDATA[Continuité]]></title><description><![CDATA[ 
- <br><br> plus petit majorant de I<br>
- plus grand majorant de I<br><br>Soit  continue sur un intervalle <br>
-Alors pour tout réel , il existe au moins un réel  tel que <br><br>segment : intervalle de la forme  (fermé borné) avec  et  réels<br>
-<br>
-conséquence : l'image d'un segment par une fonction continue est un segment<br><br>Soit  un intervalle de  et  une fonction continue et strictement monotone sur <br>
-<br> bijective de  dans 
-<br> est un intervalle dont les bornes sont les limites de  aux bornes de 
-<br> :  est continue sur  et a le même sens de variation que 
-<br>les courbes de  et  sont symétriques par rapport à 
-<br><br><br>
-<br>sin : 
-<br>continue et strictement croissante donc bijective
-<br><br>
-<br>arcsin : 
-<br>continue, strictement croissante, impaire
-<br>
-<br>
-<br>
-<br> 
-<br><br>
-<br>cos : 
-<br>continue et strictement décroissante donc bijective
-<br><br>
-<br>arccos : 
-<br>continue, strictement croissante
-<br>
-<br>
-<br> 
-<br><br>
-<br>
-<br>
-<br><br>
-<br>tan: 
-<br>continue et strictement croissante donc bijective
-<br><br>
-<br>arctan : 
-<br>continue, strictement croissante et impaire
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br><br><br>ou <br><br><br>
-<br>exp
-<br>ln
-<br>sin
-<br>cos
-<br>tan
-<br>racine carrée
-<br>puissances
-<br>polynômes
-<br>ch
-<br>th
-<br><br> est dérivable en  si et seulement si <br>
-ou encore, si on pose <br>
-]]></description><link>maths/fiche-résumé.html</link><guid isPermaLink="false">Maths/Fiche résumé.md</guid><pubDate>Wed, 20 Mar 2024 21:49:59 GMT</pubDate></item><item><title><![CDATA[Démarche scientifique]]></title><description><![CDATA[ 
+  ]]></description><link>excalidraw/incertitudes-et-chiffres-significatifs-2023-09-29-15.48.59.excalidraw.html</link><guid isPermaLink="false">Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md</guid><pubDate>Fri, 29 Sep 2023 13:50:16 GMT</pubDate></item><item><title><![CDATA[Démarche scientifique]]></title><description><![CDATA[ 
  <br><br><br><br>
 <br>Conditions
 <br>Photos
@@ -715,38 +822,7 @@ La seule exception est la translation<br><br>
 <br>Rectiligne
 <br>Circulaire
 <br>Curviligne
-<br><br>Points du solide ont tous la même vitesse angulaire mais pas la même vitesse linéaire]]></description><link>physique/meca/2-cinématique.html</link><guid isPermaLink="false">Physique/Meca/2 - Cinématique.md</guid><pubDate>Mon, 11 Dec 2023 07:56:54 GMT</pubDate><enclosure url="physique/meca/attachments/pasted-image-20231204082111.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="physique/meca/attachments/pasted-image-20231204082111.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3 - Dynamique]]></title><description><![CDATA[ 
- <br><br>Note
-La géométrie des masses est l’étude d’un système de points matériel , (ou d’éléments matériels infiniment petits), affectés de coefficients positifs  (ou dmi pour les éléments) appelés masses.
-<br><br><br><br> (kg/m) = masse linéique<br><br> (kg/m²) masse surfacique<br><br><br><br>Def : voir OMNI<br><br>Les coefficients sont des masses<br>
-Trouver le centre d'inertie : analyser la répartition de masse (symétries)<br>Axe de révolution : axe commun à une infinité de plans de symétrie<br>Solide en rotation autour d'un axe<br>
-Pour calculer l'énergie cinétique, il faut savoir comment la masse du solide est répartie par rapport à l'axe de rotation<br><br>Le moment d'inertie par rapport à un axe  d'un système (S) formé de n points  de masses  est donné par :<br>
- est la distance du point  à l'axe <br>Pour une répartition continue de masse :<br>
-Où <br>Info
- Théorème de Huyghens<br>
-Le moment d’inertie d’un système matériel (S) par rapport à un axe , est égal au moment d’inertie de (S) par rapport à un axe  parallèle à  , passant par  centre d’inertie de (S), augmenté du moment d’inertie par rapport à  de la masse totale du système supposée centrée en G.
-<br><br><br><br>homogène à une masse fois une vitesse<br>Loi de répartition de masse pour un solide : <br>Quantité de mouvement élémentaire : Pour un point matériel  de masse  : <br>
-Avec  la vitesse du point<br><br><br><br><br><br><br>Résultante cinétique<br>
-On en déduit (à démontrer) : avec  le centre de masse<br>
-Torseur :<br><img alt="Pasted image 20240313115506.png" src="physique/meca/attachments/pasted-image-20240313115506.png"><br><br>On doit pouvoir démonter les expressions suivantes :<br><br><br><br><br><br><br><br><br>Quantité d'accélération :<br>
-Résultante dynamique :<br>
-Moment dynamique résulant en O :<br>
-<br><br>Principes de base :<br>
-<br>masse des particules matérielles constantes
-<br>vitesses très faibles devant celle de la lumière
-<br>actions à distance transmises instantanément
-<br><br>Dans un repère absolu  et avec une chronologie absolue un point matériel  isolé possède une quantité de mouvement constante<br>
-<br><br>Soit un point matériel  soumis à des actions de la part d'autres points matériels. À l'instant t, ces actions sont représentables par un vecteur force  s'exerçant sur .<br>
-Si  est non nulle, la variation de la quantité de mouvement de  est liée à  par :<br>
-<br><br>Si à l'instant t il y a interaction entre deux points matériels  et , les forces que chaque point exerce sur l'autre sont opposées.<br><br>Dans un référentiel absolu<br>
-Référentiel absolu : Dans un référentiel absolu on devrait pouvoir suivre le mouvement de n’importe quel point matériel de l’Univers<br>Reférentiel galiléen ou inertiel : C’est un référentiel dans lequel le principe d’inertie (1ère loi de Newton) est vérifié.<br><br>À partir de toutes les forces mises en jeu on définit les torseurs suivants : <br>
-<br>torseur des forces intérieures 
-<br>torseur des forces extérieures 
-<br>Il existe un référentiel galiléen  et une manière de mesurer le temps dite chronologique absolue tels que le torseur des forces extérieures exercées sur un système soit à chaque instant égal au torseur dynamique<br>
- Résultante des forces extérieures = Résultante dynamique<br>
-+Moment résultant des forces extérieures en  = Moment dynamique en <br><br>Dans un référentiel galiléen le centre de masse  d'un système  a le mouvement qu'aurait un point matériel de masse  (masse de  situé en ce point et soumis à la résultante des forces extérieures)<br>Remarque : le mouvement du centre de masse ne dépend que des forces extérieures.<br><br>La dérivée par rapport au temps du moment cinétique d'un système est à chaque instant égal au moment résultant des forces extérieures lorsque le point de référence est fixe dans le référentiel galiléen.<br>
-Soit dans un référentiel galiléen, O étant fixe :<br>
-<br><br>?]]></description><link>physique/meca/3-dynamique.html</link><guid isPermaLink="false">Physique/Meca/3 - Dynamique.md</guid><pubDate>Thu, 28 Mar 2024 19:14:51 GMT</pubDate><enclosure url="physique/meca/attachments/pasted-image-20240313115506.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="physique/meca/attachments/pasted-image-20240313115506.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2 - 1er principe 2024-03-20 10.30.30]]></title><description><![CDATA[ 
+<br><br>Points du solide ont tous la même vitesse angulaire mais pas la même vitesse linéaire]]></description><link>physique/meca/2-cinématique.html</link><guid isPermaLink="false">Physique/Meca/2 - Cinématique.md</guid><pubDate>Mon, 11 Dec 2023 07:56:54 GMT</pubDate><enclosure url="physique/meca/attachments/pasted-image-20231204082111.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="physique/meca/attachments/pasted-image-20231204082111.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2 - 1er principe 2024-03-20 10.30.30]]></title><description><![CDATA[ 
  
   
   
@@ -907,17 +983,7 @@ Gaz parfait :<br>
 <br><br><br>Si la variation d'entropie est positive, alors la transformation est possible<br>Lorsqu'un système isolé énergétiquement évolue, son entropie  varie de telle façon que <br>
 Le système isolé (c'est à dire qui n'échange aucune énergie ni matière) s'apparente à ce qu'on a défini comme l'univers.<br>Système   milieu extérieur  univers (isolé)<br>Transformation réversible (idéale) de : <br>
 Transformation irréversible (réelle) de  : <br>
-Transformation impossible de  : <br>Si  est une source de température ( constante) : ]]></description><link>thermodynamique/3-second-principe-de-la-thermodynamique.html</link><guid isPermaLink="false">Thermodynamique/3 - Second principe de la thermodynamique.md</guid><pubDate>Wed, 10 Apr 2024 08:07:17 GMT</pubDate></item><item><title><![CDATA[4 - Thermochimie]]></title><description><![CDATA[ 
- <br>On s'intéresse maintenant à des transformations chimiques<br>
-Rappel : enthalpie<br>
-<br>
-<br>
- : avancement<br><br><br>
- réaction exothermique<br>
- réaction athermique<br>
- réaction endothermiquie<br><br><br>Température : à préciser<br>
-Pression : 1 bar<br><br>Niveau d'enthalpie de référence<br>
-]]></description><link>thermodynamique/4-thermochimie.html</link><guid isPermaLink="false">Thermodynamique/4 - Thermochimie.md</guid><pubDate>Wed, 10 Apr 2024 09:02:21 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+Transformation impossible de  : <br>Si  est une source de température ( constante) : ]]></description><link>thermodynamique/3-second-principe-de-la-thermodynamique.html</link><guid isPermaLink="false">Thermodynamique/3 - Second principe de la thermodynamique.md</guid><pubDate>Wed, 10 Apr 2024 08:07:17 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
  <br>Bienvenue sur le sommaire des fiches  !<br><br><br><br>
 <br><a data-href="Démarche scientifique" href="physique/bases/démarche-scientifique.html" class="internal-link" target="_self" rel="noopener">Démarche scientifique</a>
 <br><a data-href="Unités et Dimensions" href="physique/bases/unités-et-dimensions.html" class="internal-link" target="_self" rel="noopener">Unités et Dimensions</a>
