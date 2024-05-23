@@ -91,3 +91,6 @@ Soient $a$ et $b$ deux réels tq $a<b$. Soit $f$ continue sur $[a,b]$ et dériva
 Alors il existe $c \in ]a,b[$ tq: 
 $$f(b)-f(a)=f'(c)(b-a)$$
 $$\iff f'(c)=\frac{f(b)-f(a)}{b-a}$$
+### Inégalité des accroissements finis
+ Soit $f$ continue sur $[a,b]$ et dérivable sur $]a,b[$
+ 
