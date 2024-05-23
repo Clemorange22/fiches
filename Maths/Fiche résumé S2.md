@@ -103,4 +103,6 @@ On suppose que $f$ est dérivable sur $I - \{a\}$
 * Si $f'$ admet une limite finie $l$ et $a$, alors $f$ est dérivable en $a$ et $f'(a)=l$
 * Si $\lim_{ x \to a}f'(x)= \pm \infty$, alors $f$ n'est pas dérivable en $a$, et $C_{f}$ admet en $x=a$ une tangente verticale
 
-# Sommes d'espaces vectoriels, projections
+# Matrice
+binome de newton : commutativité !
+
