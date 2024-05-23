@@ -93,4 +93,7 @@ $$f(b)-f(a)=f'(c)(b-a)$$
 $$\iff f'(c)=\frac{f(b)-f(a)}{b-a}$$
 ### Inégalité des accroissements finis
  Soit $f$ continue sur $[a,b]$ et dérivable sur $]a,b[$
- 
+ Supposons qu'il existe des réels $m$ et $M$ tels que $\forall x \in ]a,b[, m\leq f'(x)\leq M$
+ $$m(b-a)\leq f(b)-f(a) \leq M(b-a)$$
+ Supposons qu'il existe $k \geq 0$ tel que $\forall t \in]a,b[, |f'(x)|\leq k$
+$$|f(b)-f(a)| \leq k(b-a)$$
