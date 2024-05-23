@@ -77,3 +77,17 @@ $f^{-1}$ est dérivable en $a$ si et seulement si $f'(a)\neq 0$
 $$(f^{-1})'(f(a))=\frac{1}{f'(a)}$$
 ou encore, si on pose $b=f(a)$
 $$(f^{-1})'(b)=\frac{1}{f' \circ f^{-1}(b)}$$
+## Théorème de Rolle et conséquences
+
+### Extremums locaux
+Soit $f$ dérivable sur $I$ et $a \in I$ tq $a$ ne soit pas une borne de $I$. Si $f$ admet un extremum local en $a$, alors $f'(a)=0$
+
+### Rolle
+Soient $a$ et $b$ deux réels tq $a<b$. Soit $f$ continue sur $[a,b]$ et dérivable sur $]a,b[$
+Si $f(a)=f(b)$, alors il existe $c \in ]a,b[$ tq $f'(c)=0$ 
+
+### Acroissements finis
+Soient $a$ et $b$ deux réels tq $a<b$. Soit $f$ continue sur $[a,b]$ et dérivable sur $]a,b[$
+Alors il existe $c \in ]a,b[$ tq: 
+$$f(b)-f(a)=f'(c)(b-a)$$
+$$\iff f'(c)=\frac{f(b)-f(a)}{b-a}$$
