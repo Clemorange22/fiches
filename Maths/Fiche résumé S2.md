@@ -100,7 +100,7 @@ $$|f(b)-f(a)| \leq k(b-a)$$
 ### Théorème de la limite de la dérivée
 Soit $f$ une fonction continue sur $I$ et soit $a \in I$
 On suppose que $f$ est dérivable sur $I - \{a\}$
-* Si $f'$ admet une limite finie $l$ et $a$, alors $f$ est dérivable en $a$ et $f'(a)=l$
+* Si $f'$ admet une limite finie $l$ en $a$, alors $f$ est dérivable en $a$ et $f'(a)=l$
 * Si $\lim_{ x \to a}f'(x)= \pm \infty$, alors $f$ n'est pas dérivable en $a$, et $C_{f}$ admet en $x=a$ une tangente verticale
 
 # Matrice
