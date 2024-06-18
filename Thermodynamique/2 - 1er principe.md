@@ -48,6 +48,7 @@ adiabatique : transformation qui n'échange pas de chaleur
 | Isochore ($V$ constant)            | $W_{AB}=0$; $Q_{AB}=\Delta U_{AB}$ | $W_{AB}=0$; $Q_{AB}= \Delta U_{AB}$                          |                                                      |                                    |
 | Monobare ($P_{ext}$ constante )    | $P$ constante                      | $P$ peut être différente                                     |                                                      |                                    |
 | Adiabatique                        | $Q=0$; $W_{AB}=\Delta U_{AB}$      | $Q=0$                                                        |                                                      | $PV=nRT$                           |
+|                                    |                                    |                                                              |                                                      |                                    |
 $\Delta H=Q_{V}=\Delta U+ \Delta(PV)$
 où $\Delta U=Q_{V}\neq Q_{P}$
 
