@@ -72,7 +72,7 @@ $\delta Q_{ev}=C_{v}\mathrm{d}T+l\mathrm{d}V$
 
 
 ### Gaz parfait
-$$\Delta U=n\overline{C_{v}} \times \Delta T \frac{1}{\gamma-1}(P_{f}V_{f}-P_{i}V_{i})$$
+$$\Delta U=n\overline{C_{v}} \times \Delta T =\frac{1}{\gamma-1}(P_{f}V_{f}-P_{i}V_{i})$$
 
 $l=\frac{P}{h}=-V$
 $\mathrm{d}U=n\overline{C_{V}}\mathrm{d}T$

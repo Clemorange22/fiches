@@ -37,3 +37,4 @@ En fonction de l'état physique des réactifs/produits, la quantité d'énergie 
 
 Si réaction chimiques réalisées à température différente: variation d'enthalpie négligeable
 
+<
