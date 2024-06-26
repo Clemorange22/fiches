@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "af5bb2fb3868282c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thermodynamique/5 - Fonction enthalpie libre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "91d505441e375ef5",
             "type": "leaf",
             "state": {
@@ -41,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamique/4 - Thermochimie.md",
+                "file": "Thermodynamique/5 - Fonction enthalpie libre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thermodynamique/4 - Thermochimie.md",
+                "file": "Thermodynamique/5 - Fonction enthalpie libre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thermodynamique/4 - Thermochimie.md"
+                "file": "Thermodynamique/5 - Fonction enthalpie libre.md"
               }
             }
           },
@@ -179,23 +192,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "64c0d3515f68b7f0",
+  "active": "af5bb2fb3868282c",
   "lastOpenFiles": [
+    "Thermodynamique/attachments/Pasted image 20240627005749.png",
+    "Thermodynamique/attachments/Pasted image 20240627005712.png",
+    "Thermodynamique/attachments/Pasted image 20240627005624.png",
+    "Thermodynamique/attachments/Pasted image 20240627005552.png",
+    "Thermodynamique/attachments/Pasted image 20240627005353.png",
+    "Thermodynamique/attachments/Pasted image 20240320104952.png",
+    "Thermodynamique/attachments/Pasted image 20240320110214.png",
+    "Thermodynamique/5 - Fonction enthalpie libre.md",
+    "Thermodynamique/4 - Thermochimie.md",
+    "Physique/Meca/4 - Énergie.md",
+    "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-27 00.52.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-27 00.52.29.excalidraw.svg",
+    "Excalidraw/attachments/Pasted Image 20240627005244_281.png",
+    "Excalidraw/attachments",
     "Thermodynamique/3 - Second principe de la thermodynamique.md",
     "Thermodynamique/2 - 1er principe.md",
     "Thermodynamique/1 - Thermodynamique générale.md",
     "Maths/Fiche résumé S2.md",
-    "Thermodynamique/4 - Thermochimie.md",
-    "Thermodynamique/attachments/5 - Fonction enthalpie libre.md",
     "Physique/Meca/5 - Oscillations.md",
     "Physique/Meca/3 - Dynamique.md",
     "Chimie/12 - TPS S2 Révisions.md",
-    "Physique/Meca/4 - Énergie.md",
     "index.md",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.md",
     "Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.md",
     "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.md",
-    "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.md",
     "Physique/Meca/2 - Cinématique.md",
     "Physique/Meca/1 - Statique.md",
     "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md",
@@ -205,27 +229,16 @@
     "Physique/Electricité/1 - Électrocinétique.md",
     "Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.md",
     "Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.md",
-    "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.md",
-    "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.27.21.excalidraw.md",
-    "Thermodynamique/attachments/Pasted image 20240320110214.png",
-    "Thermodynamique/attachments/Pasted image 20240320104952.png",
     "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.svg",
     "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.svg",
     "Maths",
-    "Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.svg",
-    "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.svg",
-    "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.27.21.excalidraw.svg",
-    "Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.svg",
     "Thermodynamique/attachments",
     "Thermodynamique",
-    "Physique/Meca/attachments/Pasted image 20231211084455.png",
-    "Physique/Meca/attachments/Pasted image 20231204090427.png",
     "html/chimie/x-différents-types-de-liaisons.html",
     "Physique/Meca/attachments",
     "Physique/Meca",
     "Physique/Electricité/attachments",
     "Physique/Electricité",
-    "Physique/Bases",
-    "Chimie/Corrections exos/attachments"
+    "Physique/Bases"
   ]
 }
