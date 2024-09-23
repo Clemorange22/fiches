@@ -1,116 +1,134 @@
 {
   "vaultName": "project-alpha",
-  "lastExport": 1716479321419,
+  "lastExport": 1727079014760,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Chimie/attachments/Pasted image 20231023091732.png",
-    "Chimie/attachments/Pasted image 20231023093306.png",
-    "Chimie/attachments/Pasted image 20231113092031.png",
-    "Chimie/attachments/Structure de l'atome 2023-10-02 09.15.37.excalidraw.svg",
-    "Chimie/attachments/Structure de l'atome 2023-10-02 09.15.37.excalidraw.md",
-    "Chimie/attachments/Structure de l'atome grotrian.excalidraw.svg",
-    "Chimie/attachments/Structure de l'atome grotrian.excalidraw.md",
-    "Chimie/attachments/Structure de l'atome periode.excalidraw.svg",
-    "Chimie/attachments/Structure de l'atome periode.excalidraw.md",
-    "Chimie/attachments/Structure de l'atome remplissage.excalidraw.svg",
-    "Chimie/attachments/Tableau périodique des éléments.svg",
-    "Chimie/attachments/VIII - Les liaisons 2023-10-16 09.36.58.excalidraw.svg",
-    "Chimie/attachments/VIII - Les liaisons 2023-10-16 09.36.58.excalidraw.md",
-    "Chimie/attachments/VIII - Les liaisons 2023-10-16 09.39.37.excalidraw.svg",
-    "Chimie/attachments/VIII - Les liaisons 2023-10-16 09.39.37.excalidraw.md",
-    "Chimie/attachments/X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05.excalidraw.svg",
-    "Chimie/attachments/X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05.excalidraw.md",
-    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.svg",
-    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.md",
-    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.svg",
-    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.md",
-    "Chimie/Corrections exos/attachments/Pasted image 20231014112036.png",
-    "Chimie/Corrections exos/attachments/Pasted image 20231014113025.png",
-    "Chimie/Corrections exos/Exo 4 spectres du lithium.md",
-    "Chimie/1-4 - Structure de l'atome.md",
-    "Chimie/5 - Tableau périodique.md",
-    "Chimie/6 - Propriétés des atomes.md",
-    "Chimie/7 - Spectroscopie des rayons X.md",
-    "Chimie/8 - Les liaisons.md",
-    "Chimie/9- Théorie des orbitales moléculaires.md",
-    "Chimie/10-Différents types de liaisons.md",
-    "Chimie/11 - Cristallographie.md",
-    "Chimie/12 - TPS S2 Révisions.md",
-    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.svg",
-    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.dark.svg",
-    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.light.svg",
-    "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
-    "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.light.svg",
-    "Maths/Fiche résumé S2.md",
-    "Physique/attachments/Pasted image 20231013133810.png",
-    "Physique/attachments/Pasted image 20231013133831.png",
-    "Physique/attachments/Pasted image 20231013133842.png",
-    "Physique/attachments/Pasted image 20231013133925.png",
-    "Physique/attachments/Pasted image 20231013133933.png",
-    "Physique/attachments/Pasted image 20231013133941.png",
-    "Physique/attachments/Pasted image 20231013134024.png",
-    "Physique/attachments/Pasted image 20231013134035.png",
-    "Physique/attachments/Pasted image 20231013134045.png",
-    "Physique/attachments/Pasted image 20231013134138.png",
-    "Physique/attachments/Pasted image 20231013134208.png",
-    "Physique/attachments/Pasted image 20231013135542.png",
-    "Physique/attachments/Pasted image 20231013154436.png",
-    "Physique/attachments/Pasted image 20231013154447.png",
-    "Physique/Bases/Démarche scientifique.md",
-    "Physique/Bases/Énergie.md",
-    "Physique/Bases/Incertitudes et chiffres significatifs.md",
-    "Physique/Bases/Unités et Dimensions.md",
-    "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.27.21.excalidraw.svg",
-    "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.27.21.excalidraw.md",
-    "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.svg",
-    "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.md",
-    "Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.svg",
-    "Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.md",
-    "Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.svg",
-    "Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.md",
-    "Physique/Electricité/1 - Électrocinétique.md",
-    "Physique/Electricité/2 - Régimes transitoires.md",
-    "Physique/Electricité/3 - Régime sinusoïdal permanent.md",
-    "Physique/Electricité/4 - Etude des filtres - diagramme de Bode.md",
-    "Physique/Meca/attachments/Pasted image 20231113084749.png",
-    "Physique/Meca/attachments/Pasted image 20231113084830.png",
-    "Physique/Meca/attachments/Pasted image 20231120081419.png",
-    "Physique/Meca/attachments/Pasted image 20231120083422.png",
-    "Physique/Meca/attachments/Pasted image 20231204082111.png",
-    "Physique/Meca/attachments/Pasted image 20231204085801.png",
-    "Physique/Meca/attachments/Pasted image 20231204085905.png",
-    "Physique/Meca/attachments/Pasted image 20231204085915.png",
-    "Physique/Meca/attachments/Pasted image 20231204090002.png",
-    "Physique/Meca/attachments/Pasted image 20231204090427.png",
-    "Physique/Meca/attachments/Pasted image 20231211084455.png",
-    "Physique/Meca/attachments/Pasted image 20240313115506.png",
-    "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.svg",
-    "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md",
-    "Physique/Meca/1 - Statique.md",
-    "Physique/Meca/2 - Cinématique.md",
-    "Physique/Meca/3 - Dynamique.md",
-    "Physique/Meca/4 - Énergie.md",
-    "Physique/Meca/5 - Oscillations.md",
-    "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.svg",
-    "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.md",
-    "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.svg",
-    "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.md",
-    "Thermodynamique/attachments/5 - Fonction enthalpie libre.md",
-    "Thermodynamique/attachments/Pasted image 20240320104952.png",
-    "Thermodynamique/attachments/Pasted image 20240320110214.png",
-    "Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.md",
-    "Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.svg",
-    "Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.svg",
-    "Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.md",
-    "Thermodynamique/1 - Thermodynamique générale.md",
-    "Thermodynamique/2 - 1er principe.md",
-    "Thermodynamique/3 - Second principe de la thermodynamique.md",
-    "Thermodynamique/4 - Thermochimie.md",
+    "1A/Chimie/attachments/Pasted image 20231023091732.png",
+    "1A/Chimie/attachments/Pasted image 20231023093306.png",
+    "1A/Chimie/attachments/Pasted image 20231113092031.png",
+    "1A/Chimie/attachments/Structure de l'atome 2023-10-02 09.15.37.excalidraw.svg",
+    "1A/Chimie/attachments/Structure de l'atome 2023-10-02 09.15.37.excalidraw.md",
+    "1A/Chimie/attachments/Structure de l'atome grotrian.excalidraw.svg",
+    "1A/Chimie/attachments/Structure de l'atome grotrian.excalidraw.md",
+    "1A/Chimie/attachments/Structure de l'atome periode.excalidraw.svg",
+    "1A/Chimie/attachments/Structure de l'atome periode.excalidraw.md",
+    "1A/Chimie/attachments/Structure de l'atome remplissage.excalidraw.svg",
+    "1A/Chimie/attachments/Tableau périodique des éléments.svg",
+    "1A/Chimie/attachments/VIII - Les liaisons 2023-10-16 09.36.58.excalidraw.svg",
+    "1A/Chimie/attachments/VIII - Les liaisons 2023-10-16 09.36.58.excalidraw.md",
+    "1A/Chimie/attachments/VIII - Les liaisons 2023-10-16 09.39.37.excalidraw.svg",
+    "1A/Chimie/attachments/VIII - Les liaisons 2023-10-16 09.39.37.excalidraw.md",
+    "1A/Chimie/attachments/X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05.excalidraw.svg",
+    "1A/Chimie/attachments/X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05.excalidraw.md",
+    "1A/Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.svg",
+    "1A/Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.md",
+    "1A/Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.svg",
+    "1A/Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.md",
+    "1A/Chimie/Corrections exos/attachments/Pasted image 20231014112036.png",
+    "1A/Chimie/Corrections exos/attachments/Pasted image 20231014113025.png",
+    "1A/Chimie/Corrections exos/Exo 4 spectres du lithium.md",
+    "1A/Chimie/1-4 - Structure de l'atome.md",
+    "1A/Chimie/5 - Tableau périodique.md",
+    "1A/Chimie/6 - Propriétés des atomes.md",
+    "1A/Chimie/7 - Spectroscopie des rayons X.md",
+    "1A/Chimie/8 - Les liaisons.md",
+    "1A/Chimie/9- Théorie des orbitales moléculaires.md",
+    "1A/Chimie/10-Différents types de liaisons.md",
+    "1A/Chimie/11 - Cristallographie.md",
+    "1A/Chimie/12 - TPS S2 Révisions.md",
+    "1A/Excalidraw/attachments/Pasted Image 20240627005244_281.png",
+    "1A/Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.svg",
+    "1A/Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md",
+    "1A/Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.dark.svg",
+    "1A/Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.light.svg",
+    "1A/Excalidraw/Drawing 2024-06-27 00.52.29.excalidraw.svg",
+    "1A/Excalidraw/Drawing 2024-06-27 00.52.29.excalidraw.md",
+    "1A/Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md",
+    "1A/Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.light.svg",
+    "1A/Maths/Fiche résumé S2.md",
+    "1A/Physique/attachments/Pasted image 20231013133810.png",
+    "1A/Physique/attachments/Pasted image 20231013133831.png",
+    "1A/Physique/attachments/Pasted image 20231013133842.png",
+    "1A/Physique/attachments/Pasted image 20231013133925.png",
+    "1A/Physique/attachments/Pasted image 20231013133933.png",
+    "1A/Physique/attachments/Pasted image 20231013133941.png",
+    "1A/Physique/attachments/Pasted image 20231013134024.png",
+    "1A/Physique/attachments/Pasted image 20231013134035.png",
+    "1A/Physique/attachments/Pasted image 20231013134045.png",
+    "1A/Physique/attachments/Pasted image 20231013134138.png",
+    "1A/Physique/attachments/Pasted image 20231013134208.png",
+    "1A/Physique/attachments/Pasted image 20231013135542.png",
+    "1A/Physique/attachments/Pasted image 20231013154436.png",
+    "1A/Physique/attachments/Pasted image 20231013154447.png",
+    "1A/Physique/Bases/Démarche scientifique.md",
+    "1A/Physique/Bases/Énergie.md",
+    "1A/Physique/Bases/Incertitudes et chiffres significatifs.md",
+    "1A/Physique/Bases/Unités et Dimensions.md",
+    "1A/Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.27.21.excalidraw.svg",
+    "1A/Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.27.21.excalidraw.md",
+    "1A/Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.svg",
+    "1A/Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.md",
+    "1A/Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.svg",
+    "1A/Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.md",
+    "1A/Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.svg",
+    "1A/Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.md",
+    "1A/Physique/Electricité/1 - Électrocinétique.md",
+    "1A/Physique/Electricité/2 - Régimes transitoires.md",
+    "1A/Physique/Electricité/3 - Régime sinusoïdal permanent.md",
+    "1A/Physique/Electricité/4 - Etude des filtres - diagramme de Bode.md",
+    "1A/Physique/Meca/attachments/Pasted image 20231113084749.png",
+    "1A/Physique/Meca/attachments/Pasted image 20231113084830.png",
+    "1A/Physique/Meca/attachments/Pasted image 20231120081419.png",
+    "1A/Physique/Meca/attachments/Pasted image 20231120083422.png",
+    "1A/Physique/Meca/attachments/Pasted image 20231204082111.png",
+    "1A/Physique/Meca/attachments/Pasted image 20231204085801.png",
+    "1A/Physique/Meca/attachments/Pasted image 20231204085905.png",
+    "1A/Physique/Meca/attachments/Pasted image 20231204085915.png",
+    "1A/Physique/Meca/attachments/Pasted image 20231204090002.png",
+    "1A/Physique/Meca/attachments/Pasted image 20231204090427.png",
+    "1A/Physique/Meca/attachments/Pasted image 20231211084455.png",
+    "1A/Physique/Meca/attachments/Pasted image 20240313115506.png",
+    "1A/Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.svg",
+    "1A/Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md",
+    "1A/Physique/Meca/1 - Statique.md",
+    "1A/Physique/Meca/2 - Cinématique.md",
+    "1A/Physique/Meca/3 - Dynamique.md",
+    "1A/Physique/Meca/4 - Énergie.md",
+    "1A/Physique/Meca/5 - Oscillations.md",
+    "1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.svg",
+    "1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.md",
+    "1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.svg",
+    "1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.md",
+    "1A/Thermodynamique/attachments/Pasted image 20240320104952.png",
+    "1A/Thermodynamique/attachments/Pasted image 20240320110214.png",
+    "1A/Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.svg",
+    "1A/Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.md",
+    "1A/Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.svg",
+    "1A/Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.md",
+    "1A/Thermodynamique/1 - Thermodynamique générale.md",
+    "1A/Thermodynamique/2 - 1er principe.md",
+    "1A/Thermodynamique/3 - Second principe de la thermodynamique.md",
+    "1A/Thermodynamique/4 - Thermochimie.md",
+    "1A/Thermodynamique/5 - Fonction enthalpie libre.md",
+    "1A/index.md",
     "index.md",
+    "lib/media/pasted-image-20231013133810.png",
+    "lib/media/pasted-image-20231013133831.png",
+    "lib/media/pasted-image-20231013133842.png",
+    "lib/media/pasted-image-20231013133925.png",
+    "lib/media/pasted-image-20231013133933.png",
+    "lib/media/pasted-image-20231013133941.png",
+    "lib/media/pasted-image-20231013134024.png",
+    "lib/media/pasted-image-20231013134035.png",
+    "lib/media/pasted-image-20231013134045.png",
+    "lib/media/pasted-image-20231013134138.png",
+    "lib/media/pasted-image-20231013134208.png",
+    "lib/media/pasted-image-20231013135542.png",
+    "lib/media/pasted-image-20231013154436.png",
+    "lib/media/pasted-image-20231013154447.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -126,6 +144,7 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/fonts/mathjax_zero.woff",
     "lib/fonts/mathjax_main-regular.woff",
     "lib/fonts/mathjax_main-bold.woff",
@@ -162,55 +181,7 @@
     "lib/styles/other-plugins.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css",
-    "chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.svg",
-    "chimie/corrections-exos/attachments/pasted-image-20231014112036.png",
-    "chimie/corrections-exos/attachments/pasted-image-20231014113025.png",
-    "chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-11.49.50.excalidraw.svg",
-    "chimie/attachments/structure-de-l'atome-periode.excalidraw.svg",
-    "chimie/attachments/structure-de-l'atome-grotrian.excalidraw.svg",
-    "chimie/attachments/structure-de-l'atome-remplissage.excalidraw.svg",
-    "chimie/attachments/viii-les-liaisons-2023-10-16-09.36.58.excalidraw.svg",
-    "chimie/attachments/viii-les-liaisons-2023-10-16-09.39.37.excalidraw.svg",
-    "chimie/attachments/pasted-image-20231023091732.png",
-    "chimie/attachments/pasted-image-20231023093306.png",
-    "chimie/attachments/x-i-théorie-des-orbitales-moléculaires-2023-11-06-09.19.05.excalidraw.svg",
-    "lib/media/pasted-image-20231013133810.png",
-    "lib/media/pasted-image-20231013133831.png",
-    "lib/media/pasted-image-20231013133842.png",
-    "lib/media/pasted-image-20231013133925.png",
-    "lib/media/pasted-image-20231013133933.png",
-    "lib/media/pasted-image-20231013133941.png",
-    "lib/media/pasted-image-20231013134024.png",
-    "lib/media/pasted-image-20231013134035.png",
-    "lib/media/pasted-image-20231013134045.png",
-    "lib/media/pasted-image-20231013134138.png",
-    "lib/media/pasted-image-20231013134208.png",
-    "lib/media/pasted-image-20231013135542.png",
-    "lib/media/pasted-image-20231013154436.png",
-    "lib/media/pasted-image-20231013154447.png",
-    "physique/electricité/attachments/régimes-transitoires-2023-10-23-08.05.35.excalidraw.svg",
-    "physique/electricité/attachments/régimes-transitoires-2023-10-23-08.33.47.excalidraw.svg",
-    "physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.27.21.excalidraw.svg",
-    "physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.32.20.excalidraw.svg",
-    "physique/meca/attachments/statique-2023-11-06-08.29.58.excalidraw.svg",
-    "physique/meca/attachments/pasted-image-20231113084749.png",
-    "physique/meca/attachments/pasted-image-20231113084830.png",
-    "physique/meca/attachments/pasted-image-20231120081419.png",
-    "physique/meca/attachments/pasted-image-20231120083422.png",
-    "physique/meca/attachments/pasted-image-20231204082111.png",
-    "physique/meca/attachments/pasted-image-20231204085801.png",
-    "physique/meca/attachments/pasted-image-20231204085905.png",
-    "physique/meca/attachments/pasted-image-20231204085915.png",
-    "physique/meca/attachments/pasted-image-20231204090002.png",
-    "physique/meca/attachments/pasted-image-20231204090427.png",
-    "physique/meca/attachments/pasted-image-20231211084455.png",
-    "physique/meca/attachments/pasted-image-20240313115506.png",
-    "thermodynamique/attachments/thermodynamique-générale-2024-02-06-16.37.22.excalidraw.svg",
-    "thermodynamique/attachments/thermodynamique-générale-2024-02-14-10.22.40.excalidraw.svg",
-    "thermodynamique/attachments/2-1er-principe-2024-03-20-10.30.30.excalidraw.svg",
-    "thermodynamique/attachments/2-1er-principe-2024-03-20-10.43.13.excalidraw.svg",
-    "thermodynamique/attachments/pasted-image-20240320104952.png"
+    "lib/styles/main-styles.css"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -228,6 +199,7 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/fonts/mathjax_zero.woff",
     "lib/fonts/mathjax_main-regular.woff",
     "lib/fonts/mathjax_main-bold.woff",
@@ -267,410 +239,440 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "Chimie/attachments/Pasted image 20231023091732.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/attachments/Pasted image 20231023091732.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 397231,
-      "exportedPath": "chimie/attachments/pasted-image-20231023091732.png",
+      "exportedPath": "1a/chimie/attachments/pasted-image-20231023091732.png",
       "dependencies": []
     },
-    "Chimie/attachments/Pasted image 20231023093306.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/attachments/Pasted image 20231023093306.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 44398,
-      "exportedPath": "chimie/attachments/pasted-image-20231023093306.png",
+      "exportedPath": "1a/chimie/attachments/pasted-image-20231023093306.png",
       "dependencies": []
     },
-    "Chimie/attachments/Pasted image 20231113092031.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/attachments/Pasted image 20231113092031.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 43268,
-      "exportedPath": "chimie/attachments/pasted-image-20231113092031.png",
+      "exportedPath": "1a/chimie/attachments/pasted-image-20231113092031.png",
       "dependencies": []
     },
-    "Chimie/attachments/Structure de l'atome 2023-10-02 09.15.37.excalidraw.svg": {
-      "modifiedTime": 1712744326041,
+    "1A/Chimie/attachments/Structure de l'atome 2023-10-02 09.15.37.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 86538,
-      "exportedPath": "chimie/attachments/structure-de-l'atome-2023-10-02-09.15.37.excalidraw.svg",
+      "exportedPath": "1a/chimie/attachments/structure-de-l'atome-2023-10-02-09.15.37.excalidraw.svg",
       "dependencies": []
     },
-    "Chimie/attachments/Structure de l'atome 2023-10-02 09.15.37.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/attachments/Structure de l'atome 2023-10-02 09.15.37.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 3967,
-      "exportedPath": "chimie/attachments/structure-de-l'atome-2023-10-02-09.15.37.excalidraw.html",
+      "exportedPath": "1a/chimie/attachments/structure-de-l'atome-2023-10-02-09.15.37.excalidraw.html",
       "dependencies": []
     },
-    "Chimie/attachments/Structure de l'atome grotrian.excalidraw.svg": {
-      "modifiedTime": 1712744326041,
+    "1A/Chimie/attachments/Structure de l'atome grotrian.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 92086,
-      "exportedPath": "chimie/attachments/structure-de-l'atome-grotrian.excalidraw.svg",
+      "exportedPath": "1a/chimie/attachments/structure-de-l'atome-grotrian.excalidraw.svg",
       "dependencies": []
     },
-    "Chimie/attachments/Structure de l'atome grotrian.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/attachments/Structure de l'atome grotrian.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 10978,
-      "exportedPath": "chimie/attachments/structure-de-l'atome-grotrian.excalidraw.html",
+      "exportedPath": "1a/chimie/attachments/structure-de-l'atome-grotrian.excalidraw.html",
       "dependencies": []
     },
-    "Chimie/attachments/Structure de l'atome periode.excalidraw.svg": {
-      "modifiedTime": 1712744326041,
+    "1A/Chimie/attachments/Structure de l'atome periode.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 87445,
-      "exportedPath": "chimie/attachments/structure-de-l'atome-periode.excalidraw.svg",
+      "exportedPath": "1a/chimie/attachments/structure-de-l'atome-periode.excalidraw.svg",
       "dependencies": []
     },
-    "Chimie/attachments/Structure de l'atome periode.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/attachments/Structure de l'atome periode.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 5333,
-      "exportedPath": "chimie/attachments/structure-de-l'atome-periode.excalidraw.html",
+      "exportedPath": "1a/chimie/attachments/structure-de-l'atome-periode.excalidraw.html",
       "dependencies": []
     },
-    "Chimie/attachments/Structure de l'atome remplissage.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/attachments/Structure de l'atome remplissage.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 86470,
-      "exportedPath": "chimie/attachments/structure-de-l'atome-remplissage.excalidraw.svg",
+      "exportedPath": "1a/chimie/attachments/structure-de-l'atome-remplissage.excalidraw.svg",
       "dependencies": []
     },
-    "Chimie/attachments/Tableau périodique des éléments.svg": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/attachments/Tableau périodique des éléments.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 64235,
-      "exportedPath": "chimie/attachments/tableau-périodique-des-éléments.svg",
+      "exportedPath": "1a/chimie/attachments/tableau-périodique-des-éléments.svg",
       "dependencies": []
     },
-    "Chimie/attachments/VIII - Les liaisons 2023-10-16 09.36.58.excalidraw.svg": {
-      "modifiedTime": 1712744326041,
+    "1A/Chimie/attachments/VIII - Les liaisons 2023-10-16 09.36.58.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 93738,
-      "exportedPath": "chimie/attachments/viii-les-liaisons-2023-10-16-09.36.58.excalidraw.svg",
+      "exportedPath": "1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.36.58.excalidraw.svg",
       "dependencies": []
     },
-    "Chimie/attachments/VIII - Les liaisons 2023-10-16 09.36.58.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/attachments/VIII - Les liaisons 2023-10-16 09.36.58.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 5290,
-      "exportedPath": "chimie/attachments/viii-les-liaisons-2023-10-16-09.36.58.excalidraw.html",
+      "exportedPath": "1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.36.58.excalidraw.html",
       "dependencies": []
     },
-    "Chimie/attachments/VIII - Les liaisons 2023-10-16 09.39.37.excalidraw.svg": {
-      "modifiedTime": 1712744326041,
+    "1A/Chimie/attachments/VIII - Les liaisons 2023-10-16 09.39.37.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 93740,
-      "exportedPath": "chimie/attachments/viii-les-liaisons-2023-10-16-09.39.37.excalidraw.svg",
+      "exportedPath": "1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.39.37.excalidraw.svg",
       "dependencies": []
     },
-    "Chimie/attachments/VIII - Les liaisons 2023-10-16 09.39.37.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/attachments/VIII - Les liaisons 2023-10-16 09.39.37.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 5797,
-      "exportedPath": "chimie/attachments/viii-les-liaisons-2023-10-16-09.39.37.excalidraw.html",
+      "exportedPath": "1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.39.37.excalidraw.html",
       "dependencies": []
     },
-    "Chimie/attachments/X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05.excalidraw.svg": {
-      "modifiedTime": 1712744326041,
+    "1A/Chimie/attachments/X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 94260,
-      "exportedPath": "chimie/attachments/x-i-théorie-des-orbitales-moléculaires-2023-11-06-09.19.05.excalidraw.svg",
+      "exportedPath": "1a/chimie/attachments/x-i-théorie-des-orbitales-moléculaires-2023-11-06-09.19.05.excalidraw.svg",
       "dependencies": []
     },
-    "Chimie/attachments/X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/attachments/X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 8468,
-      "exportedPath": "chimie/attachments/x-i-théorie-des-orbitales-moléculaires-2023-11-06-09.19.05.excalidraw.html",
+      "exportedPath": "1a/chimie/attachments/x-i-théorie-des-orbitales-moléculaires-2023-11-06-09.19.05.excalidraw.html",
       "dependencies": []
     },
-    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.svg": {
-      "modifiedTime": 1712744326041,
+    "1A/Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 97761,
-      "exportedPath": "chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.svg",
+      "exportedPath": "1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.svg",
       "dependencies": []
     },
-    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 11885,
-      "exportedPath": "chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.html",
+      "exportedPath": "1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.html",
       "dependencies": []
     },
-    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 106427,
-      "exportedPath": "chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-11.49.50.excalidraw.svg",
+      "exportedPath": "1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-11.49.50.excalidraw.svg",
       "dependencies": []
     },
-    "Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 15454,
-      "exportedPath": "chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-11.49.50.excalidraw.html",
+      "exportedPath": "1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-11.49.50.excalidraw.html",
       "dependencies": []
     },
-    "Chimie/Corrections exos/attachments/Pasted image 20231014112036.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/Corrections exos/attachments/Pasted image 20231014112036.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 84961,
-      "exportedPath": "chimie/corrections-exos/attachments/pasted-image-20231014112036.png",
+      "exportedPath": "1a/chimie/corrections-exos/attachments/pasted-image-20231014112036.png",
       "dependencies": []
     },
-    "Chimie/Corrections exos/attachments/Pasted image 20231014113025.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/Corrections exos/attachments/Pasted image 20231014113025.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 286021,
-      "exportedPath": "chimie/corrections-exos/attachments/pasted-image-20231014113025.png",
+      "exportedPath": "1a/chimie/corrections-exos/attachments/pasted-image-20231014113025.png",
       "dependencies": []
     },
-    "Chimie/Corrections exos/Exo 4 spectres du lithium.md": {
-      "modifiedTime": 1712743983508,
-      "sourceSize": 3963,
-      "exportedPath": "chimie/corrections-exos/exo-4-spectres-du-lithium.html",
+    "1A/Chimie/Corrections exos/Exo 4 spectres du lithium.md": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 3957,
+      "exportedPath": "1a/chimie/corrections-exos/exo-4-spectres-du-lithium.html",
       "dependencies": [
-        "chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.svg",
-        "chimie/corrections-exos/attachments/pasted-image-20231014112036.png",
-        "chimie/corrections-exos/attachments/pasted-image-20231014113025.png",
-        "chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-11.49.50.excalidraw.svg"
+        "1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.svg",
+        "1a/chimie/corrections-exos/attachments/pasted-image-20231014112036.png",
+        "1a/chimie/corrections-exos/attachments/pasted-image-20231014113025.png",
+        "1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-11.49.50.excalidraw.svg"
       ]
     },
-    "Chimie/1-4 - Structure de l'atome.md": {
-      "modifiedTime": 1712743983508,
-      "sourceSize": 4549,
-      "exportedPath": "chimie/1-4-structure-de-l'atome.html",
+    "1A/Chimie/1-4 - Structure de l'atome.md": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 4546,
+      "exportedPath": "1a/chimie/1-4-structure-de-l'atome.html",
       "dependencies": [
-        "chimie/attachments/structure-de-l'atome-periode.excalidraw.svg",
-        "chimie/attachments/structure-de-l'atome-grotrian.excalidraw.svg",
-        "chimie/attachments/structure-de-l'atome-remplissage.excalidraw.svg"
+        "1a/chimie/attachments/structure-de-l'atome-periode.excalidraw.svg",
+        "1a/chimie/attachments/structure-de-l'atome-grotrian.excalidraw.svg",
+        "1a/chimie/attachments/structure-de-l'atome-remplissage.excalidraw.svg"
       ]
     },
-    "Chimie/5 - Tableau périodique.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/5 - Tableau périodique.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 890,
-      "exportedPath": "chimie/5-tableau-périodique.html",
+      "exportedPath": "1a/chimie/5-tableau-périodique.html",
       "dependencies": []
     },
-    "Chimie/6 - Propriétés des atomes.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/6 - Propriétés des atomes.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 798,
-      "exportedPath": "chimie/6-propriétés-des-atomes.html",
+      "exportedPath": "1a/chimie/6-propriétés-des-atomes.html",
       "dependencies": []
     },
-    "Chimie/7 - Spectroscopie des rayons X.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/7 - Spectroscopie des rayons X.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 1743,
-      "exportedPath": "chimie/7-spectroscopie-des-rayons-x.html",
+      "exportedPath": "1a/chimie/7-spectroscopie-des-rayons-x.html",
       "dependencies": []
     },
-    "Chimie/8 - Les liaisons.md": {
-      "modifiedTime": 1712743983508,
-      "sourceSize": 2488,
-      "exportedPath": "chimie/8-les-liaisons.html",
+    "1A/Chimie/8 - Les liaisons.md": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 2485,
+      "exportedPath": "1a/chimie/8-les-liaisons.html",
       "dependencies": [
-        "chimie/attachments/viii-les-liaisons-2023-10-16-09.36.58.excalidraw.svg",
-        "chimie/attachments/viii-les-liaisons-2023-10-16-09.39.37.excalidraw.svg",
-        "chimie/attachments/pasted-image-20231023091732.png",
-        "chimie/attachments/pasted-image-20231023093306.png"
+        "1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.36.58.excalidraw.svg",
+        "1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.39.37.excalidraw.svg",
+        "1a/chimie/attachments/pasted-image-20231023091732.png",
+        "1a/chimie/attachments/pasted-image-20231023093306.png"
       ]
     },
-    "Chimie/9- Théorie des orbitales moléculaires.md": {
-      "modifiedTime": 1712743983508,
-      "sourceSize": 1388,
-      "exportedPath": "chimie/9-théorie-des-orbitales-moléculaires.html",
+    "1A/Chimie/9- Théorie des orbitales moléculaires.md": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 1385,
+      "exportedPath": "1a/chimie/9-théorie-des-orbitales-moléculaires.html",
       "dependencies": [
-        "chimie/attachments/x-i-théorie-des-orbitales-moléculaires-2023-11-06-09.19.05.excalidraw.svg"
+        "1a/chimie/attachments/x-i-théorie-des-orbitales-moléculaires-2023-11-06-09.19.05.excalidraw.svg"
       ]
     },
-    "Chimie/10-Différents types de liaisons.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/10-Différents types de liaisons.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 1583,
-      "exportedPath": "chimie/10-différents-types-de-liaisons.html",
+      "exportedPath": "1a/chimie/10-différents-types-de-liaisons.html",
       "dependencies": []
     },
-    "Chimie/11 - Cristallographie.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Chimie/11 - Cristallographie.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 4048,
-      "exportedPath": "chimie/11-cristallographie.html",
+      "exportedPath": "1a/chimie/11-cristallographie.html",
       "dependencies": []
     },
-    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.svg": {
-      "modifiedTime": 1712744326041,
+    "1A/Chimie/12 - TPS S2 Révisions.md": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 760,
+      "exportedPath": "1a/chimie/12-tps-s2-révisions.html",
+      "dependencies": []
+    },
+    "1A/Excalidraw/attachments/Pasted Image 20240627005244_281.png": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 1629569,
+      "exportedPath": "1a/excalidraw/attachments/pasted-image-20240627005244_281.png",
+      "dependencies": []
+    },
+    "1A/Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 83355,
-      "exportedPath": "excalidraw/drawing-2023-09-27-16.36.35.excalidraw.svg",
+      "exportedPath": "1a/excalidraw/drawing-2023-09-27-16.36.35.excalidraw.svg",
       "dependencies": []
     },
-    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 2088,
-      "exportedPath": "excalidraw/drawing-2023-09-27-16.36.35.excalidraw.html",
+      "exportedPath": "1a/excalidraw/drawing-2023-09-27-16.36.35.excalidraw.html",
       "dependencies": []
     },
-    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.dark.svg": {
-      "modifiedTime": 1712743983508,
+    "1A/Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.dark.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 83327,
-      "exportedPath": "excalidraw/drawing-2023-09-27-16.36.35.excalidraw.dark.svg",
+      "exportedPath": "1a/excalidraw/drawing-2023-09-27-16.36.35.excalidraw.dark.svg",
       "dependencies": []
     },
-    "Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.light.svg": {
-      "modifiedTime": 1712743983508,
+    "1A/Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.light.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 87369,
-      "exportedPath": "excalidraw/drawing-2023-09-27-16.36.35.excalidraw.light.svg",
+      "exportedPath": "1a/excalidraw/drawing-2023-09-27-16.36.35.excalidraw.light.svg",
       "dependencies": []
     },
-    "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Excalidraw/Drawing 2024-06-27 00.52.29.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 654,
+      "exportedPath": "1a/excalidraw/drawing-2024-06-27-00.52.29.excalidraw.svg",
+      "dependencies": []
+    },
+    "1A/Excalidraw/Drawing 2024-06-27 00.52.29.excalidraw.md": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 2524,
+      "exportedPath": "1a/excalidraw/drawing-2024-06-27-00.52.29.excalidraw.html",
+      "dependencies": []
+    },
+    "1A/Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 4310,
-      "exportedPath": "excalidraw/incertitudes-et-chiffres-significatifs-2023-09-29-15.48.59.excalidraw.html",
+      "exportedPath": "1a/excalidraw/incertitudes-et-chiffres-significatifs-2023-09-29-15.48.59.excalidraw.html",
       "dependencies": []
     },
-    "Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.light.svg": {
-      "modifiedTime": 1712743983508,
+    "1A/Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.light.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 83287,
-      "exportedPath": "excalidraw/incertitudes-et-chiffres-significatifs-2023-09-29-15.48.59.excalidraw.light.svg",
+      "exportedPath": "1a/excalidraw/incertitudes-et-chiffres-significatifs-2023-09-29-15.48.59.excalidraw.light.svg",
       "dependencies": []
     },
-    "Physique/attachments/Pasted image 20231013133810.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Maths/Fiche résumé S2.md": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 4536,
+      "exportedPath": "1a/maths/fiche-résumé-s2.html",
+      "dependencies": []
+    },
+    "1A/Physique/attachments/Pasted image 20231013133810.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 804,
-      "exportedPath": "physique/attachments/pasted-image-20231013133810.png",
+      "exportedPath": "1a/physique/attachments/pasted-image-20231013133810.png",
       "dependencies": []
     },
-    "Physique/attachments/Pasted image 20231013133831.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/attachments/Pasted image 20231013133831.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 2658,
-      "exportedPath": "physique/attachments/pasted-image-20231013133831.png",
+      "exportedPath": "1a/physique/attachments/pasted-image-20231013133831.png",
       "dependencies": []
     },
-    "Physique/attachments/Pasted image 20231013133842.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/attachments/Pasted image 20231013133842.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 944,
-      "exportedPath": "physique/attachments/pasted-image-20231013133842.png",
+      "exportedPath": "1a/physique/attachments/pasted-image-20231013133842.png",
       "dependencies": []
     },
-    "Physique/attachments/Pasted image 20231013133925.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/attachments/Pasted image 20231013133925.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 1396,
-      "exportedPath": "physique/attachments/pasted-image-20231013133925.png",
+      "exportedPath": "1a/physique/attachments/pasted-image-20231013133925.png",
       "dependencies": []
     },
-    "Physique/attachments/Pasted image 20231013133933.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/attachments/Pasted image 20231013133933.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 1779,
-      "exportedPath": "physique/attachments/pasted-image-20231013133933.png",
+      "exportedPath": "1a/physique/attachments/pasted-image-20231013133933.png",
       "dependencies": []
     },
-    "Physique/attachments/Pasted image 20231013133941.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/attachments/Pasted image 20231013133941.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 7678,
-      "exportedPath": "physique/attachments/pasted-image-20231013133941.png",
+      "exportedPath": "1a/physique/attachments/pasted-image-20231013133941.png",
       "dependencies": []
     },
-    "Physique/attachments/Pasted image 20231013134024.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/attachments/Pasted image 20231013134024.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 4759,
-      "exportedPath": "physique/attachments/pasted-image-20231013134024.png",
+      "exportedPath": "1a/physique/attachments/pasted-image-20231013134024.png",
       "dependencies": []
     },
-    "Physique/attachments/Pasted image 20231013134035.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/attachments/Pasted image 20231013134035.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 4501,
-      "exportedPath": "physique/attachments/pasted-image-20231013134035.png",
+      "exportedPath": "1a/physique/attachments/pasted-image-20231013134035.png",
       "dependencies": []
     },
-    "Physique/attachments/Pasted image 20231013134045.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/attachments/Pasted image 20231013134045.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 11515,
-      "exportedPath": "physique/attachments/pasted-image-20231013134045.png",
+      "exportedPath": "1a/physique/attachments/pasted-image-20231013134045.png",
       "dependencies": []
     },
-    "Physique/attachments/Pasted image 20231013134138.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/attachments/Pasted image 20231013134138.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 11158,
-      "exportedPath": "physique/attachments/pasted-image-20231013134138.png",
+      "exportedPath": "1a/physique/attachments/pasted-image-20231013134138.png",
       "dependencies": []
     },
-    "Physique/attachments/Pasted image 20231013134208.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/attachments/Pasted image 20231013134208.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 9660,
-      "exportedPath": "physique/attachments/pasted-image-20231013134208.png",
+      "exportedPath": "1a/physique/attachments/pasted-image-20231013134208.png",
       "dependencies": []
     },
-    "Physique/attachments/Pasted image 20231013135542.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/attachments/Pasted image 20231013135542.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 5121,
-      "exportedPath": "physique/attachments/pasted-image-20231013135542.png",
+      "exportedPath": "1a/physique/attachments/pasted-image-20231013135542.png",
       "dependencies": []
     },
-    "Physique/attachments/Pasted image 20231013154436.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/attachments/Pasted image 20231013154436.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 36165,
-      "exportedPath": "physique/attachments/pasted-image-20231013154436.png",
+      "exportedPath": "1a/physique/attachments/pasted-image-20231013154436.png",
       "dependencies": []
     },
-    "Physique/attachments/Pasted image 20231013154447.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/attachments/Pasted image 20231013154447.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 25597,
-      "exportedPath": "physique/attachments/pasted-image-20231013154447.png",
+      "exportedPath": "1a/physique/attachments/pasted-image-20231013154447.png",
       "dependencies": []
     },
-    "Physique/Bases/Démarche scientifique.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Bases/Démarche scientifique.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 884,
-      "exportedPath": "physique/bases/démarche-scientifique.html",
+      "exportedPath": "1a/physique/bases/démarche-scientifique.html",
       "dependencies": []
     },
-    "Physique/Bases/Énergie.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Bases/Énergie.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 713,
-      "exportedPath": "physique/bases/énergie.html",
+      "exportedPath": "1a/physique/bases/énergie.html",
       "dependencies": []
     },
-    "Physique/Bases/Incertitudes et chiffres significatifs.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Bases/Incertitudes et chiffres significatifs.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 1744,
-      "exportedPath": "physique/bases/incertitudes-et-chiffres-significatifs.html",
+      "exportedPath": "1a/physique/bases/incertitudes-et-chiffres-significatifs.html",
       "dependencies": []
     },
-    "Physique/Bases/Unités et Dimensions.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Bases/Unités et Dimensions.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 1634,
-      "exportedPath": "physique/bases/unités-et-dimensions.html",
+      "exportedPath": "1a/physique/bases/unités-et-dimensions.html",
       "dependencies": []
     },
-    "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.27.21.excalidraw.svg": {
-      "modifiedTime": 1712744326041,
+    "1A/Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.27.21.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 85559,
-      "exportedPath": "physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.27.21.excalidraw.svg",
+      "exportedPath": "1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.27.21.excalidraw.svg",
       "dependencies": []
     },
-    "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.27.21.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.27.21.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 4214,
-      "exportedPath": "physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.27.21.excalidraw.html",
+      "exportedPath": "1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.27.21.excalidraw.html",
       "dependencies": []
     },
-    "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.svg": {
-      "modifiedTime": 1712744326041,
+    "1A/Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 102107,
-      "exportedPath": "physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.32.20.excalidraw.svg",
+      "exportedPath": "1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.32.20.excalidraw.svg",
       "dependencies": []
     },
-    "Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 8035,
-      "exportedPath": "physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.32.20.excalidraw.html",
+      "exportedPath": "1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.32.20.excalidraw.html",
       "dependencies": []
     },
-    "Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.svg": {
-      "modifiedTime": 1712744326041,
+    "1A/Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 92974,
-      "exportedPath": "physique/electricité/attachments/régimes-transitoires-2023-10-23-08.05.35.excalidraw.svg",
+      "exportedPath": "1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.05.35.excalidraw.svg",
       "dependencies": []
     },
-    "Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 10127,
-      "exportedPath": "physique/electricité/attachments/régimes-transitoires-2023-10-23-08.05.35.excalidraw.html",
+      "exportedPath": "1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.05.35.excalidraw.html",
       "dependencies": []
     },
-    "Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 85885,
-      "exportedPath": "physique/electricité/attachments/régimes-transitoires-2023-10-23-08.33.47.excalidraw.svg",
+      "exportedPath": "1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.33.47.excalidraw.svg",
       "dependencies": []
     },
-    "Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 5480,
-      "exportedPath": "physique/electricité/attachments/régimes-transitoires-2023-10-23-08.33.47.excalidraw.html",
+      "exportedPath": "1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.33.47.excalidraw.html",
       "dependencies": []
     },
-    "Physique/Electricité/1 - Électrocinétique.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Electricité/1 - Électrocinétique.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 4907,
-      "exportedPath": "physique/electricité/1-électrocinétique.html",
+      "exportedPath": "1a/physique/electricité/1-électrocinétique.html",
       "dependencies": [
         "lib/media/pasted-image-20231013133810.png",
         "lib/media/pasted-image-20231013133831.png",
@@ -688,873 +690,873 @@
         "lib/media/pasted-image-20231013154447.png"
       ]
     },
-    "Physique/Electricité/2 - Régimes transitoires.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Electricité/2 - Régimes transitoires.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 1697,
-      "exportedPath": "physique/electricité/2-régimes-transitoires.html",
+      "exportedPath": "1a/physique/electricité/2-régimes-transitoires.html",
       "dependencies": [
-        "physique/electricité/attachments/régimes-transitoires-2023-10-23-08.05.35.excalidraw.svg",
-        "physique/electricité/attachments/régimes-transitoires-2023-10-23-08.33.47.excalidraw.svg"
+        "1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.05.35.excalidraw.svg",
+        "1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.33.47.excalidraw.svg"
       ]
     },
-    "Physique/Electricité/3 - Régime sinusoïdal permanent.md": {
-      "modifiedTime": 1712743983508,
-      "sourceSize": 4590,
-      "exportedPath": "physique/electricité/3-régime-sinusoïdal-permanent.html",
+    "1A/Physique/Electricité/3 - Régime sinusoïdal permanent.md": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 4584,
+      "exportedPath": "1a/physique/electricité/3-régime-sinusoïdal-permanent.html",
       "dependencies": [
-        "physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.27.21.excalidraw.svg",
-        "physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.32.20.excalidraw.svg"
+        "1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.27.21.excalidraw.svg",
+        "1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.32.20.excalidraw.svg"
       ]
     },
-    "Physique/Electricité/4 - Etude des filtres - diagramme de Bode.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Electricité/4 - Etude des filtres - diagramme de Bode.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 1246,
-      "exportedPath": "physique/electricité/4-etude-des-filtres-diagramme-de-bode.html",
+      "exportedPath": "1a/physique/electricité/4-etude-des-filtres-diagramme-de-bode.html",
       "dependencies": []
     },
-    "Physique/Meca/attachments/Pasted image 20231113084749.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Meca/attachments/Pasted image 20231113084749.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 40769,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231113084749.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231113084749.png",
       "dependencies": []
     },
-    "Physique/Meca/attachments/Pasted image 20231113084830.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Meca/attachments/Pasted image 20231113084830.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 43268,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231113084830.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231113084830.png",
       "dependencies": []
     },
-    "Physique/Meca/attachments/Pasted image 20231120081419.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Meca/attachments/Pasted image 20231120081419.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 48371,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231120081419.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231120081419.png",
       "dependencies": []
     },
-    "Physique/Meca/attachments/Pasted image 20231120083422.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Meca/attachments/Pasted image 20231120083422.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 34579,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231120083422.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231120083422.png",
       "dependencies": []
     },
-    "Physique/Meca/attachments/Pasted image 20231204082111.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Meca/attachments/Pasted image 20231204082111.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 43921,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231204082111.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231204082111.png",
       "dependencies": []
     },
-    "Physique/Meca/attachments/Pasted image 20231204085801.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Meca/attachments/Pasted image 20231204085801.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 108447,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231204085801.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231204085801.png",
       "dependencies": []
     },
-    "Physique/Meca/attachments/Pasted image 20231204085905.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Meca/attachments/Pasted image 20231204085905.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 107493,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231204085905.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231204085905.png",
       "dependencies": []
     },
-    "Physique/Meca/attachments/Pasted image 20231204085915.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Meca/attachments/Pasted image 20231204085915.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 136908,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231204085915.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231204085915.png",
       "dependencies": []
     },
-    "Physique/Meca/attachments/Pasted image 20231204090002.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Meca/attachments/Pasted image 20231204090002.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 70875,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231204090002.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231204090002.png",
       "dependencies": []
     },
-    "Physique/Meca/attachments/Pasted image 20231204090427.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Meca/attachments/Pasted image 20231204090427.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 31691,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231204090427.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231204090427.png",
       "dependencies": []
     },
-    "Physique/Meca/attachments/Pasted image 20231211084455.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Meca/attachments/Pasted image 20231211084455.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 143834,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231211084455.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231211084455.png",
       "dependencies": []
     },
-    "Physique/Meca/attachments/Pasted image 20240313115506.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Meca/attachments/Pasted image 20240313115506.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 40191,
-      "exportedPath": "physique/meca/attachments/pasted-image-20240313115506.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20240313115506.png",
       "dependencies": []
     },
-    "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 94385,
-      "exportedPath": "physique/meca/attachments/statique-2023-11-06-08.29.58.excalidraw.svg",
+      "exportedPath": "1a/physique/meca/attachments/statique-2023-11-06-08.29.58.excalidraw.svg",
       "dependencies": []
     },
-    "Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 5081,
-      "exportedPath": "physique/meca/attachments/statique-2023-11-06-08.29.58.excalidraw.html",
+      "exportedPath": "1a/physique/meca/attachments/statique-2023-11-06-08.29.58.excalidraw.html",
       "dependencies": []
     },
-    "Physique/Meca/1 - Statique.md": {
-      "modifiedTime": 1712743983508,
-      "sourceSize": 5035,
-      "exportedPath": "physique/meca/1-statique.html",
+    "1A/Physique/Meca/1 - Statique.md": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 5032,
+      "exportedPath": "1a/physique/meca/1-statique.html",
       "dependencies": [
-        "physique/meca/attachments/statique-2023-11-06-08.29.58.excalidraw.svg",
-        "physique/meca/attachments/pasted-image-20231113084749.png",
-        "physique/meca/attachments/pasted-image-20231113084830.png",
-        "physique/meca/attachments/pasted-image-20231120081419.png",
-        "physique/meca/attachments/pasted-image-20231120083422.png"
+        "1a/physique/meca/attachments/statique-2023-11-06-08.29.58.excalidraw.svg",
+        "1a/physique/meca/attachments/pasted-image-20231113084749.png",
+        "1a/physique/meca/attachments/pasted-image-20231113084830.png",
+        "1a/physique/meca/attachments/pasted-image-20231120081419.png",
+        "1a/physique/meca/attachments/pasted-image-20231120083422.png"
       ]
     },
-    "Physique/Meca/2 - Cinématique.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Physique/Meca/2 - Cinématique.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 3924,
-      "exportedPath": "physique/meca/2-cinématique.html",
+      "exportedPath": "1a/physique/meca/2-cinématique.html",
       "dependencies": [
-        "physique/meca/attachments/pasted-image-20231204082111.png",
-        "physique/meca/attachments/pasted-image-20231204085801.png",
-        "physique/meca/attachments/pasted-image-20231204085905.png",
-        "physique/meca/attachments/pasted-image-20231204085915.png",
-        "physique/meca/attachments/pasted-image-20231204090002.png",
-        "physique/meca/attachments/pasted-image-20231204090427.png",
-        "physique/meca/attachments/pasted-image-20231211084455.png"
+        "1a/physique/meca/attachments/pasted-image-20231204082111.png",
+        "1a/physique/meca/attachments/pasted-image-20231204085801.png",
+        "1a/physique/meca/attachments/pasted-image-20231204085905.png",
+        "1a/physique/meca/attachments/pasted-image-20231204085915.png",
+        "1a/physique/meca/attachments/pasted-image-20231204090002.png",
+        "1a/physique/meca/attachments/pasted-image-20231204090427.png",
+        "1a/physique/meca/attachments/pasted-image-20231211084455.png"
       ]
     },
-    "Physique/Meca/3 - Dynamique.md": {
-      "modifiedTime": 1716479321419,
+    "1A/Physique/Meca/3 - Dynamique.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 7161,
-      "exportedPath": "physique/meca/3-dynamique.html",
+      "exportedPath": "1a/physique/meca/3-dynamique.html",
       "dependencies": [
-        "physique/meca/attachments/pasted-image-20240313115506.png"
+        "1a/physique/meca/attachments/pasted-image-20240313115506.png"
       ]
     },
-    "Physique/Meca/4 - Énergie.md": {
-      "modifiedTime": 1712744326041,
+    "1A/Physique/Meca/4 - Énergie.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 3883,
-      "exportedPath": "physique/meca/4-énergie.html",
+      "exportedPath": "1a/physique/meca/4-énergie.html",
       "dependencies": []
     },
-    "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.svg": {
-      "modifiedTime": 1712744326041,
+    "1A/Physique/Meca/5 - Oscillations.md": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 832,
+      "exportedPath": "1a/physique/meca/5-oscillations.html",
+      "dependencies": []
+    },
+    "1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 107801,
-      "exportedPath": "thermodynamique/attachments/2-1er-principe-2024-03-20-10.30.30.excalidraw.svg",
+      "exportedPath": "1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.30.30.excalidraw.svg",
       "dependencies": []
     },
-    "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 9907,
-      "exportedPath": "thermodynamique/attachments/2-1er-principe-2024-03-20-10.30.30.excalidraw.html",
+      "exportedPath": "1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.30.30.excalidraw.html",
       "dependencies": []
     },
-    "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.svg": {
-      "modifiedTime": 1712744326041,
+    "1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 107921,
-      "exportedPath": "thermodynamique/attachments/2-1er-principe-2024-03-20-10.43.13.excalidraw.svg",
+      "exportedPath": "1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.43.13.excalidraw.svg",
       "dependencies": []
     },
-    "Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 9957,
-      "exportedPath": "thermodynamique/attachments/2-1er-principe-2024-03-20-10.43.13.excalidraw.html",
+      "exportedPath": "1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.43.13.excalidraw.html",
       "dependencies": []
     },
-    "Thermodynamique/attachments/Pasted image 20240320104952.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Thermodynamique/attachments/Pasted image 20240320104952.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 70773,
-      "exportedPath": "thermodynamique/attachments/pasted-image-20240320104952.png",
+      "exportedPath": "1a/thermodynamique/attachments/pasted-image-20240320104952.png",
       "dependencies": []
     },
-    "Thermodynamique/attachments/Pasted image 20240320110214.png": {
-      "modifiedTime": 1712743983508,
+    "1A/Thermodynamique/attachments/Pasted image 20240320110214.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 70773,
-      "exportedPath": "thermodynamique/attachments/pasted-image-20240320110214.png",
+      "exportedPath": "1a/thermodynamique/attachments/pasted-image-20240320110214.png",
       "dependencies": []
     },
-    "Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.svg": {
-      "modifiedTime": 1712744326041,
+    "1A/Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 87818,
-      "exportedPath": "thermodynamique/attachments/thermodynamique-générale-2024-02-06-16.37.22.excalidraw.svg",
+      "exportedPath": "1a/thermodynamique/attachments/thermodynamique-générale-2024-02-06-16.37.22.excalidraw.svg",
       "dependencies": []
     },
-    "Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 6465,
-      "exportedPath": "thermodynamique/attachments/thermodynamique-générale-2024-02-06-16.37.22.excalidraw.html",
+      "exportedPath": "1a/thermodynamique/attachments/thermodynamique-générale-2024-02-06-16.37.22.excalidraw.html",
       "dependencies": []
     },
-    "Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1A/Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 95000,
-      "exportedPath": "thermodynamique/attachments/thermodynamique-générale-2024-02-14-10.22.40.excalidraw.svg",
+      "exportedPath": "1a/thermodynamique/attachments/thermodynamique-générale-2024-02-14-10.22.40.excalidraw.svg",
       "dependencies": []
     },
-    "Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 10393,
-      "exportedPath": "thermodynamique/attachments/thermodynamique-générale-2024-02-14-10.22.40.excalidraw.html",
+      "exportedPath": "1a/thermodynamique/attachments/thermodynamique-générale-2024-02-14-10.22.40.excalidraw.html",
       "dependencies": []
     },
-    "Thermodynamique/1 - Thermodynamique générale.md": {
-      "modifiedTime": 1712743983508,
-      "sourceSize": 5324,
-      "exportedPath": "thermodynamique/1-thermodynamique-générale.html",
+    "1A/Thermodynamique/1 - Thermodynamique générale.md": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 5318,
+      "exportedPath": "1a/thermodynamique/1-thermodynamique-générale.html",
       "dependencies": [
-        "thermodynamique/attachments/thermodynamique-générale-2024-02-06-16.37.22.excalidraw.svg",
-        "thermodynamique/attachments/thermodynamique-générale-2024-02-14-10.22.40.excalidraw.svg"
+        "1a/thermodynamique/attachments/thermodynamique-générale-2024-02-06-16.37.22.excalidraw.svg",
+        "1a/thermodynamique/attachments/thermodynamique-générale-2024-02-14-10.22.40.excalidraw.svg"
       ]
     },
-    "Thermodynamique/2 - 1er principe.md": {
-      "modifiedTime": 1712743983508,
-      "sourceSize": 5622,
-      "exportedPath": "thermodynamique/2-1er-principe.html",
+    "1A/Thermodynamique/2 - 1er principe.md": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 5848,
+      "exportedPath": "1a/thermodynamique/2-1er-principe.html",
       "dependencies": [
-        "thermodynamique/attachments/2-1er-principe-2024-03-20-10.30.30.excalidraw.svg",
-        "thermodynamique/attachments/2-1er-principe-2024-03-20-10.43.13.excalidraw.svg",
-        "thermodynamique/attachments/pasted-image-20240320104952.png"
+        "1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.30.30.excalidraw.svg",
+        "1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.43.13.excalidraw.svg",
+        "1a/thermodynamique/attachments/pasted-image-20240320104952.png"
       ]
     },
-    "Thermodynamique/3 - Second principe de la thermodynamique.md": {
-      "modifiedTime": 1712743983508,
+    "1A/Thermodynamique/3 - Second principe de la thermodynamique.md": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 2062,
-      "exportedPath": "thermodynamique/3-second-principe-de-la-thermodynamique.html",
+      "exportedPath": "1a/thermodynamique/3-second-principe-de-la-thermodynamique.html",
       "dependencies": []
     },
-    "Thermodynamique/4 - Thermochimie.md": {
-      "modifiedTime": 1716479321419,
-      "sourceSize": 1530,
-      "exportedPath": "thermodynamique/4-thermochimie.html",
+    "1A/Thermodynamique/4 - Thermochimie.md": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 1531,
+      "exportedPath": "1a/thermodynamique/4-thermochimie.html",
+      "dependencies": []
+    },
+    "1A/Thermodynamique/5 - Fonction enthalpie libre.md": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 1826,
+      "exportedPath": "1a/thermodynamique/5-fonction-enthalpie-libre.html",
+      "dependencies": []
+    },
+    "1A/index.md": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 714,
+      "exportedPath": "1a/index.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1712743983508,
-      "sourceSize": 714,
+      "modifiedTime": 1727079014760,
+      "sourceSize": 0,
       "exportedPath": "index.html",
       "dependencies": []
     },
-    "chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 97761,
-      "exportedPath": "chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.svg",
+      "exportedPath": "1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.svg",
       "dependencies": []
     },
-    "chimie/corrections-exos/attachments/pasted-image-20231014112036.png": {
-      "modifiedTime": 1712743983508,
+    "1a/chimie/corrections-exos/attachments/pasted-image-20231014112036.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 84961,
-      "exportedPath": "chimie/corrections-exos/attachments/pasted-image-20231014112036.png",
+      "exportedPath": "1a/chimie/corrections-exos/attachments/pasted-image-20231014112036.png",
       "dependencies": []
     },
-    "chimie/corrections-exos/attachments/pasted-image-20231014113025.png": {
-      "modifiedTime": 1712743983508,
+    "1a/chimie/corrections-exos/attachments/pasted-image-20231014113025.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 286021,
-      "exportedPath": "chimie/corrections-exos/attachments/pasted-image-20231014113025.png",
+      "exportedPath": "1a/chimie/corrections-exos/attachments/pasted-image-20231014113025.png",
       "dependencies": []
     },
-    "chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-11.49.50.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-11.49.50.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 106427,
-      "exportedPath": "chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-11.49.50.excalidraw.svg",
+      "exportedPath": "1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-11.49.50.excalidraw.svg",
       "dependencies": []
     },
-    "chimie/attachments/structure-de-l'atome-periode.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/chimie/attachments/structure-de-l'atome-periode.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 87445,
-      "exportedPath": "chimie/attachments/structure-de-l'atome-periode.excalidraw.svg",
+      "exportedPath": "1a/chimie/attachments/structure-de-l'atome-periode.excalidraw.svg",
       "dependencies": []
     },
-    "chimie/attachments/structure-de-l'atome-grotrian.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/chimie/attachments/structure-de-l'atome-grotrian.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 92086,
-      "exportedPath": "chimie/attachments/structure-de-l'atome-grotrian.excalidraw.svg",
+      "exportedPath": "1a/chimie/attachments/structure-de-l'atome-grotrian.excalidraw.svg",
       "dependencies": []
     },
-    "chimie/attachments/structure-de-l'atome-remplissage.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/chimie/attachments/structure-de-l'atome-remplissage.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 86470,
-      "exportedPath": "chimie/attachments/structure-de-l'atome-remplissage.excalidraw.svg",
+      "exportedPath": "1a/chimie/attachments/structure-de-l'atome-remplissage.excalidraw.svg",
       "dependencies": []
     },
-    "chimie/attachments/viii-les-liaisons-2023-10-16-09.36.58.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.36.58.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 93738,
-      "exportedPath": "chimie/attachments/viii-les-liaisons-2023-10-16-09.36.58.excalidraw.svg",
+      "exportedPath": "1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.36.58.excalidraw.svg",
       "dependencies": []
     },
-    "chimie/attachments/viii-les-liaisons-2023-10-16-09.39.37.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.39.37.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 93740,
-      "exportedPath": "chimie/attachments/viii-les-liaisons-2023-10-16-09.39.37.excalidraw.svg",
+      "exportedPath": "1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.39.37.excalidraw.svg",
       "dependencies": []
     },
-    "chimie/attachments/pasted-image-20231023091732.png": {
-      "modifiedTime": 1712743983508,
+    "1a/chimie/attachments/pasted-image-20231023091732.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 397231,
-      "exportedPath": "chimie/attachments/pasted-image-20231023091732.png",
+      "exportedPath": "1a/chimie/attachments/pasted-image-20231023091732.png",
       "dependencies": []
     },
-    "chimie/attachments/pasted-image-20231023093306.png": {
-      "modifiedTime": 1712743983508,
+    "1a/chimie/attachments/pasted-image-20231023093306.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 44398,
-      "exportedPath": "chimie/attachments/pasted-image-20231023093306.png",
+      "exportedPath": "1a/chimie/attachments/pasted-image-20231023093306.png",
       "dependencies": []
     },
-    "chimie/attachments/x-i-théorie-des-orbitales-moléculaires-2023-11-06-09.19.05.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/chimie/attachments/x-i-théorie-des-orbitales-moléculaires-2023-11-06-09.19.05.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 94260,
-      "exportedPath": "chimie/attachments/x-i-théorie-des-orbitales-moléculaires-2023-11-06-09.19.05.excalidraw.svg",
+      "exportedPath": "1a/chimie/attachments/x-i-théorie-des-orbitales-moléculaires-2023-11-06-09.19.05.excalidraw.svg",
       "dependencies": []
     },
     "lib/media/pasted-image-20231013133810.png": {
-      "modifiedTime": 1712743983508,
+      "modifiedTime": 1727079014760,
       "sourceSize": 804,
       "exportedPath": "lib/media/pasted-image-20231013133810.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231013133831.png": {
-      "modifiedTime": 1712743983508,
+      "modifiedTime": 1727079014760,
       "sourceSize": 2658,
       "exportedPath": "lib/media/pasted-image-20231013133831.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231013133842.png": {
-      "modifiedTime": 1712743983508,
+      "modifiedTime": 1727079014760,
       "sourceSize": 944,
       "exportedPath": "lib/media/pasted-image-20231013133842.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231013133925.png": {
-      "modifiedTime": 1712743983508,
+      "modifiedTime": 1727079014760,
       "sourceSize": 1396,
       "exportedPath": "lib/media/pasted-image-20231013133925.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231013133933.png": {
-      "modifiedTime": 1712743983508,
+      "modifiedTime": 1727079014760,
       "sourceSize": 1779,
       "exportedPath": "lib/media/pasted-image-20231013133933.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231013133941.png": {
-      "modifiedTime": 1712743983508,
+      "modifiedTime": 1727079014760,
       "sourceSize": 7678,
       "exportedPath": "lib/media/pasted-image-20231013133941.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231013134024.png": {
-      "modifiedTime": 1712743983508,
+      "modifiedTime": 1727079014760,
       "sourceSize": 4759,
       "exportedPath": "lib/media/pasted-image-20231013134024.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231013134035.png": {
-      "modifiedTime": 1712743983508,
+      "modifiedTime": 1727079014760,
       "sourceSize": 4501,
       "exportedPath": "lib/media/pasted-image-20231013134035.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231013134045.png": {
-      "modifiedTime": 1712743983508,
+      "modifiedTime": 1727079014760,
       "sourceSize": 11515,
       "exportedPath": "lib/media/pasted-image-20231013134045.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231013134138.png": {
-      "modifiedTime": 1712743983508,
+      "modifiedTime": 1727079014760,
       "sourceSize": 11158,
       "exportedPath": "lib/media/pasted-image-20231013134138.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231013134208.png": {
-      "modifiedTime": 1712743983508,
+      "modifiedTime": 1727079014760,
       "sourceSize": 9660,
       "exportedPath": "lib/media/pasted-image-20231013134208.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231013135542.png": {
-      "modifiedTime": 1712743983508,
+      "modifiedTime": 1727079014760,
       "sourceSize": 5121,
       "exportedPath": "lib/media/pasted-image-20231013135542.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231013154436.png": {
-      "modifiedTime": 1712743983508,
+      "modifiedTime": 1727079014760,
       "sourceSize": 36165,
       "exportedPath": "lib/media/pasted-image-20231013154436.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231013154447.png": {
-      "modifiedTime": 1712743983508,
+      "modifiedTime": 1727079014760,
       "sourceSize": 25597,
       "exportedPath": "lib/media/pasted-image-20231013154447.png",
       "dependencies": []
     },
-    "physique/electricité/attachments/régimes-transitoires-2023-10-23-08.05.35.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.05.35.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 92974,
-      "exportedPath": "physique/electricité/attachments/régimes-transitoires-2023-10-23-08.05.35.excalidraw.svg",
+      "exportedPath": "1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.05.35.excalidraw.svg",
       "dependencies": []
     },
-    "physique/electricité/attachments/régimes-transitoires-2023-10-23-08.33.47.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.33.47.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 85885,
-      "exportedPath": "physique/electricité/attachments/régimes-transitoires-2023-10-23-08.33.47.excalidraw.svg",
+      "exportedPath": "1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.33.47.excalidraw.svg",
       "dependencies": []
     },
-    "physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.27.21.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.27.21.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 85559,
-      "exportedPath": "physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.27.21.excalidraw.svg",
+      "exportedPath": "1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.27.21.excalidraw.svg",
       "dependencies": []
     },
-    "physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.32.20.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.32.20.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 102107,
-      "exportedPath": "physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.32.20.excalidraw.svg",
+      "exportedPath": "1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.32.20.excalidraw.svg",
       "dependencies": []
     },
-    "physique/meca/attachments/statique-2023-11-06-08.29.58.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/meca/attachments/statique-2023-11-06-08.29.58.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 94385,
-      "exportedPath": "physique/meca/attachments/statique-2023-11-06-08.29.58.excalidraw.svg",
+      "exportedPath": "1a/physique/meca/attachments/statique-2023-11-06-08.29.58.excalidraw.svg",
       "dependencies": []
     },
-    "physique/meca/attachments/pasted-image-20231113084749.png": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/meca/attachments/pasted-image-20231113084749.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 40769,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231113084749.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231113084749.png",
       "dependencies": []
     },
-    "physique/meca/attachments/pasted-image-20231113084830.png": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/meca/attachments/pasted-image-20231113084830.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 43268,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231113084830.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231113084830.png",
       "dependencies": []
     },
-    "physique/meca/attachments/pasted-image-20231120081419.png": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/meca/attachments/pasted-image-20231120081419.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 48371,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231120081419.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231120081419.png",
       "dependencies": []
     },
-    "physique/meca/attachments/pasted-image-20231120083422.png": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/meca/attachments/pasted-image-20231120083422.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 34579,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231120083422.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231120083422.png",
       "dependencies": []
     },
-    "physique/meca/attachments/pasted-image-20231204082111.png": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/meca/attachments/pasted-image-20231204082111.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 43921,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231204082111.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231204082111.png",
       "dependencies": []
     },
-    "physique/meca/attachments/pasted-image-20231204085801.png": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/meca/attachments/pasted-image-20231204085801.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 108447,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231204085801.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231204085801.png",
       "dependencies": []
     },
-    "physique/meca/attachments/pasted-image-20231204085905.png": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/meca/attachments/pasted-image-20231204085905.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 107493,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231204085905.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231204085905.png",
       "dependencies": []
     },
-    "physique/meca/attachments/pasted-image-20231204085915.png": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/meca/attachments/pasted-image-20231204085915.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 136908,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231204085915.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231204085915.png",
       "dependencies": []
     },
-    "physique/meca/attachments/pasted-image-20231204090002.png": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/meca/attachments/pasted-image-20231204090002.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 70875,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231204090002.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231204090002.png",
       "dependencies": []
     },
-    "physique/meca/attachments/pasted-image-20231204090427.png": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/meca/attachments/pasted-image-20231204090427.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 31691,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231204090427.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231204090427.png",
       "dependencies": []
     },
-    "physique/meca/attachments/pasted-image-20231211084455.png": {
-      "modifiedTime": 1712743983508,
+    "1a/physique/meca/attachments/pasted-image-20231211084455.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 143834,
-      "exportedPath": "physique/meca/attachments/pasted-image-20231211084455.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20231211084455.png",
       "dependencies": []
     },
-    "physique/meca/attachments/pasted-image-20240313115506.png": {
-      "modifiedTime": 1716479321419,
+    "1a/physique/meca/attachments/pasted-image-20240313115506.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 40191,
-      "exportedPath": "physique/meca/attachments/pasted-image-20240313115506.png",
+      "exportedPath": "1a/physique/meca/attachments/pasted-image-20240313115506.png",
       "dependencies": []
     },
-    "thermodynamique/attachments/thermodynamique-générale-2024-02-06-16.37.22.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/thermodynamique/attachments/thermodynamique-générale-2024-02-06-16.37.22.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 87818,
-      "exportedPath": "thermodynamique/attachments/thermodynamique-générale-2024-02-06-16.37.22.excalidraw.svg",
+      "exportedPath": "1a/thermodynamique/attachments/thermodynamique-générale-2024-02-06-16.37.22.excalidraw.svg",
       "dependencies": []
     },
-    "thermodynamique/attachments/thermodynamique-générale-2024-02-14-10.22.40.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/thermodynamique/attachments/thermodynamique-générale-2024-02-14-10.22.40.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 95000,
-      "exportedPath": "thermodynamique/attachments/thermodynamique-générale-2024-02-14-10.22.40.excalidraw.svg",
+      "exportedPath": "1a/thermodynamique/attachments/thermodynamique-générale-2024-02-14-10.22.40.excalidraw.svg",
       "dependencies": []
     },
-    "thermodynamique/attachments/2-1er-principe-2024-03-20-10.30.30.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.30.30.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 107801,
-      "exportedPath": "thermodynamique/attachments/2-1er-principe-2024-03-20-10.30.30.excalidraw.svg",
+      "exportedPath": "1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.30.30.excalidraw.svg",
       "dependencies": []
     },
-    "thermodynamique/attachments/2-1er-principe-2024-03-20-10.43.13.excalidraw.svg": {
-      "modifiedTime": 1712743983508,
+    "1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.43.13.excalidraw.svg": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 107921,
-      "exportedPath": "thermodynamique/attachments/2-1er-principe-2024-03-20-10.43.13.excalidraw.svg",
+      "exportedPath": "1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.43.13.excalidraw.svg",
       "dependencies": []
     },
-    "thermodynamique/attachments/pasted-image-20240320104952.png": {
-      "modifiedTime": 1712743983508,
+    "1a/thermodynamique/attachments/pasted-image-20240320104952.png": {
+      "modifiedTime": 1727079014760,
       "sourceSize": 70773,
-      "exportedPath": "thermodynamique/attachments/pasted-image-20240320104952.png",
+      "exportedPath": "1a/thermodynamique/attachments/pasted-image-20240320104952.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1727079014760,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1716479321419,
-      "sourceSize": 52667,
+      "modifiedTime": 1727079014760,
+      "sourceSize": 55770,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1716479321419,
-      "sourceSize": 5561,
+      "modifiedTime": 1727079014760,
+      "sourceSize": 5811,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1716479321419,
-      "sourceSize": 157722,
+      "modifiedTime": 1727079014760,
+      "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 12181,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 253,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 1676,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1716479321419,
+      "modifiedTime": 1727079014760,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "Chimie/12 - TPS S2 Révisions.md": {
-      "modifiedTime": 1716479321419,
-      "sourceSize": 760,
-      "exportedPath": "chimie/12-tps-s2-révisions.html",
-      "dependencies": []
-    },
-    "Maths/Fiche résumé S2.md": {
-      "modifiedTime": 1716479321419,
-      "sourceSize": 4536,
-      "exportedPath": "maths/fiche-résumé-s2.html",
-      "dependencies": []
-    },
-    "Physique/Meca/5 - Oscillations.md": {
-      "modifiedTime": 1716479321419,
-      "sourceSize": 832,
-      "exportedPath": "physique/meca/5-oscillations.html",
-      "dependencies": []
-    },
-    "Thermodynamique/attachments/5 - Fonction enthalpie libre.md": {
-      "modifiedTime": 1716479321419,
-      "sourceSize": 1826,
-      "exportedPath": "thermodynamique/attachments/5-fonction-enthalpie-libre.html",
       "dependencies": []
     }
   }

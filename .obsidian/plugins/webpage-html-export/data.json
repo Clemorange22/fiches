@@ -46,12 +46,12 @@
   "exportPath": "/home/clem/Documents/obsidian/project-alpha/html",
   "filesToExport": [
     [
-      "Chimie",
-      "Excalidraw",
-      "Maths",
-      "Physique",
-      "Thermodynamique",
-      "index.md"
+      "1A/Chimie",
+      "1A/Excalidraw",
+      "1A/Maths",
+      "1A/Physique",
+      "1A/Thermodynamique",
+      "1A/index.md"
     ]
   ],
   "inlineCSS": false,
