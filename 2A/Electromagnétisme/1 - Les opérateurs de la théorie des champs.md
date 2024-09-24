@@ -5,6 +5,8 @@ En un point $M$ de cet espace il existe un champ vectoriel $\vec{E}(x,y,z)$
 
 ## Circulation
 $$\int_{A}^B \vec{E} \cdot \overrightarrow{\mathrm{d}OM}$$
+## Flux
+$$\iint \vec{E} \cdot \vec{\mathrm{d}S}$$
 
 ## Gradient
 
