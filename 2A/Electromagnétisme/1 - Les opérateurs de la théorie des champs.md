@@ -2,6 +2,10 @@ QCM de révision d'élec (DC, AC, reg. variable) > test début novembre
 
 Repère cartésien direct $(O, x, y, z)$
 En un point $M$ de cet espace il existe un champ vectoriel $\vec{E}(x,y,z)$
+
+## Circulation
+$$\int_{A}^B \vec{E} \cdot \overrightarrow{\mathrm{d}OM}$$
+
 ## Gradient
 
 ## Divergence
