@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2A/Physique/1 - Les opérateurs de la théorie des champs.md",
+                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/Physique/1 - Les opérateurs de la théorie des champs.md",
+                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2A/Physique/1 - Les opérateurs de la théorie des champs.md",
+                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/Physique/1 - Les opérateurs de la théorie des champs.md"
+                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md"
               }
             }
           },
@@ -203,11 +203,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "64c0d3515f68b7f0",
+  "active": "18d343bb94504208",
   "lastOpenFiles": [
     "1A/Thermodynamique/4 - Thermochimie.md",
-    "2A/Physique/1 - Les opérateurs de la théorie des champs.md",
-    "2A/Physique",
+    "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
+    "2A/Electromagnétisme",
     "Untitled",
     "2A",
     "index.md",
