@@ -18,6 +18,7 @@ $$\mathrm{d}G=-S\mathrm{d}T+V\mathrm{d}P+\sum \mu_{i}\mathrm{d}n_{i}$$
 **À température et pression constante :**
 $$\mathrm{d}G=\sum \mu_{i}\mathrm{d}n_{i}$$
 Avec :
-$\mu$ : Potentiel chimique du constituant
+$\mu$ : Potentiel chimique du constituant ($J.\mathrm{mol}^{-1}$)
 $\mathrm{d}n$ : nombre de moles apparues ou disparues
 
+$$\overline{G}_{i}=\mu_{i}=\left( \frac{\partial G}{\partial n_{i}} \right)_{T,P,n,i}$$
