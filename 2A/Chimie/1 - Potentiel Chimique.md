@@ -12,5 +12,12 @@ $\mathrm{d}G > 0$ : impossible sans apport d'énergie
 
 $G$ est fonction potentielle quand la pression est constante et que les travaux $W=-P \Delta V$
 
-En dérivant on obtient :
+
+**En dérivant on obtient :**
 $$\mathrm{d}G=-S\mathrm{d}T+V\mathrm{d}P+\sum \mu_{i}\mathrm{d}n_{i}$$
+**À température et pression constante :**
+$$\mathrm{d}G=\sum \mu_{i}\mathrm{d}n_{i}$$
+Avec :
+$\mu$ : Potentiel chimique du constituant
+$\mathrm{d}n$ : nombre de moles apparues ou disparues
+
