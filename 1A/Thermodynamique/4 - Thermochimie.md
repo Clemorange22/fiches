@@ -9,7 +9,7 @@ $\xi$ : avancement
 $T_{A}=T_{B}=T_{ext}$
 $Q<0 \implies$ réaction **exothermique**
 $Q=0 \implies$ réaction **athermique**
-$Q>0 \implies$ réaction **endothermiquie**
+$Q>0 \implies$ réaction **endothermique**
 
 $$H=U+PV$$
 $$\implies H=U+RTn$$

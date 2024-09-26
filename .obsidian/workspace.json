@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
+                "file": "2A/Chimie/1 - Potentiel Chimique.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
+                "file": "2A/Chimie/1 - Potentiel Chimique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
+                "file": "2A/Chimie/1 - Potentiel Chimique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md"
+                "file": "2A/Chimie/1 - Potentiel Chimique.md"
               }
             }
           },
@@ -203,18 +203,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "18d343bb94504208",
+  "active": "64c0d3515f68b7f0",
   "lastOpenFiles": [
     "1A/Thermodynamique/4 - Thermochimie.md",
+    "1A/Thermodynamique/3 - Second principe de la thermodynamique.md",
+    "2A/Chimie/1 - Potentiel Chimique.md",
+    "1A/Thermodynamique/2 - 1er principe.md",
+    "1A/Thermodynamique/5 - Fonction enthalpie libre.md",
     "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
+    "2A/Chimie",
     "2A/Electromagnétisme",
     "Untitled",
     "2A",
     "index.md",
     "1A/index.md",
-    "1A/Thermodynamique/5 - Fonction enthalpie libre.md",
-    "1A/Thermodynamique/3 - Second principe de la thermodynamique.md",
-    "1A/Thermodynamique/2 - 1er principe.md",
     "1A/Thermodynamique/1 - Thermodynamique générale.md",
     "1A/Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.md",
     "1A/Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.md",
@@ -233,7 +235,6 @@
     "1A/Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.md",
     "1A/Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.md",
     "1A/Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.md",
-    "1A/Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.27.21.excalidraw.md",
     "1A",
     "Thermodynamique/attachments/Pasted image 20240627010603.png",
     "Thermodynamique/attachments/Pasted image 20240627005821.png",
@@ -249,7 +250,6 @@
     "1A/Maths",
     "1A/Thermodynamique/attachments",
     "1A/Thermodynamique",
-    "html/chimie/x-différents-types-de-liaisons.html",
-    "1A/Physique/Meca/attachments"
+    "html/chimie/x-différents-types-de-liaisons.html"
   ]
 }
