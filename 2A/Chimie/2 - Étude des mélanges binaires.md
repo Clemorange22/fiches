@@ -14,5 +14,5 @@
 1. **Solution idéale** : mélange des composés A et B de structures chimiques voisines
 		"Idéale" : interactions égales entre toutes les molécules
 		vapeur = Gaz parfait
-		pressions partielles vérifient la loi de Raoult :$P_{i}(T)=x_{i}P^{*}_{i}(T)$ => droites sur diagramme PT 
+		pressions partielles vérifient la loi de Raoult :$P_{i}(T)=x_{i}P^{*}_{i}(T)$ => droites sur diagramme Px
 2. 
