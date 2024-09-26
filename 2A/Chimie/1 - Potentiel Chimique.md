@@ -22,3 +22,4 @@ $\mu$ : Potentiel chimique du constituant ($J.\mathrm{mol}^{-1}$)
 $\mathrm{d}n$ : nombre de moles apparues ou disparues
 
 $$\overline{G}_{i}=\mu_{i}=\left( \frac{\partial G}{\partial n_{i}} \right)_{T,P,n,i}$$
+$$\mu (T,P,x_{i})=\mu°(T)+RT \ln\left( \frac{x_{i}P}{P°} \right)$$
