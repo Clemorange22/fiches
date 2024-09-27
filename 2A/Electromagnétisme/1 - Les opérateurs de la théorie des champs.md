@@ -18,7 +18,7 @@ $$div(\vec{E})=\vec{\nabla} \cdot \vec{E}=\frac{\partial E_{x}}{\partial x} +  \
 
 **Théorème d'Ostrogradski :**
 
-Le flux d'un champ $\vec{E}$ sortant d'une surface fermé est égale à l'intégrale triple de la divergence de $\vec{E}$ sur le volume délimité par la surface
+Le flux d'un champ $\vec{E}$ sortant d'une surface fermé est égale à l'intégrale triple de la divergence de $\vec{E}$ sur le volume délimité par la surface fermée
 
 $$\iint \vec{E}\ \cdot\mathrm{d}\vec{S}=\iiint div(\vec{E})\mathrm{dV}$$
 ## Rotationnel
