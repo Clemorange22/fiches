@@ -30,5 +30,6 @@ Si $\vec{E}$ est un vecteur, son rotationnel est un pseudo-vecteur (moment) et i
 La circulation d'un champ $\vec{E}$ le long d'un contour (fermé) orienté est égale au flux de son rotationnel à travers toute surface s'appuyant sur ce même contour orienté.
 
 $$\int \vec{E} \cdot \vec{\mathrm{d}l} = \iint \vec{rot}(\vec{E}) \cdot \vec{\mathrm{d}S}$$
+**Rotationnel nul** dans un domaine simplement connexe $\implies$ $\vec{E}$ dérive d'un potentiel scalaire (sa forme différentielle est exacte)
 ## Laplacien
 
