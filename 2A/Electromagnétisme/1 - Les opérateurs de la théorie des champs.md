@@ -38,3 +38,6 @@ $$\int \vec{E} \cdot \vec{\mathrm{d}l} = \iint \vec{rot}(\vec{E}) \cdot \vec{\ma
 **Rotationnel nul** dans un domaine simplement connexe $\implies$ $\vec{E}$ dérive d'un potentiel scalaire (sa forme différentielle est exacte)
 ## Laplacien
 
+Divergence du gradient de $\vec{F}$ (champ scalaire)
+
+**Laplacien vectoriel** d'un champ de vecteurs $\vec{E}$ est un champ vectoriel de composantes le laplacien scalaire de chacune des composantes de $\vec{E}$
