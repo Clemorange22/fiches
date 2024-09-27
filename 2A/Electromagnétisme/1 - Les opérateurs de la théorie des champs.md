@@ -9,7 +9,8 @@ $$\int_{A}^B \vec{E} \cdot \overrightarrow{\mathrm{d}OM}$$
 $$\iint \vec{E} \cdot \vec{\mathrm{d}S}$$
 
 ## Gradient
-
+$$\vec{E}=-\vec{\nabla}V$$
+Circulation conservative sur une courbe fermée
 ## Divergence
 Transforme un champ vectoriel en champ scalaire
 $$div(\vec{E})=\vec{\nabla} \cdot \vec{E}=\frac{\partial E_{x}}{\partial x} +  \frac{\partial E_{y}}{\partial y}+ \frac{\partial E_{z}}{\partial z}$$
@@ -21,8 +22,9 @@ Le flux d'un champ $\vec{E}$ sortant d'une surface fermé est égale à l'intég
 
 $$\iint \vec{E}\ \cdot\mathrm{d}\vec{S}=\iiint div(\vec{E})\mathrm{dV}$$
 ## Rotationnel
+Transforme un champ vectoriel en champ vectoriel
 $$rot(\vec{E})=\vec{\nabla} \wedge \vec{E} = \left( \frac{\partial E_{z}}{\partial y} -  \frac{\partial E_{y}}{\partial z}, \frac{\partial E_{x}}{\partial z} - \frac{\partial E_{z}}{\partial x}, \frac{\partial E_{y}}{\partial x} - \frac{\partial E_{x}}{\partial y} \right)$$
-
+Si $\vec{E}$ est un vecteur, son rotationnel est un pseudo-vecteur (moment) et inversement
 **Théorème de Stokes :**
 
 La circulation d'un champ $\vec{E}$ le long d'un contour (fermé) orienté est égale au flux de son rotationnel à travers toute surface s'appuyant sur ce même contour orienté.
