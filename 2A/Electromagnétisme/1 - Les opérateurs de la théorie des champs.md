@@ -12,7 +12,8 @@ $$\iint \vec{E} \cdot \vec{\mathrm{d}S}$$
 $$\vec{E}=-\vec{\nabla}V$$
 Circulation conservative sur une courbe fermée
 ## Divergence
-Transforme un champ vectoriel en champ scalaire
+Transforme un champ vectoriel en champ scalaire.
+Sert à exprimer des équations de conservation locales (de la charge électrique, matière...)
 $$div(\vec{E})=\vec{\nabla} \cdot \vec{E}=\frac{\partial E_{x}}{\partial x} +  \frac{\partial E_{y}}{\partial y}+ \frac{\partial E_{z}}{\partial z}$$
 
 
@@ -37,6 +38,4 @@ La circulation d'un champ $\vec{E}$ le long d'un contour (fermé) orienté est �
 $$\int \vec{E} \cdot \vec{\mathrm{d}l} = \iint \vec{rot}(\vec{E}) \cdot \vec{\mathrm{d}S}$$
 **Rotationnel nul** dans un domaine simplement connexe $\implies$ $\vec{E}$ dérive d'un potentiel scalaire (sa forme différentielle est exacte)
 ## Laplacien
-
-
 
