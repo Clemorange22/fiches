@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2A/Chimie/2 - Étude des mélanges binaires.md",
+                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/Chimie/2 - Étude des mélanges binaires.md",
+                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2A/Chimie/2 - Étude des mélanges binaires.md",
+                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/Chimie/2 - Étude des mélanges binaires.md"
+                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md"
               }
             }
           },
@@ -205,8 +205,8 @@
   },
   "active": "64c0d3515f68b7f0",
   "lastOpenFiles": [
-    "2A/Chimie/1 - Potentiel Chimique.md",
     "2A/Chimie/2 - Étude des mélanges binaires.md",
+    "2A/Chimie/1 - Potentiel Chimique.md",
     "1A/Thermodynamique/5 - Fonction enthalpie libre.md",
     "1A/Thermodynamique/4 - Thermochimie.md",
     "1A/Thermodynamique/3 - Second principe de la thermodynamique.md",
