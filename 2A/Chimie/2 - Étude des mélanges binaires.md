@@ -21,3 +21,8 @@
 
 2. **Solution non idéale :** On ne peut pas utiliser la loi de raoult
 		Diagrammes (x,P) plus linéaires
+		Cas des solutions diluées : Loi de Henry : $p_{b}=k_{H,B} \times x_{B}$
+	- Plus la fraction molaire de B est faible, plus on peut considérer que le mélange est homogène et utiliser la loi de Henry
+	- Plus la fraction molaire de B est forte, plus on peut considérer que le mélange est homogène et utiliser la loi de Raoult
+	Pour certaine espèces, il y a un point où les 2 courbes se touchent = **azéotrope**
+	
