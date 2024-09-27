@@ -21,6 +21,11 @@ $$div(\vec{E})=\vec{\nabla} \cdot \vec{E}=\frac{\partial E_{x}}{\partial x} +  \
 Le flux d'un champ $\vec{E}$ sortant d'une surface fermé est égale à l'intégrale triple de la divergence de $\vec{E}$ sur le volume délimité par la surface fermée
 
 $$\iint \vec{E}\ \cdot\mathrm{d}\vec{S}=\iiint div(\vec{E})\mathrm{dV}$$
+**Divergence nulle** $\implies$ flux conservatif
+
+### Exemple
+$$div(\vec{j})+\frac{\partial \rho}{\partial t}=0$$
+
 ## Rotationnel
 Transforme un champ vectoriel en champ vectoriel
 $$rot(\vec{E})=\vec{\nabla} \wedge \vec{E} = \left( \frac{\partial E_{z}}{\partial y} -  \frac{\partial E_{y}}{\partial z}, \frac{\partial E_{x}}{\partial z} - \frac{\partial E_{z}}{\partial x}, \frac{\partial E_{y}}{\partial x} - \frac{\partial E_{x}}{\partial y} \right)$$
@@ -32,4 +37,6 @@ La circulation d'un champ $\vec{E}$ le long d'un contour (fermé) orienté est �
 $$\int \vec{E} \cdot \vec{\mathrm{d}l} = \iint \vec{rot}(\vec{E}) \cdot \vec{\mathrm{d}S}$$
 **Rotationnel nul** dans un domaine simplement connexe $\implies$ $\vec{E}$ dérive d'un potentiel scalaire (sa forme différentielle est exacte)
 ## Laplacien
+
+
 
