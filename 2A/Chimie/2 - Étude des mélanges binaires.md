@@ -18,3 +18,6 @@
 
  ![[2 - Étude des mélanges binaires 2024-09-27 10.23.19.excalidraw.svg]]
 %%[[2 - Étude des mélanges binaires 2024-09-27 10.23.19.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+2. **Solution non idéale :** On ne peut pas utiliser la loi de raoult
+		Diagrammes (x,P) plus linéaires
