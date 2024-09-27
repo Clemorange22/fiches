@@ -15,4 +15,6 @@
 		"Idéale" : interactions égales entre toutes les molécules
 		vapeur = Gaz parfait
 		pressions partielles vérifient la loi de Raoult :$P_{i}(T)=x_{i}P^{*}_{i}(T)$ => droites sur diagramme Px
-2. 
+
+ ![[2 - Étude des mélanges binaires 2024-09-27 10.23.19.excalidraw.svg]]
+%%[[2 - Étude des mélanges binaires 2024-09-27 10.23.19.excalidraw.md|🖋 Edit in Excalidraw]]%%
