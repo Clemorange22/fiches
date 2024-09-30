@@ -30,12 +30,12 @@ $$div(\vec{j})+\frac{\partial \rho}{\partial t}=0$$
 Transforme un champ vectoriel en champ vectoriel
 $$rot(\vec{E})=\vec{\nabla} \wedge \vec{E} = \left( \frac{\partial E_{z}}{\partial y} -  \frac{\partial E_{y}}{\partial z}, \frac{\partial E_{x}}{\partial z} - \frac{\partial E_{z}}{\partial x}, \frac{\partial E_{y}}{\partial x} - \frac{\partial E_{x}}{\partial y} \right)$$
 Si $\vec{E}$ est un vecteur, son rotationnel est un pseudo-vecteur (moment) et inversement
-**Théorème de Stokes :**
 
+**Théorème de Stokes :**
 La circulation d'un champ $\vec{E}$ le long d'un contour (fermé) orienté est égale au flux de son rotationnel à travers toute surface s'appuyant sur ce même contour orienté.
 
 $$\int \vec{E} \cdot \vec{\mathrm{d}l} = \iint \vec{rot}(\vec{E}) \cdot \vec{\mathrm{d}S}$$
-**Rotationnel nul** dans un domaine simplement connexe $\implies$ $\vec{E}$ dérive d'un potentiel scalaire (sa forme différentielle est exacte)
+**Rotationnel nul** dans un domaine simplement connexe $\implies$ $\vec{E}$ dérive d'un potentiel scalaire (sa forme différentielle est exacte) et circulation conservative
 ## Laplacien
 
 Divergence du gradient de $\vec{F}$ (champ scalaire)
