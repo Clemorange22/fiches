@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
+                "file": "2A/Electromagnétisme/2 - Electrostatique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7c47f83653a077c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2A/Electromagnétisme/2 - Electrostatique.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
+                "file": "2A/Electromagnétisme/2 - Electrostatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
+                "file": "2A/Electromagnétisme/2 - Electrostatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md"
+                "file": "2A/Electromagnétisme/2 - Electrostatique.md"
               }
             }
           },
@@ -203,13 +216,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a0a5ddda3f827374",
+  "active": "c7c47f83653a077c",
   "lastOpenFiles": [
+    "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
+    "2A/Electromagnétisme/2 - Electrostatique.md",
     "2A/Chimie/2 - Étude des mélanges binaires.md",
     "2A/Chimie/attachments/2 - Étude des mélanges binaires 2024-09-27 10.23.19.excalidraw.md",
     "2A/Chimie/attachments/2 - Étude des mélanges binaires 2024-09-27 10.23.19.excalidraw.svg",
     "2A/Chimie/attachments",
-    "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
     "2A/Chimie/1 - Potentiel Chimique.md",
     "1A/Thermodynamique/5 - Fonction enthalpie libre.md",
     "1A/Thermodynamique/4 - Thermochimie.md",
