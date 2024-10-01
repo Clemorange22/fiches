@@ -10,3 +10,5 @@ $$\vec{E_{t}}(M_{1})=\vec{E_{t}}(M_{2})$$
 **Antisymétrie :**
 $$\vec{E_{n}}(M_{1})=\vec{E_{n}}(M_{2})$$
 $$\vec{E_{t}}(M_{1})=-\vec{E_{t}}(M_{2})$$
+**Charges volumiques :**
+$$\vec{E}=K \iiint \frac{\rho}{PM^{3}}\overrightarrow{PM}\mathrm{d}x\mathrm{d}y\mathrm{d}z$$
