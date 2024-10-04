@@ -30,7 +30,7 @@ $$div(E(r) \vec{u_{r}})= \frac{1}{r^{2}} \frac{\mathrm{d}(r^{2}E)}{\mathrm{d}r} 
 Intégration pour avoir l'expression du champ, en distinguant les cas en dehaors et dans la boule (prolongement par continuité)
 ### Théorème de Gauss (plus au programme)
 
-Appliquer le th d'ostrogradski permet d'avoir l'expression du champ
+Appliquer le th d'ostrogradski permet d'avoir l'expression du champ (choisir une surface fermée, calculer le flux et la charge intérieure)
 
 ### Relations de passage (d'un milieu à un autre)
 
