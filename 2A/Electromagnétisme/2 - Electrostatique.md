@@ -19,3 +19,7 @@ $$\vec{rot}(\vec{E})=\vec{0}$$
 $$div(\epsilon \vec{E})=\rho$$
 **Th d'Ostrogradski appliqué à une surface fermée**
 $$\oint\oint \vec{E} \cdot \vec{\mathrm{d}S}=\iint div(E)\mathrm{d}\Omega = \iiint \frac{\rho}{\epsilon_{0}}\mathrm{d}\Omega=\frac{Q_{int}}{\epsilon_{0}}$$
+
+
+
+
