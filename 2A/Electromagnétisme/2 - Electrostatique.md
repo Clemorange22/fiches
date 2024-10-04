@@ -32,5 +32,14 @@ Intégration pour avoir l'expression du champ, en distinguant les cas en dehaors
 
 Appliquer le th d'ostrogradski permet d'avoir l'expression du champ
 
-### Relations de passage
+### Relations de passage (d'un milieu à un autre)
 
+La **composante tangentielle** du champ électrique est toujours **continue** à la traversée d’une interface entre deux milieux LHI
+
+La **composante normale** du champ électrique est **discontinue** à la traversée d’une interface séparant deux milieux LHI **si :**
+- $\sigma=0$ et $\epsilon_{1}\neq \epsilon_{2}$
+- $\sigma \neq 0$
+
+Ces résultats sont exprimés par les relations de passage:
+$$\vec{n}\cdot(\epsilon_{2}\vec{E_{2}}-\epsilon_{1}\vec{E_{1}})=\sigma$$
+$$\vec{n}\wedge (\vec{E_{2}}-\vec{E_{1}})=\vec{0}$$
