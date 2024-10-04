@@ -27,4 +27,4 @@
 	Pour certaine espèces, il y a un point où les 2 courbes se touchent = **azéotrope** (le mélange s'y  comporte comme un corps pur)
 
 Liquide-Vapeur solutions non_idéales miscibilité incomplète:
-Vapeur 
+Règle des moments chimiques
