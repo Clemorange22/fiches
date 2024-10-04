@@ -77,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,44 +215,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "2404ea3409f0a41a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c32db5c9bf95cebc",
-        "type": "window",
-        "children": [
-          {
-            "id": "3e88b11b0250cb5d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1517492bc5ab0bdb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2A/Electromagnétisme/2 - Electrostatique.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 270,
-        "y": 435,
-        "width": 900,
-        "height": 500,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "1517492bc5ab0bdb",
+  "active": "a0a5ddda3f827374",
   "lastOpenFiles": [
     "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
     "2A/Chimie/2 - Étude des mélanges binaires.md",
