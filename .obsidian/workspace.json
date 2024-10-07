@@ -212,7 +212,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a0a5ddda3f827374",
