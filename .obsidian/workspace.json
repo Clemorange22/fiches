@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "cdafa13b386b2cdc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2A/English/attachments/2024-10-07 2024-10-07 17.15.36.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "c7c47f83653a077c",
             "type": "leaf",
             "state": {
@@ -66,16 +76,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ec3ce113ed9efa38",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/English/2024-10-07.md",
+                "file": "2A/English/attachments/2024-10-07 2024-10-07 17.15.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2A/English/2024-10-07.md",
+                "file": "2A/English/attachments/2024-10-07 2024-10-07 17.15.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/English/2024-10-07.md"
+                "file": "2A/English/attachments/2024-10-07 2024-10-07 17.15.36.excalidraw.md"
               }
             }
           },
@@ -214,10 +217,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0a5ddda3f827374",
+  "active": "cdafa13b386b2cdc",
   "lastOpenFiles": [
-    "2A/Electromagnétisme/2 - Electrostatique.md",
     "2A/English/2024-10-07.md",
+    "2A/English/attachments/2024-10-07 2024-10-07 17.15.36.excalidraw.svg",
+    "2A/English/attachments/2024-10-07 2024-10-07 17.15.36.excalidraw.md",
+    "2A/English/attachments",
+    "1A/Physique/Meca/4 - Énergie.md",
+    "2A/Electromagnétisme/2 - Electrostatique.md",
     "2A/English",
     "2A/Chimie/2 - Étude des mélanges binaires.md",
     "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
@@ -242,13 +249,10 @@
     "1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.md",
     "1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.md",
     "1A/Physique/Meca/5 - Oscillations.md",
-    "1A/Physique/Meca/4 - Énergie.md",
     "1A/Physique/Meca/3 - Dynamique.md",
     "1A/Physique/Meca/2 - Cinématique.md",
     "1A/Physique/Meca/1 - Statique.md",
     "1A/Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md",
-    "1A/Physique/Electricité/4 - Etude des filtres - diagramme de Bode.md",
-    "1A/Physique/Electricité/3 - Régime sinusoïdal permanent.md",
     "1A",
     "Thermodynamique/attachments/Pasted image 20240627010603.png",
     "Thermodynamique/attachments/Pasted image 20240627005821.png",
@@ -258,9 +262,7 @@
     "Thermodynamique/attachments/Pasted image 20240627005552.png",
     "Thermodynamique/attachments/Pasted image 20240627005353.png",
     "1A/Thermodynamique/attachments/Pasted image 20240320104952.png",
-    "1A/Thermodynamique/attachments/Pasted image 20240320110214.png",
     "1A/Excalidraw/attachments",
-    "1A/Maths",
-    "1A/Thermodynamique/attachments"
+    "1A/Maths"
   ]
 }
