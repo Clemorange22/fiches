@@ -50,3 +50,5 @@ $C=\frac{Q}{U}=\frac{\epsilon_{0}S}{e}$
 Claquage du condensateur : ionisation du diélectrique (peut être provoquée si la distance entre les armatures est trop faible)
 
 $E=\frac{1}{2}CU^{2}$
+
+Vitesse de charge élevé $\to$ effet Joule important
