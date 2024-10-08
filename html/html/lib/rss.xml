@@ -1,0 +1,1071 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[project-alpha]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>project-alpha</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 01 Oct 2024 06:51:59 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 01 Oct 2024 06:51:55 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[4 - Thermochimie]]></title><description><![CDATA[ 
+ <br>On s'intéresse maintenant à des transformations chimiques<br>
+Rappel : enthalpie<br>
+<br>
+<br>
+ : avancement<br><br><br>
+ réaction exothermique<br>
+ réaction athermique<br>
+ réaction endothermique<br><br><br>Température : à préciser<br>
+Pression : 1 bar<br>
+=&gt; Transformations monobare<br><br>Niveau d'enthalpie de référence<br>
+<br><br>Enthalpie de formation des composés simples<br>
+Si pas dans les tables  0 par convention<br><br>En fonction de l'état physique des réactifs/produits, la quantité d'énergie dégagée par une réaction peut être différente<br>Si réaction chimiques réalisées à température différente: variation d'enthalpie négligeable<br>&lt;]]></description><link>1a/thermodynamique/4-thermochimie.html</link><guid isPermaLink="false">1A/Thermodynamique/4 - Thermochimie.md</guid><pubDate>Thu, 26 Sep 2024 06:17:41 GMT</pubDate></item><item><title><![CDATA[2 - Étude des mélanges binaires 2024-09-27 10.23.19]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  01T(°C)Courbe d'ébullitionCourbe de roséeVapeurLiquideVapeur + LiquideTempératured'ébulllition de ATempératured'ébulllition de B]]></description><link>2a/chimie/attachments/2-étude-des-mélanges-binaires-2024-09-27-10.23.19.excalidraw.html</link><guid isPermaLink="false">2A/Chimie/attachments/2 - Étude des mélanges binaires 2024-09-27 10.23.19.excalidraw.md</guid><pubDate>Fri, 27 Sep 2024 08:30:08 GMT</pubDate></item><item><title><![CDATA[1 - Potentiel Chimique]]></title><description><![CDATA[ 
+ <br><br><br><br><br> : irréversible et spontanée<br>
+ : réversible<br>
+ : impossible sans apport d'énergie<br> est fonction potentielle quand la pression est constante et que les travaux <br>En dérivant on obtient :<br>
+À température et pression constante :<br>
+Avec :<br>
+ : Potentiel chimique du constituant ()<br>
+ : nombre de moles apparues ou disparues<br>Phase condensée:<br>
+<br>
+ si plusieurs constituants<br>Mélange très dilué:<br>
+<br>
+]]></description><link>2a/chimie/1-potentiel-chimique.html</link><guid isPermaLink="false">2A/Chimie/1 - Potentiel Chimique.md</guid><pubDate>Thu, 26 Sep 2024 07:15:49 GMT</pubDate></item><item><title><![CDATA[2 - Étude des mélanges binaires]]></title><description><![CDATA[ 
+ <br><br>Solution : mélange homogène d'au moins 2 corps purs A et B<br>
+Solvant : constituant majoritaire<br>
+Soluté : constituant minoritaire<br>Fraction molaires : notée  pour les solutions,  pour les vapeurs<br><br>État gazeux : les gaz sont toujours miscibles<br>
+État liquide : miscibilité totale, nulle ou partielle<br>
+État solide : same mais on le fait plus<br><br>
+<br>Solution idéale : mélange des composés A et B de structures chimiques voisines<br>
+"Idéale" : interactions égales entre toutes les molécules<br>
+vapeur = Gaz parfait<br>
+pressions partielles vérifient la loi de Raoult : =&gt; droites sur diagramme Px
+<br> <img alt="2 - Étude des mélanges binaires 2024-09-27 10.23.19.excalidraw.svg" src="2a/chimie/attachments/2-étude-des-mélanges-binaires-2024-09-27-10.23.19.excalidraw.svg"><br>
+<br>
+<br>Solution non idéale : On ne peut pas utiliser la loi de raoult<br>
+Diagrammes (x,P) plus linéaires<br>
+Cas des solutions diluées : Loi de Henry : 
+
+<br>Plus la fraction molaire de B est faible, plus on peut considérer que le mélange est homogène et utiliser la loi de Henry
+<br>Plus la fraction molaire de B est forte, plus on peut considérer que le mélange est homogène et utiliser la loi de Raoult<br>
+Pour certaine espèces, il y a un point où les 2 courbes se touchent = azéotrope
+
+
+]]></description><link>2a/chimie/2-étude-des-mélanges-binaires.html</link><guid isPermaLink="false">2A/Chimie/2 - Étude des mélanges binaires.md</guid><pubDate>Fri, 27 Sep 2024 09:00:34 GMT</pubDate><enclosure url="2a/chimie/attachments/2-étude-des-mélanges-binaires-2024-09-27-10.23.19.excalidraw.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="2a/chimie/attachments/2-étude-des-mélanges-binaires-2024-09-27-10.23.19.excalidraw.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[1 - Les opérateurs de la théorie des champs]]></title><description><![CDATA[ 
+ <br>QCM de révision d'élec (DC, AC, reg. variable) &gt; test début novembre<br>Repère cartésien direct <br>
+En un point  de cet espace il existe un champ vectoriel <br><br><br><br><br><br>Circulation conservative sur une courbe fermée<br><br>Transforme un champ vectoriel en champ scalaire.<br>
+Sert à exprimer des équations de conservation locales (de la charge électrique, matière...)<br>
+<br>Théorème d'Ostrogradski :<br>Le flux d'un champ  sortant d'une surface fermé est égale à l'intégrale triple de la divergence de  sur le volume délimité par la surface fermée<br>Si ,  Divergence nulle  flux conservatif<br><br><br><br>Transforme un champ vectoriel en champ vectoriel<br>
+Si  est un vecteur, son rotationnel est un pseudo-vecteur (moment) et inversement<br>Théorème de Stokes :<br>
+La circulation d'un champ  le long d'un contour (fermé) orienté est égale au flux de son rotationnel à travers toute surface s'appuyant sur ce même contour orienté.<br>Rotationnel nul dans un domaine simplement connexe   dérive d'un potentiel scalaire (sa forme différentielle est exacte) et circulation conservative<br><br>Divergence du gradient de  (champ scalaire)<br>Laplacien vectoriel d'un champ de vecteurs  est un champ vectoriel de composantes le laplacien scalaire de chacune des composantes de ]]></description><link>2a/electromagnétisme/1-les-opérateurs-de-la-théorie-des-champs.html</link><guid isPermaLink="false">2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md</guid><pubDate>Fri, 27 Sep 2024 13:54:02 GMT</pubDate></item><item><title><![CDATA[2 - Electrostatique]]></title><description><![CDATA[ 
+ <br><br>Champs électriques crées par plusieurs charges s'additionnent<br>Symétrie :<br>
+Un plan de symétrie des sources est un plan de symétrie du champ <br>
+Antisymétrie :<br>
+Charges volumiques :<br>
+<br><br><br>Th d'Ostrogradski appliqué à une surface fermée<br>
+]]></description><link>2a/electromagnétisme/2-electrostatique.html</link><guid isPermaLink="false">2A/Electromagnétisme/2 - Electrostatique.md</guid><pubDate>Tue, 01 Oct 2024 06:51:30 GMT</pubDate></item><item><title><![CDATA[Structure de l'atome 2023-10-02 09.15.37]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  1s2s 2p3s 3p 3d4s 4p 4d 4f]]></description><link>1a/chimie/attachments/structure-de-l'atome-2023-10-02-09.15.37.excalidraw.html</link><guid isPermaLink="false">1A/Chimie/attachments/Structure de l'atome 2023-10-02 09.15.37.excalidraw.md</guid><pubDate>Mon, 02 Oct 2023 07:34:08 GMT</pubDate></item><item><title><![CDATA[Structure de l'atome grotrian]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  n=+∞ n=6n=5n=4n=3n=2n=1 AbsorptionÉmissionE(état fondamental)Niveaux excités0]]></description><link>1a/chimie/attachments/structure-de-l'atome-grotrian.excalidraw.html</link><guid isPermaLink="false">1A/Chimie/attachments/Structure de l'atome grotrian.excalidraw.md</guid><pubDate>Sun, 01 Oct 2023 21:41:25 GMT</pubDate></item><item><title><![CDATA[Structure de l'atome periode]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  T(s)t(s)]]></description><link>1a/chimie/attachments/structure-de-l'atome-periode.excalidraw.html</link><guid isPermaLink="false">1A/Chimie/attachments/Structure de l'atome periode.excalidraw.md</guid><pubDate>Sun, 01 Oct 2023 21:52:11 GMT</pubDate></item><item><title><![CDATA[VIII - Les liaisons 2023-10-16 09.36.58]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  ABABA-B]]></description><link>1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.36.58.excalidraw.html</link><guid isPermaLink="false">1A/Chimie/attachments/VIII - Les liaisons 2023-10-16 09.36.58.excalidraw.md</guid><pubDate>Mon, 16 Oct 2023 07:42:33 GMT</pubDate></item><item><title><![CDATA[VIII - Les liaisons 2023-10-16 09.39.37]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  ABABA-&gt;B]]></description><link>1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.39.37.excalidraw.html</link><guid isPermaLink="false">1A/Chimie/attachments/VIII - Les liaisons 2023-10-16 09.39.37.excalidraw.md</guid><pubDate>Mon, 16 Oct 2023 07:40:01 GMT</pubDate></item><item><title><![CDATA[X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  Hybridation sp3 du carboneOrbitale 1s de l'hydrogèneLiaison]]></description><link>1a/chimie/attachments/x-i-théorie-des-orbitales-moléculaires-2023-11-06-09.19.05.excalidraw.html</link><guid isPermaLink="false">1A/Chimie/attachments/X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05.excalidraw.md</guid><pubDate>Tue, 14 Nov 2023 07:18:51 GMT</pubDate></item><item><title><![CDATA[Exo 4 spectres du lithium 2023-10-14 10.28.28]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  n=1 l=0 ml=0n=2 l=0 ml=0n=2 l=1n=3 l=0n=3 l=1n=3 l=2n=4 l=0n=4 l=1n=4 l=2n=4 l=3∞E: électron à l'état fondamental-l &lt;= ml &lt;= l]]></description><link>1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.html</link><guid isPermaLink="false">1A/Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.md</guid><pubDate>Sat, 14 Oct 2023 08:28:58 GMT</pubDate></item><item><title><![CDATA[Exo 4 spectres du lithium 2023-10-14 11.49.50]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  n=1 l=0 ml=0n=2 l=0 ml=0n=2 l=1n=3 l=0n=3 l=1n=3 l=2n=4 l=0n=4 l=1n=4 l=2n=4 l=3∞E: électron à l'état fondamental-l &lt;= ml &lt;= l: absorbtion: émission]]></description><link>1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-11.49.50.excalidraw.html</link><guid isPermaLink="false">1A/Chimie/Corrections exos/attachments/Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.md</guid><pubDate>Sat, 14 Oct 2023 09:56:17 GMT</pubDate></item><item><title><![CDATA[Exo 4 spectres du lithium]]></title><description><![CDATA[ 
+ <br><br>Li : 1s² 2s¹<br><img alt="Exo 4 spectres du lithium 2023-10-14 10.28.28.excalidraw.svg" src="1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.svg"><br>
+<br>Peut-être faire un tableau à coté pour préciser les valeurs de  possibles pour chaque sous couche<br><br><br>On précise que le niveau 3S est plus proche énergétiquement du niveau 3P que du niveau 2P. On supposera que les niveaux P sont simples. Lorsqu’un électron effectue une transition d’un niveau à un autre par l’absorption ou l’émission d’un photon, les propriétés de ce dernier impliquent des règles de sélection<br>
+n’autorisant que certaines transitions, en particulier .<br><img alt="Pasted image 20231014112036.png" src="1a/chimie/corrections-exos/attachments/pasted-image-20231014112036.png"><br>Tout d'abord, on remarque que l'électron de valence du lithium est celui situé sur la couche 2s.<br>
+On en déduit donc que l'énergie d'ionisation est l'énergie nécessaire pour "arracher" cet électron à l'atome<br>
+<br>
+Donc on a :<br>
+<br>
+On peut vérifier cette valeur à l'aide de la longueur d'onde de la raie correspondant à la limite de série.<br>Les transitions possibles pour l'électron de valence sont les suivantes car :<br>
+<br>2s  2p
+<br>2s  3p
+<br>2s  4p<br>
+Cela correspond au spectre d'absorption représenté ci dessus
+<br>Donc :<br>
+Pour 2s  2p<br>
+<br>
+<br>
+Pour 2s  3p<br>
+<br>
+<br>Il nous reste à déterminer l'énergie du niveau 3s, pour cela nous devons utiliser le spectre d'émission<br><img alt="Pasted image 20231014113025.png" src="1a/chimie/corrections-exos/attachments/pasted-image-20231014113025.png"><br>L'excitation d'un électron du niveau 2s par des électrons d’énergie égale à 3,84 eV le conduit au niveau 3p comme vu précedemment.<br>
+Listons les transitions possibles de 3p à 2s en émission avec <br>
+<br>3p  3s  2p  2s
+<br>3p  2s<br>
+On sait déjà que les 2 raies de gauches corespondent respectivement aux transitions 3p  2s et 2p  2s<br>
+Parmi les deux raies de droites se trouvent donc les transitions 3p  3s et 3s  2p<br>
+Il est précisé dans la consigne que "le niveau 3S est plus proche énergétiquement du niveau 3P que du niveau 2P".<br>
+On en déduit que la transition 3p  3s a une différence d'énergie plus faible que la transition 3s  2p, c'est à dire que la transition 3p  3s a une longueur d'onde plus élevée.<br>
+Cette transition émet d'onde un rayonnement de longueur d'onde  Angstrom<br>
+<br>
+
+<br><br><img alt="Exo 4 spectres du lithium 2023-10-14 11.49.50.excalidraw.svg" src="1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-11.49.50.excalidraw.svg"><br>
+]]></description><link>1a/chimie/corrections-exos/exo-4-spectres-du-lithium.html</link><guid isPermaLink="false">1A/Chimie/Corrections exos/Exo 4 spectres du lithium.md</guid><pubDate>Mon, 23 Sep 2024 08:07:51 GMT</pubDate><enclosure url="1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[1-4 - Structure de l'atome]]></title><description><![CDATA[ 
+ <br><br>1 Ångström <br><br><br>InfoLa nature de la lumière est double : elle est à la fois une onde et corpusculaire.<br><br>Fréquence  (nu) exprimée en hertz (Hz)<br>
+<br>
+avec  la période en secondes<br><img alt="Structure de l'atome periode.excalidraw.svg" src="1a/chimie/attachments/structure-de-l'atome-periode.excalidraw.svg"><br> : vitesse de la lumière <br> : longueur d'onde<br><br><br>Lumière visible : <br>
+<br>
+Nombre d'onde  <br><br>La lumière est consitituée de particules appelées photons<br>L'énergie d'un photon est donnée par cette formule :<br>
+<br>
+avec  la constante de Planck<br>
+<br>L'électronvolt <br>
+<br>Si une particule est accélérée sous 3 volts, son énergie vaut 3 <br><br><br><img alt="Structure de l'atome grotrian.excalidraw.svg" src="1a/chimie/attachments/structure-de-l'atome-grotrian.excalidraw.svg"><br>
+<br><br>Au repos, l'électron est sur son niveau fondamental <br>
+Quand il reçoit un rayonnement, il absorbe les photons dont le niveau d'énergie correspond à ce qui lui manque pour atteindre un niveau supérieur.<br>InfoCertaines longueurs d'ondes bien précises sont alors absorbées car <br><br>Lorsqu'un électron ne reçoit plus d'énergie, il se désexcite. Son niveau d'énergie baisse et il émet des photons correspondants à la différence d'énergie entre les niveaux qu'il atteint successivement<br><br>Pour l'hydrogène :<br>
+<br>
+Avec :<br>
+<br> une constante 
+<br> le niveau le plus faible
+<br> le niveau le plus grand
+<br>Séries d'émission<br><br>Pour chaque série, il existe une :<br>
+<br>raie de tête pour  
+
+<br>Correspond à la plus grande longueur d'onde de la série
+
+
+<br>raie limite pour 
+
+<br>Correspond à la plus petite longueur d'onde de la série
+
+
+<br>Pour les hydrogènoïdes :<br>
+<br>
+avec  le n° atomique<br>
+et  l'énergie d'ionisation de l'atome<br><br>Il ne prend pas en compte la structure des atomes ayant plusieurs électrons sur leur couche de valence<br><br>À toute particule de masse  et de vitesse , on peut associer une longueur d'onde <br><br>Un objet quantique, comme l'électron, peut adopter l'état d'onde ou de corpuscule<br><br>
+avec  la charge nucléaire effective<br><br> : nombre quantique principal = n° de la couche électronique<br>
+<br> : nombre quantique secondaire  = n° de la sous-couche<br>
+<br>
+ caractérise la façon dont l'électron bouge dans l'espace cad. la forme des orbitales<br>
+Sous-couches : spdf<br> : nombre quantique magnétique = n° de la "case"<br>
+<br>
+Il y a donc  valeurs de   pour une valeur  donnée<br> : nombre quantique magnétique de spin<br>
+<br> : couplage spin/orbite<br>
+<br><br>Chaque électron possède des nombres quantiques différents<br><br>Remplissage avec  croissant<br>
+<img alt="Structure de l'atome remplissage.excalidraw.svg" src="1a/chimie/attachments/structure-de-l'atome-remplissage.excalidraw.svg"><br>
+<br>Exceptions : <br>
+<br>Chrome Cr
+<br>Cuivre Cu<br>
+on remplit 3d avant 4s
+<br><br>Les électrons occupent d'abord toutes les orbitales (cases quantiques) avant de s'apparier car cela leur coûte de l'énergie]]></description><link>1a/chimie/1-4-structure-de-l'atome.html</link><guid isPermaLink="false">1A/Chimie/1-4 - Structure de l'atome.md</guid><pubDate>Mon, 23 Sep 2024 08:07:51 GMT</pubDate><enclosure url="1a/chimie/attachments/structure-de-l'atome-periode.excalidraw.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="1a/chimie/attachments/structure-de-l'atome-periode.excalidraw.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[5 - Tableau périodique]]></title><description><![CDATA[ 
+ <br><br>Les Atomes sont classés par n° atomique  croissant<br>Chaque ligne correspond à une période<br>Chaque colonne, correspond à un groupe (ou famille) d'atomes avec le même nombre d'électrons sur leur couche de valence<br><br>2 lignes hors tableau : terres rares<br>Gazs rares :<br>
+<br>se terminent en  ou  ou en 
+<br>leur couche de valence est saturée  ils sont très stables
+<br>respectent la règle de l'octet ou du duet
+<br>Les autres atomes ne sont pas stables,<br>
+ils ont tendance à perdre ou gagner des électrons pour que leur couche de valence soit saturée<br>Quand  l'atome est un métal<br><a data-href="Tableau périodique des éléments.svg" href="1a/chimie/attachments/tableau-périodique-des-éléments.svg" class="internal-link" target="_self" rel="noopener">Tableau périodique des éléments.svg</a>]]></description><link>1a/chimie/5-tableau-périodique.html</link><guid isPermaLink="false">1A/Chimie/5 - Tableau périodique.md</guid><pubDate>Mon, 09 Oct 2023 07:06:47 GMT</pubDate></item><item><title><![CDATA[6 - Propriétés des atomes]]></title><description><![CDATA[ 
+ <br><br><br><br> augmente le long d'une période de gauche à droite car à  donné,  augmente<br> diminue à l'intérieur d'un groupe car quand  augmente, les électrons s'éloignent du noyau<br><br><br> car B : 1s² 2s² 2p¹ et Be 1s² 2s²<br>Les électrons non appariés et/ou seul sur une couche d'énergie plus élevée ont besoin de moins d'énergie pour échapper à l'attraction de l'atome<br><br>Électronégativité : tendance d'un élément à attirer vers lui un électron<br>
+Électropositivité : tendance contraire<br>Échelle de Pauling : classe les éléments en fonction de leur électronégativité]]></description><link>1a/chimie/6-propriétés-des-atomes.html</link><guid isPermaLink="false">1A/Chimie/6 - Propriétés des atomes.md</guid><pubDate>Mon, 16 Oct 2023 16:10:52 GMT</pubDate></item><item><title><![CDATA[7 - Spectroscopie des rayons X]]></title><description><![CDATA[ 
+ <br>Longueur d'onde <br>
+<br><br>Électrons acccélérés<br>
+Cible : anticathode (métal)<br>Électron accéléré arrache un électron de l'anticathode<br>
+Un électron d'une couche extérieure comble le trou laissé par l'électron arraché, en se désexcitant il émet un rayon X<br>Condition : <br>
+<br>Loi de Mosley<br>
+<br>
+ et  constantes pour toutes les raies d'un même type d'une même série<br>
+ numéro atomique de l'anticathode<br><br>2 phénomènes observables<br><br>Elles correspondent aux transitions qui sont observées lorsqu'un électron de la couche 1 de l'atome est éjecté<br>
+Ces transitions respectent ces lois :<br>
+<br>
+ ou <br>
+cas  : impossible jusqu'au Scandium, mais même après il n'est pas considéré car ces transitions ont une probabilité trop faible<br><br>Il est dû aux émissions de photons des électrons qui perdent de la vitesse en raison de l'attraction de l'atomeb<br>
+Sa longueur d'onde limite correspond aux électrons incidents totalement stoppés dont toute<br><br>Une partie ou totalité est absorbée par l'échantillon d'épaisseur <br>
+Suivant la loi de Beer-Lambert<br>
+<br>
+ coefficient d'absorption linéique<br>
+ intensité initiale<br><br>
+ coefficient d'absorption massique<br>
+ masse volumique<br>Les caractéristiques d'absorption des rayons X peuvent servir de filtre et monochromatiser (=ne garder qu'une seule  )  setup expériemental<br><br>
+anticathode - filtre - anticathode]]></description><link>1a/chimie/7-spectroscopie-des-rayons-x.html</link><guid isPermaLink="false">1A/Chimie/7 - Spectroscopie des rayons X.md</guid><pubDate>Thu, 14 Dec 2023 21:55:57 GMT</pubDate></item><item><title><![CDATA[8 - Les liaisons]]></title><description><![CDATA[ 
+ <br><br>ImportantLa liaison covalente est :
+
+<br>dirigée
+<br>forte :  à  kJ/mol
+<br>très stable
+<br>Covalence typique : Chacun des 2 atomes fourni un électron<br>
+<img alt="VIII - Les liaisons 2023-10-16 09.36.58.excalidraw.svg" src="1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.36.58.excalidraw.svg"><br>Covalence dative ou coordinence : la paire d'électron peut être fournie en totalité par un des 2 atomes (le donneur), l'autre (l'accepteur) reçoit ce doublet dans un case vide de sa couche externe. On symbolise cette liaison par une flèche mais elle est de même nature que la liaison de covalence simple<br>
+<img alt="VIII - Les liaisons 2023-10-16 09.39.37.excalidraw.svg" src="1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.39.37.excalidraw.svg"><br>
+<br>Les liaisons peuvent être :<br>
+<br>simple
+<br>double 
+<br>triple
+<br>Limites du modèle de Lewis :<br>
+L'apparition de sous-couches à partir de  permet de considérer de nouveaux états de valence<br>
+Ex : Phosphore a 10 électrons de valence au lieu de 8<br>
+Ne représente par les molécules paramagnétiques (= sensibles aux champs magnétiques)<br>Géométrie d'une molécule dépend de :<br>
+<br>répulsion e⁻/e⁻
+<br>répuslsion noyau/noyau
+<br>répuslsion e⁻/noyau
+<br>énergie cinétique des e⁻
+<br>Forne des molécules dépend du nombre de doublets<br>
+<img alt="Pasted image 20231023091732.png" src="1a/chimie/attachments/pasted-image-20231023091732.png"><br>Carbone : considéré à l'état excité  4 électrons de valence<br>Doublets non-liants : provoquent un changement de forme<br><br>
+<br>Écrire les structures de Lewis des molécules
+<br>Déterminer le nombre de doublets lients/non-liants autour de l'atome central
+<br>Déterminer la géométrie conduisant à la répulsion électromagnétique minimale entre les doublets
+<br><br>Les molécules diatomiques homonucléaires (, ….) sont non polaires ( =0)<br>
+Molécules diatomiques hétéronucléaires sont polaires ()<br><img alt="Pasted image 20231023093306.png" src="1a/chimie/attachments/pasted-image-20231023093306.png"><br>Ionicité de la liaison : dépend de la différence d’électronégativité des atomes liés<br>NoteDans le cas extrême, un électron est transféré vers l’atome le plus éléctronégatif<br>
+La liaison est alors ionique<br>Molécules polyatomiques :<br>
+<br>Liaisons polarisées en général (car elles relient des atomes différents)
+<br>Pas forcément polaires pour des raisons de symétrie
+]]></description><link>1a/chimie/8-les-liaisons.html</link><guid isPermaLink="false">1A/Chimie/8 - Les liaisons.md</guid><pubDate>Mon, 23 Sep 2024 08:07:51 GMT</pubDate><enclosure url="1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.36.58.excalidraw.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="1a/chimie/attachments/viii-les-liaisons-2023-10-16-09.36.58.excalidraw.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[9- Théorie des orbitales moléculaires]]></title><description><![CDATA[ 
+ <br>But : proposer une alternative à la théorie de lewis cohérente avec les notions d'orbitales et de probabilité de présence<br>Les liaisions entre des molécules entraînent un recouvrement de leur orbitales<br>
+2 types de recouvrement :<br>
+<br>recouvrement axial
+<br>recouvrement latéral
+<br>hybridation : pour le CH^4 (forme AX^4)<br>
+l'orbitale s et les 3 p forment une hybridation sp3 de forme tétraédrique<br><img alt="X-I - Théorie des orbitales moléculaires 2023-11-06 09.19.05.excalidraw.svg" src="1a/chimie/attachments/x-i-théorie-des-orbitales-moléculaires-2023-11-06-09.19.05.excalidraw.svg"><br>
+<br><br>
+<br>Molécule tétraédrique ()
+
+<br>angle de 109,5°  hybridation sp3
+
+
+<br>Molécule trigonale ()
+
+<br>double liaison
+<br>angle de 120°  hybridation sp2
+<br>on combine 2 orbitales p avec une orbitale s
+<br>il reste une orbitale p non hybridée
+
+
+<br>Molécule linéaire ()
+
+<br>triple liaison
+<br>angle de 180°  hybridation sp
+<br>Les deux orbitales p restantes restent non-hybridées
+
+
+<br><br>Liaisons sigma  quand une orbitale est hybridée<br>
+Liaison  quand les orbitales ne sont pas hybridées<br>Liaison sigma  : liaison sigma entourée par deux liaisons  (dans une chaîne carbonée par ex)]]></description><link>1a/chimie/9-théorie-des-orbitales-moléculaires.html</link><guid isPermaLink="false">1A/Chimie/9- Théorie des orbitales moléculaires.md</guid><pubDate>Mon, 23 Sep 2024 08:07:51 GMT</pubDate><enclosure url="1a/chimie/attachments/x-i-théorie-des-orbitales-moléculaires-2023-11-06-09.19.05.excalidraw.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="1a/chimie/attachments/x-i-théorie-des-orbitales-moléculaires-2023-11-06-09.19.05.excalidraw.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[10-Différents types de liaisons]]></title><description><![CDATA[ 
+ <br><br>La liaison covalente est une liaison dirigée<br><br>Résulte du transfert total d'un ou plusieurs électrons d'un atome vers un autre sans partage<br>
+Existe seulement dans les cristaux<br>
+Interactions électrostatiques entre ions de charge opposée<br>
+Quand la différence d'électronégativité est supérieure à 2<br>Il existe aussi une liaison covalente partiellement ionique (différence d'électronégativité entraîne une polarisation de la liaison)<br><br>Déplacement par mésomérie de doublets d'électrons<br>Conditions:<br>
+<br>Liaisons 
+<br>Système conjugué (molécule alternant des liaisons simples et doubles) OU double liaison suivie d'une simple liaison avec un atome présentant un doublet non liant
+<br>Ex : Butadiène<br><br><br>Degré d'oxydation maximal d'un élément  = nb d'électron célibataire<br><br>Dans un réseau métallique, les atomes ont perdu 1 ou plusieurs électrons<br>
+...<br><br>Interaction entre les molécules<br>
+Dépend de leur polarité<br><br><br>Cas particulier de liaison interlmoléculaire<br>Quand les molécules présentent à la fois un atome d'hydrogène et un atome fortement électronégatif et pas trop gros (O,F,N)]]></description><link>1a/chimie/10-différents-types-de-liaisons.html</link><guid isPermaLink="false">1A/Chimie/10-Différents types de liaisons.md</guid><pubDate>Mon, 13 Nov 2023 08:52:49 GMT</pubDate></item><item><title><![CDATA[11 - Cristallographie]]></title><description><![CDATA[ 
+ <br>Cristaux différents en fonction du type de liaison :<br>
+<br>Ionique
+<br>Covalente
+<br>Métallique
+<br>Moléculaire (plus rarement)
+<br><br>Propriétés princicpales : <br>
+<br>L'ordre et l'anisotropie
+<br>Propriétés physiques directionnelles : résistance mécanique, indice de réfraction, conductibilité thermique et électrique, vitesse de croissance.<br><br>Représenté par un réseau de noeuds à 3 dimensions<br>Maille : parallélépipède  caractérisé par les longueurs a,b,c et les angles, <br>
+Noeuds :  points du réseau<br>
+Types de mailles :<br>
+<br>Simple : ne contient des noeuds qu'en ses 8 sommets =&gt; Un noeud en moyenne, même volume
+<br>Multiple : Contient plusieurs mailles simples<br>
+Multiplicité d'une maille : nb moyen de noeuds contenus dans la maille
+<br><br>Plan formé par des fractions entières de a,b et c<br>
+Indices de Miller h, k, l, respectivement l'inverse de la fraction correspondant  à chaque intersection a, b, c. (Réduire au plus petit commun dénominateur)<br>Famille de plan réticulaire : chaque ensemble de plans réticulaires parallèles et équidistants qui a eux tous contiennent tous les noeuds du réseau.<br>
+L'équidistance hkl = distance entre les plans réticulaires<br>7 systèmes cristallins:<br>
+<br>Cubique
+<br>Tétragonal : 2 faces carrées 4 faces rectangles
+<br>Orthorhombique : prisme droit 6 faces rectangles
+<br>Monoclinique : prisme incliné 4 faces rectangle 2 faces parallèlogramme
+<br>Tricilinique : Prisme incliné  faces parallèlogramme
+<br>Hexagonal : Prisme droit à base losange régulier
+<br>Rhomboèdrique : Parallélépipède toutes faces losanges
+<br>14 motifs :<br>
+<br>Mailles primitive
+<br>Maille conventionnelle à intérieur centré
+<br>Maille conventionnelle à bases centrées
+<br>Maille conventionnelle toutes bases centrées
+<br><br><br>Centre de symétrie C<br>
+3 axes d'ordre 4 (milieu des faces opposées)<br>
+4 axes d'ordre 3 (4 grandes diagonales)<br>
+6 axes d'ordre 2 (milieu des arêtes opposées)<br><br>nombre de plus proches voisins équidistants d'un atome ou d'un ion (de signe opposé ?)<br><br>Taux d'occupation réel par les atomes assimilés à des sphères<br>
+<br><br>On utilise la diffraction des rayons X<br><br><br>Structures compactes composées d'atomes (assimilés à des sphères de rayon , chaque sphère est tangente à 6 autres sphères.<br>Le second plan est composé d'atomes qui se placent dans l'interstice des 3 atomes donc on forme un tétraèdre<br>Troisième couche :<br>
+<br>soit superposée à la première couche A on a l'empilement ABAB  réseau hexagonal compact
+<br>Soit elle est décalée  empilement ABC : cube à face centrée
+<br>Types de réseaux :<br>
+<br>Hexagonal compact (HC)
+<br>Cubique face centrée (CF)
+<br>Cubique intérieur centrée (CI)
+
+<br>Compacité 68%
+
+
+<br><br>Les atomes étrangers se placent dans les sites interstitiels<br>Sites intersticiels : espace libre qui reste dans la structure compacte<br>
+<br>Réseau cubique toutes faces centrées 
+
+<br>8 sites tétraèdriques : 1 sous chaque sommet
+
+<br>L'atome se place au barycentre du tétraèdre (formé par le sommet et le milieu des faces adjacentes) qui se trouve aux  de la hauteur du tétraèdre
+<br>Hauteur :  car la base du tétraèdre est confondue avec le plan (III)
+
+
+<br>4 sites octaédriques
+
+<br>1 au centre formé par le mielieu des faces
+<br>3 au milieu des arrêtes : 
+<br>Pour que l'atome puisse s'insérer il faut que 
+
+
+
+
+<br><br>Structure lamellaire : atomes répartis en un pavage hexagonal maintenu que par des forces de Van der Walls<br>Exemples : <br>
+<br>Graphite
+<br>Diamant
+
+<br>CF avec 1 site tétraèdrique sur 2 est rempli
+
+
+<br><br>
+<br>Structure CsCl : Réseau cubique primitif (CP)
+<br>Structure NaCl (CF)
+<br>Structure  ZnS (CF)
+<br>Structure CP
+]]></description><link>1a/chimie/11-cristallographie.html</link><guid isPermaLink="false">1A/Chimie/11 - Cristallographie.md</guid><pubDate>Mon, 11 Dec 2023 08:47:56 GMT</pubDate></item><item><title><![CDATA[12 - TPS S2 Révisions]]></title><description><![CDATA[ 
+ <br><br>
+<br>Attention diacide
+<br>Tableau d'avancement
+<br><br><br><br> Diluer la solution titrante<br><br> Diluer la solution titrée<br><br>
+<br>Si acide fort/base faible ou acide faible/base forte
+
+<br>on peut déterminer le pka de l'espèce titrée  pH à la demie-équivalence
+
+
+<br>Sinon impossible
+<br><br><br>Par mesure: une demi graduation d'incertitude  ml<br>
+2 mesures: le zéro et la mesure du volume écoulé<br><br>
+<br>géométrie VSEPR ?
+<br>schémas de lewis
+<br><br>
+<br>Potentiel standard  : 
+
+<br>plus il est élevé, plus l'oxydant est fort
+<br>plus il est faible, plus le réducteur est fort
+
+
+]]></description><link>1a/chimie/12-tps-s2-révisions.html</link><guid isPermaLink="false">1A/Chimie/12 - TPS S2 Révisions.md</guid><pubDate>Mon, 13 May 2024 16:32:23 GMT</pubDate></item><item><title><![CDATA[Drawing 2023-09-27 16.36.35]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  Test de excalidraw]]></description><link>1a/excalidraw/drawing-2023-09-27-16.36.35.excalidraw.html</link><guid isPermaLink="false">1A/Excalidraw/Drawing 2023-09-27 16.36.35.excalidraw.md</guid><pubDate>Fri, 29 Sep 2023 11:32:24 GMT</pubDate></item><item><title><![CDATA[Drawing 2024-06-27 00.52.29]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  ]]></description><link>1a/excalidraw/drawing-2024-06-27-00.52.29.excalidraw.html</link><guid isPermaLink="false">1A/Excalidraw/Drawing 2024-06-27 00.52.29.excalidraw.md</guid><pubDate>Wed, 26 Jun 2024 22:53:14 GMT</pubDate></item><item><title><![CDATA[Incertitudes et chiffres significatifs 2023-09-29 15.48.59]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  ]]></description><link>1a/excalidraw/incertitudes-et-chiffres-significatifs-2023-09-29-15.48.59.excalidraw.html</link><guid isPermaLink="false">1A/Excalidraw/Incertitudes et chiffres significatifs 2023-09-29 15.48.59.excalidraw.md</guid><pubDate>Fri, 29 Sep 2023 13:50:16 GMT</pubDate></item><item><title><![CDATA[Continuité]]></title><description><![CDATA[ 
+ <br><br> plus petit majorant de I<br>
+ plus grand majorant de I<br><br>Soit  continue sur un intervalle <br>
+Alors pour tout réel , il existe au moins un réel  tel que <br><br>segment : intervalle de la forme  (fermé borné) avec  et  réels<br>
+<br>
+conséquence : l'image d'un segment par une fonction continue est un segment<br><br>Soit  un intervalle de  et  une fonction continue et strictement monotone sur <br>
+<br> bijective de  dans 
+<br> est un intervalle dont les bornes sont les limites de  aux bornes de 
+<br> :  est continue sur  et a le même sens de variation que 
+<br>les courbes de  et  sont symétriques par rapport à 
+<br><br><br>
+<br>sin : 
+<br>continue et strictement croissante donc bijective
+<br><br>
+<br>arcsin : 
+<br>continue, strictement croissante, impaire
+<br>
+<br>
+<br>
+<br> 
+<br><br>
+<br>cos : 
+<br>continue et strictement décroissante donc bijective
+<br><br>
+<br>arccos : 
+<br>continue, strictement croissante
+<br>
+<br>
+<br> 
+<br><br>
+<br>
+<br>
+<br><br>
+<br>tan: 
+<br>continue et strictement croissante donc bijective
+<br><br>
+<br>arctan : 
+<br>continue, strictement croissante et impaire
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br><br>ou <br><br><br>
+<br>exp
+<br>ln
+<br>sin
+<br>cos
+<br>tan
+<br>racine carrée
+<br>puissances
+<br>polynômes
+<br>ch
+<br>th
+<br><br> est dérivable en  si et seulement si <br>
+ou encore, si on pose <br>
+<br><br><br>Soit  dérivable sur  et  tq  ne soit pas une borne de . Si  admet un extremum local en , alors <br><br>Soient  et  deux réels tq . Soit  continue sur  et dérivable sur <br>
+Si , alors il existe  tq  <br><br>Soient  et  deux réels tq . Soit  continue sur  et dérivable sur <br>
+Alors il existe  tq:<br>
+<br><br> Soit  continue sur  et dérivable sur <br>
+Supposons qu'il existe des réels  et  tels que <br>
+ Supposons qu'il existe  tel que <br>
+<br><br>Soit  une fonction continue sur  et soit <br>
+On suppose que  est dérivable sur <br>
+<br>Si  admet une limite finie  en , alors  est dérivable en  et 
+<br>Si , alors  n'est pas dérivable en , et  admet en  une tangente verticale
+<br><br>binome de newton : commutativité !]]></description><link>1a/maths/fiche-résumé-s2.html</link><guid isPermaLink="false">1A/Maths/Fiche résumé S2.md</guid><pubDate>Thu, 23 May 2024 22:04:41 GMT</pubDate></item><item><title><![CDATA[Démarche scientifique]]></title><description><![CDATA[ 
+ <br><br><br><br>
+<br>Conditions
+<br>Photos
+<br>Réactions
+<br><br>Tableau<br>
+10 mesures<br>
+Regrouper toutes les valeurs dans un tableau<br>
+inclure également :<br>
+<br>La moyenne
+<br>Les incertitudes
+<br>Les valeurs de mesures indirectes et la loi de dépendance<br>
+Graphique<br>
+Choix de l'échelle du graphique en fonction des mesures<br>
+Mentionner sur les axes la grandeur représentée avec son unité<br>
+Reporter les valeurs avec les rectangles d'incertitude
+<br><br>
+<br>Observer les données
+<br>Modéliser par une fonction
+<br>Rechercher la théorie correspondante
+<br>Confronter nos résultats à la théorie
+<br><br>2 possibilités :<br>
+<br>Accord entre la théorie et l'expérience
+<br>Écart entre les deux  Trouver les causes de cet écart
+]]></description><link>1a/physique/bases/démarche-scientifique.html</link><guid isPermaLink="false">1A/Physique/Bases/Démarche scientifique.md</guid><pubDate>Mon, 02 Oct 2023 06:34:08 GMT</pubDate></item><item><title><![CDATA[Énergie]]></title><description><![CDATA[ 
+ <br>Énergie : Grandeur qui mesure la capacité d'un système à modifier un état, à fournir un traveil entraînant :<br>
+<br>un mouvement
+<br>un rayonnement électromagnétique
+<br>de la chaleur
+<br>On ne peut pas produire d'énergie : utilisation ou exploitation (conversion, transfert)<br>Énergie cinétique : énergie que possède un corps due à son mouvement par rapport à un référentiel<br>
+<br>Énergie potentielle :<br>
+<br>de pesanteur<br>
+
+<br>électrique<br>
+
+<br>élastique<br>
+
+<br>En cas de conservation des forces :<br>
+<br>Puissance : Énergie par unité de temps<br>
+cf <a data-href="Unités et Dimensions" href="1a/physique/bases/unités-et-dimensions.html" class="internal-link" target="_self" rel="noopener">Unités et Dimensions</a><br>]]></description><link>1a/physique/bases/énergie.html</link><guid isPermaLink="false">1A/Physique/Bases/Énergie.md</guid><pubDate>Sun, 22 Oct 2023 11:15:08 GMT</pubDate></item><item><title><![CDATA[Incertitudes et chiffres significatifs]]></title><description><![CDATA[ 
+ <br><br>Tous les chiffres d'un résultat autres que les zéros précédant le premier chiffre différent de zéro<br>Example  Les deux premiers zéros sont non significatifs<br>
+  Les derniers zéros sont significatifs<br><br>Une incertitude doit être cohérente<br>Example : Incertitude trop grande par rapport à la précison du résultat
+ : Incertitude cohérente<br><br><br><br>Écart fixe entre la valeur mesurée et la valeur réelle<br>Solution : Estimation de  Correction<br><br>Écart aléatoire entre la valeur mesurée et la valeur réelle<br>
+<br>Type B :  mesure  Traitement probabiliste
+
+<br>(pas au programme)
+
+
+<br>Type A :  mesures  Traitement statistique
+
+<br>Historigramme des résultats
+<br>Moyenne
+<br>Écart type 
+<br>Incertitude type 
+
+
+<br><br>Solution : Estimation de  Correction<br><br><br>
+Mesure de  liée aux mesures directes de ,, par une loi de dépendance<br>Solution : Estimation de , , <br>
+ Estimation de <br>
+<br>Encadrement
+
+<br>
+
+
+<br>Propagation
+<br>Différentielle
+
+<br>
+
+
+<br>CautionLes incertitudes s'additionnent et ne se compensent pas]]></description><link>1a/physique/bases/incertitudes-et-chiffres-significatifs.html</link><guid isPermaLink="false">1A/Physique/Bases/Incertitudes et chiffres significatifs.md</guid><pubDate>Tue, 03 Oct 2023 07:39:53 GMT</pubDate></item><item><title><![CDATA[Unités et Dimensions]]></title><description><![CDATA[ 
+ <br><br>NoteGrandeur : propriété ou qualité attribuée à un corps ou un phénomène et à laquelle on fait correspondre un représentant qui peut être :
+
+<br>Un nombre  Grandeur scalaire
+<br>Un vecteur  Grandeur vectorielle
+<br>Un tenseur  Grandeur tensorielle
+<br>Une grandeur peut être additive ou non additive<br>ExampleLongueur  additive<br>
+Température  non additive<br>Mesurage : Ensemble de techniques utilisées pour obtenir une mesure<br>
+Il peut être :<br>
+<br>direct  Avec un instrument de mesure
+
+<br>longueur, poids...
+
+
+<br>indirect  Avec un calcul
+
+<br>Résistance : 
+
+
+<br><br><br><br>]]></description><link>1a/physique/bases/unités-et-dimensions.html</link><guid isPermaLink="false">1A/Physique/Bases/Unités et Dimensions.md</guid><pubDate>Wed, 08 Nov 2023 16:01:58 GMT</pubDate></item><item><title><![CDATA[3 - Régime sinusoïdal permanent 2024-02-06 17.27.21]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  D1D2]]></description><link>1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.27.21.excalidraw.html</link><guid isPermaLink="false">1A/Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.27.21.excalidraw.md</guid><pubDate>Tue, 06 Feb 2024 16:28:59 GMT</pubDate></item><item><title><![CDATA[3 - Régime sinusoïdal permanent 2024-02-06 17.32.20]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  Origine des phases]]></description><link>1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.32.20.excalidraw.html</link><guid isPermaLink="false">1A/Physique/Electricité/attachments/3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.md</guid><pubDate>Tue, 06 Feb 2024 16:38:29 GMT</pubDate></item><item><title><![CDATA[Régimes transitoires 2023-10-23 08.05.35]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  RUc(t)Ur(t)i(t)Et=0]]></description><link>1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.05.35.excalidraw.html</link><guid isPermaLink="false">1A/Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.05.35.excalidraw.md</guid><pubDate>Mon, 23 Oct 2023 06:11:18 GMT</pubDate></item><item><title><![CDATA[Régimes transitoires 2023-10-23 08.33.47]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  Uc(t)tRégime transitoireRégime permanent]]></description><link>1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.33.47.excalidraw.html</link><guid isPermaLink="false">1A/Physique/Electricité/attachments/Régimes transitoires 2023-10-23 08.33.47.excalidraw.md</guid><pubDate>Mon, 23 Oct 2023 06:41:21 GMT</pubDate></item><item><title><![CDATA[1 - Électrocinétique]]></title><description><![CDATA[ 
+ <br>nathalie.godin<br><br>Dipôle : composant avec 2 bornes : générateur ou récepteur<br>
+Noeud : Jonction entre au moins 3 fils<br>Branche : Ensemble de dipôles montés en série entre 2 noeud<br>Maille : Portion fermée d'un circuit<br>Réseau : ensemble de composants reliés par des fils de connexion<br>Fils de connexion : Fil conducteur dont la résistance est négligeable<br><br><br><br><br><br>Peut être électromoteur ou contre-électromoteur<br>Branchement en série  Même intensité<br>
+Branchement en dérivation  Même tension<br>Loi des mailles :  tensions <br>
+Loi des noeuds : Intensités d'entrée = Intensités de sortie<br>Représentation du courant et de la tension :<br>
+Convention récepteur :<br>
+<img alt="Pasted image 20231013135542.png" src="lib/media/pasted-image-20231013135542.png"><br>
+Tension dans le sens opposé du courant<br><br>Représente le rapport entre l'intensité du courant circulant dans un dipôle et la tension à ses bornes<br>Symétrie par rapport au point (0,0)<br>
+Indique que le dipôle est non-polarisé, on peut le brancher dans l'autre sens sans changer son fonctionnement<br>
+À l'inverse, quand cette symétrie n'est pas présente on parle d'un dipôle polarisé<br>Passif ou actif ?<br>
+La caractéristique d'un dipôle passif passe par le point (0,0)<br>Linéarité<br>
+Le dipôle est dit linéaire si sa courbe caractéristique est une droite<br><br>
+<br>Continu
+<br>Variable
+
+<br>Variable périodique
+
+
+<br>Transitoire (correspond au démarrage d'un système)
+<br>Caractéristique : Lien entre intensité et tension aux bornes d'un dipôle<br>
+<br>passe par l'origine pour un dipôle passif
+<br>ne passe pas par l'origine pour un dipôle actif
+<br>Conductance <br>
+unité : siemer/mho<br><br>Effet joule : <br>Résistances en série : <br>Résistances en parallèle : <br>NoteProcéder par étape lors des calculs de résistance<br>Transfigurer le réseau : Modifier représentation d'un réseau électrique<br><br> (0 quand le courant est continu)<br>
+<br>Modèle condensateur parfait  condensateur réel (résistance)
+<br><br>Bobine parfaite<br>
+<br>
+L : inductance en Henry (H)<br>
+Bobine réelle<br>
+<br> : force électromotrice (tension en V)<br><br><br>En convention récepteur :<br>
+ Le dipôle est récepteur<br>
+ Le dipôle est émetteur<br><br><br> : force électro-motrice = tension aux bornes d'un générateur<br>
+<br>
+<br><br><br>
+<br><br>Même tension à vide<br>
+Même résistance<br><br><img alt="Pasted image 20231013154436.png" src="lib/media/pasted-image-20231013154436.png"><br><br><img alt="Pasted image 20231013154447.png" src="lib/media/pasted-image-20231013154447.png"><br>
+Pour passer d'une représentation à l'autre :<br>
+<br>
+<br>Principe de superposition<br>
+<br><br>NotePermet de simplifier la représentation d'un ensemble de générateurs en le remplaçant par un générateur de thévenin équivalent<br>
+<br>Définir la partie du circuit que l'on veut remplacer
+<br>Calculer la résistance à l'état passif de notre partie du circuit et l'utiliser comme résistance pour le générateur de thévenin
+<br>Calculer tension à vide aux bornes de la partie du circuit étudiée  Force électromotrice  du générateur de thévenin
+<br><br>On détermine le nombre d'intensités inconnues.<br>
+<br>
+On exprime toutes les intensités en fonction des inconnues et on applique la loi des mailles]]></description><link>1a/physique/electricité/1-électrocinétique.html</link><guid isPermaLink="false">1A/Physique/Electricité/1 - Électrocinétique.md</guid><pubDate>Mon, 06 Nov 2023 11:53:24 GMT</pubDate><enclosure url="lib/media/pasted-image-20231013133810.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20231013133810.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2 - Régimes transitoires]]></title><description><![CDATA[ 
+ <br><img alt="Régimes transitoires 2023-10-23 08.05.35.excalidraw.svg" src="1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.05.35.excalidraw.svg"><br>
+<br>Quand courant continu : condensateur  interrupteur ouvert<br>
+on cherche à trouver une expression de  en fonction de <br>
+<br>solution générale<br>
+
+<br>solution particulière<br>
+ Tension aux bornes d'un condensateur : fonction continue<br>
+On utilise  pour en déduire la constante
+<br><img alt="Régimes transitoires 2023-10-23 08.33.47.excalidraw.svg" src="1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.33.47.excalidraw.svg"><br>
+<br><br>Par le générateur<br>
+Par le condensateur<br>
+Par la résistance<br>
+<br><br>Courant toujours continu (et non pas la tension)<br>
+Peut être remplacée par un fil<br><br>]]></description><link>1a/physique/electricité/2-régimes-transitoires.html</link><guid isPermaLink="false">1A/Physique/Electricité/2 - Régimes transitoires.md</guid><pubDate>Tue, 06 Feb 2024 16:05:40 GMT</pubDate><enclosure url="1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.05.35.excalidraw.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="1a/physique/electricité/attachments/régimes-transitoires-2023-10-23-08.05.35.excalidraw.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3 - Régime sinusoïdal permanent]]></title><description><![CDATA[ 
+ <br><br>
+Pour distribuer l'électricité, le courant continue n'est pas efficace en raison de l'effet Joule.<br>Transformateur : permet de modifier la tension (en fonctionnant en courant alternatif)<br>Régime variable :<br>
+<br>Régime variable périodique : fonctions sinusoïdales<br><br>Régime permanent sinusoïdal :<br><br>
+<br> : amplitutde crête<br>Transformée de Fourrier : tte fonction périodique peut être décomposée en une somme de fonctions sinusoïdale<br><br><br>Vecteur qui effectue une rotation en fonction du temps<br>
+Permet d'obtenir  ou  en le projettant sur l'axe des ordonnées ou des abscisses.<br><img alt="3 - Régime sinusoïdal permanent 2024-02-06 17.27.21.excalidraw.svg" src="1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.27.21.excalidraw.svg"><br>
+<br><br>
+<br>
+<br>
+Trouver  et  :<br>Origine des phases : axes des abscisses (convention mais pas obligatoire)<br>
+<img alt="3 - Régime sinusoïdal permanent 2024-02-06 17.32.20.excalidraw.svg" src="1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.32.20.excalidraw.svg"><br>
+<br>
+<br><br><br>Amplitude complexe<br>
+ Si <br>
+<br>
+Module du nombre complexe : <br>
+Argument :  (utilisation de la fonction  et )<br><br>La dérivée d'une grandeur sinusoïdale de pulsation  est en avance de phase de  et sa primitive est en retard de phase de <br>Bobine<br>
+<br> d'après les relations ci dessus<br>Condensateur<br>
+<br>
+<br>
+<br>Résistance<br>
+<br>
+<br>Où  l'impédance complexe<br>En notation complexe, on peut remplacer une résistance, une bobine et un condensateur en série par une impédance équivalente.<br><br>
+D'où :<br>
+<br>
+<br><br>En convention générateur :<br>
+  Dipôle générateur<br>
+ Dipôle récepteur<br>
+Comme en courant continu...<br><br>Example
+Pour une résistance, pas de déphasage <br>
+Donc 
+<br><br>Info
+Intensité que l'on doit appliquer en courant continu pour dissiper la même puissance<br>
+Qui vient de :<br>
+
+<br><br><br>Note
+Si une bobine est parfaite, <br>
+Donc  (logique car on ne perd pas d'énergie)
+<br>Dans l'industrie, il faut que .<br>
+On rajoute donc des condensateurs/bobines pour diminiuer le déphasage]]></description><link>1a/physique/electricité/3-régime-sinusoïdal-permanent.html</link><guid isPermaLink="false">1A/Physique/Electricité/3 - Régime sinusoïdal permanent.md</guid><pubDate>Mon, 23 Sep 2024 08:07:59 GMT</pubDate><enclosure url="1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.27.21.excalidraw.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="1a/physique/electricité/attachments/3-régime-sinusoïdal-permanent-2024-02-06-17.27.21.excalidraw.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[4 - Etude des filtres - diagramme de Bode]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Quand la fréquence est haute, le condensateur se rapproche d'un fil
+<br>Quand la fréquence est basse, le condensateur se rapproche d'un condensateur ouvert
+<br><br><br><br><br>On peut utiliser une échelle logarithmique  pour représenter les fonctions de transfert<br>Puissance  en bels <br>
+Puissance  en decibels <br> : gain<br>
+Tension<br>
+Intensité<br>
+Puissance<br>
+<br>Pulsation propre : <br>
+Pulsation réduite : <br>Pour avoir la bande passante, il faut utiliser le gain max]]></description><link>1a/physique/electricité/4-etude-des-filtres-diagramme-de-bode.html</link><guid isPermaLink="false">1A/Physique/Electricité/4 - Etude des filtres - diagramme de Bode.md</guid><pubDate>Wed, 03 Apr 2024 09:05:11 GMT</pubDate></item><item><title><![CDATA[Statique 2023-11-06 08.29.58]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  0]]></description><link>1a/physique/meca/attachments/statique-2023-11-06-08.29.58.excalidraw.html</link><guid isPermaLink="false">1A/Physique/Meca/attachments/Statique 2023-11-06 08.29.58.excalidraw.md</guid><pubDate>Mon, 06 Nov 2023 07:32:46 GMT</pubDate></item><item><title><![CDATA[1 - Statique]]></title><description><![CDATA[ 
+ <br><br>
+<br>Point matériel
+<br>Solide indéformable
+<br>Systèmes complexes
+<br>Milieu déformables
+<br>Mécanique des fluides
+<br><br>Statique : étude de l'équilibre<br>Pour un point : une seule relation<br>
+<br>Somme des forces = 0
+<br>Pour un système :<br>
+<br>Somme des forces = 0 est nécessaire mais ne suffit pas
+<br>Il faut aussi somme des moments des forces = 0 
+<br><img alt="Statique 2023-11-06 08.29.58.excalidraw.svg" src="1a/physique/meca/attachments/statique-2023-11-06-08.29.58.excalidraw.svg"><br>
+<br><br>Si un élément matériel A exerce sur un autre élément matériel A’ une force  , réciproquement A’ exerce sur A une force , de même support et telle que <br><br>ImportantMoment d'une force par rapport à un point<br>
+Soit une force dont le point d’application est A.<br>
+On la notera <br>
+Le moment de cette force par rapport à un point P<br>
+quelconque de l’espace est par définition :<br>
+<br>ImportantMoment d'une force par rapport à un axe<br>
+Soit une force dont le point d’application est A.<br>
+On la notera <br>
+Soit un axe  de vecteur directeur <br>
+Le moment de la force  par rapport à l'axe <br>
+est :<br>
+<br>Forces intérieures : forces qui proviennent d'autres point du système<br>Forces extérieures : forces provenant de l'action d'agents extérieurs au système<br><br><br>Somme géométrique des forces intérieures<br><br>Somme géométrique des moments des forces intérieures par rapport à tout point P<br><br><br>Résultante des forces<br>
+Moment résultant<br>
+<br><br>Deux conditions :<br>
+<br>Égalité des résultantes<br>
+
+<br>Égalité des moments résultants en un même point P quelconque<br>
+
+<br><br>NoteRéduire un système de forces : trouver un<br>
+système plus simple qui lui soit équivalent (mêmes<br>
+éléments vectoriels en un point P)<br><br>Deux conditions :<br>Deux conditions :<br>
+<br>Résultante nulle<br>
+
+<br>Moment des forces nul en tout point P
+<br><br><br>Donnée d'une résultante et d'un moment résultant<br>
+//TODO 2A<br><br>Tout système tel que  et <br>
+est réductible à un couple<br><br><br><br><img alt="Pasted image 20231113084749.png" src="1a/physique/meca/attachments/pasted-image-20231113084749.png"><br><br><img alt="Pasted image 20231113084830.png" src="1a/physique/meca/attachments/pasted-image-20231113084830.png"><br>
+A est le barycentre des points  de coefficients <br><br><img alt="Pasted image 20231120081419.png" src="1a/physique/meca/attachments/pasted-image-20231120081419.png"><br><br>Le rôle du frottement statique est de « bloquer » les autres forces<br>
+tendant à provoquer un mouvement parallèle à la surface de<br>
+contact, jusqu’à une valeur limite  :  <br><br> : force de frottement statique maximale en Newtons pour laquelle <br>
+ : coefficient de frottement statique (sans dimension)<br>
+ : module de la réaction normale<br><br><br><br><br>CautionFormule différente si on utilise une autre axe que  ou ci celle-ci n'est pas collinéaire à la gravité<br><br><br><img alt="Pasted image 20231120083422.png" src="1a/physique/meca/attachments/pasted-image-20231120083422.png"><br>
+<br>
+<br>
+<br><br><br><br>Les positions d'équilibre correspondent à des extremums de l'énergie potentielle<br>InfoUn équilibre est stable si lorsqu’on écarte légèrement<br>
+(le point ou le système) de la position d’équilibre il<br>
+revient à cette position.<br>Si  existe cette position correspond à un minimum de ]]></description><link>1a/physique/meca/1-statique.html</link><guid isPermaLink="false">1A/Physique/Meca/1 - Statique.md</guid><pubDate>Mon, 23 Sep 2024 08:07:59 GMT</pubDate><enclosure url="1a/physique/meca/attachments/statique-2023-11-06-08.29.58.excalidraw.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="1a/physique/meca/attachments/statique-2023-11-06-08.29.58.excalidraw.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2 - Cinématique]]></title><description><![CDATA[ 
+ <br>Cinématique : Étude des mouvements indépendamment des forces<br><br><br>Un point est repéré par ses coordonnées dans un repère orthonormé direct<br>Autres systèmes de coordonnées :<br>
+<br>Polaires
+<br>Cylindriques
+<br>Sphériques
+<br><br>à l ’instant t : M (x,y,z)<br>
+à l ’instant t+dt : M ’(x+dx, y+dy,z+dz)<br>
+MM' = ds<br> est l'abscisse curviligne<br>
+ est l'équation horaire<br>
+<br><br>Vitesse : dérivée du mouvement en fonction du temps (peut être représentée dans n'importe quelle base)<br>Accélération : dérivée de la vitesse en fonction du temps<br><br><br>On cherche un vecteur  tangent à la courbe (trajectoire) et unitaire<br><br><br>On cherche un vecteur <br>
+Les vecteurs  et  sont orthogonaux<br><br>Où  est la courbure<br> définissent le plan osculateur en <br><br> définissent le repère de Frénet<br><br><img alt="Pasted image 20231204082111.png" src="1a/physique/meca/attachments/pasted-image-20231204082111.png"><br>
+<br> : vitesse angulaire<br>Mouvement circulaire :<br>
+<br>
+<br><br><img alt="Pasted image 20231204085801.png" src="1a/physique/meca/attachments/pasted-image-20231204085801.png"><br>
+<br><br><img alt="Pasted image 20231204085905.png" src="1a/physique/meca/attachments/pasted-image-20231204085905.png"><br>
+<img alt="Pasted image 20231204085915.png" src="1a/physique/meca/attachments/pasted-image-20231204085915.png"><br>
+<img alt="Pasted image 20231204090002.png" src="1a/physique/meca/attachments/pasted-image-20231204090002.png"><br><br><br><img alt="Pasted image 20231204090427.png" src="1a/physique/meca/attachments/pasted-image-20231204090427.png"><br>
+Trajectoire = droite<br><br>accélération constante  vitesse affine<br>donc <br><br>Vitesse constante  accélération nulle<br>
+Donc  affine<br><br>avec : <br>
+<br> la vitesse angulaire en radians/seconde
+<br>Vecteur rotation <br><br><img alt="Pasted image 20231211084455.png" src="1a/physique/meca/attachments/pasted-image-20231211084455.png"><br>
+Composition des vitesses :<br>
+<br>Vitesse de P par rapport au disque D : vitesse relative<br><br><br>InfoTous les points du solide (D) n’ont pas la même vitesse<br>
+par rapport au référentiel absolu <br>
+La seule exception est la translation<br><br>
+<br>Rectiligne
+<br>Circulaire
+<br>Curviligne
+<br><br>Points du solide ont tous la même vitesse angulaire mais pas la même vitesse linéaire]]></description><link>1a/physique/meca/2-cinématique.html</link><guid isPermaLink="false">1A/Physique/Meca/2 - Cinématique.md</guid><pubDate>Mon, 11 Dec 2023 07:56:54 GMT</pubDate><enclosure url="1a/physique/meca/attachments/pasted-image-20231204082111.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="1a/physique/meca/attachments/pasted-image-20231204082111.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3 - Dynamique]]></title><description><![CDATA[ 
+ <br><br>Note
+La géométrie des masses est l’étude d’un système de points matériel , (ou d’éléments matériels infiniment petits), affectés de coefficients positifs  (ou dmi pour les éléments) appelés masses.
+<br><br><br><br> (kg/m) = masse linéique<br><br> (kg/m²) masse surfacique<br><br><br><br>Def : voir OMNI<br><br>Les coefficients sont des masses<br>
+Trouver le centre d'inertie : analyser la répartition de masse (symétries)<br>Axe de révolution : axe commun à une infinité de plans de symétrie<br>Solide en rotation autour d'un axe<br>
+Pour calculer l'énergie cinétique, il faut savoir comment la masse du solide est répartie par rapport à l'axe de rotation<br><br>Le moment d'inertie par rapport à un axe  d'un système (S) formé de n points  de masses  est donné par :<br>
+ est la distance du point  à l'axe <br>Pour une répartition continue de masse :<br>
+Où <br>Info
+ Théorème de Huyghens<br>
+Le moment d’inertie d’un système matériel (S) par rapport à un axe , est égal au moment d’inertie de (S) par rapport à un axe  parallèle à  , passant par  centre d’inertie de (S), augmenté du moment d’inertie par rapport à  de la masse totale du système supposée centrée en G.
+<br><br><br><br>homogène à une masse fois une vitesse<br>Loi de répartition de masse pour un solide : <br>Quantité de mouvement élémentaire : Pour un point matériel  de masse  : <br>
+Avec  la vitesse du point<br><br><br><br><br><br><br>Résultante cinétique<br>
+On en déduit (à démontrer) : avec  le centre de masse<br>
+Torseur :<br><img alt="Pasted image 20240313115506.png" src="1a/physique/meca/attachments/pasted-image-20240313115506.png"><br><br>On doit pouvoir démonter les expressions suivantes :<br><br><br><br><br><br><br><br><br>Quantité d'accélération :<br>
+Résultante dynamique :<br>
+Moment dynamique résulant en O :<br>
+<br><br>Principes de base :<br>
+<br>masse des particules matérielles constantes
+<br>vitesses très faibles devant celle de la lumière
+<br>actions à distance transmises instantanément
+<br><br>Dans un repère absolu  et avec une chronologie absolue un point matériel  isolé possède une quantité de mouvement constante<br>
+<br><br>Soit un point matériel  soumis à des actions de la part d'autres points matériels. À l'instant t, ces actions sont représentables par un vecteur force  s'exerçant sur .<br>
+Si  est non nulle, la variation de la quantité de mouvement de  est liée à  par :<br>
+<br><br>Si à l'instant t il y a interaction entre deux points matériels  et , les forces que chaque point exerce sur l'autre sont opposées.<br><br>Dans un référentiel absolu<br>
+Référentiel absolu : Dans un référentiel absolu on devrait pouvoir suivre le mouvement de n’importe quel point matériel de l’Univers<br>Reférentiel galiléen ou inertiel : C’est un référentiel dans lequel le principe d’inertie (1ère loi de Newton) est vérifié.<br><br>À partir de toutes les forces mises en jeu on définit les torseurs suivants : <br>
+<br>torseur des forces intérieures 
+<br>torseur des forces extérieures 
+<br>Il existe un référentiel galiléen  et une manière de mesurer le temps dite chronologique absolue tels que le torseur des forces extérieures exercées sur un système soit à chaque instant égal au torseur dynamique<br>
+ Résultante des forces extérieures = Résultante dynamique<br>
++Moment résultant des forces extérieures en  = Moment dynamique en <br><br>Dans un référentiel galiléen le centre de masse  d'un système  a le mouvement qu'aurait un point matériel de masse  (masse de  situé en ce point et soumis à la résultante des forces extérieures)<br>Remarque : le mouvement du centre de masse ne dépend que des forces extérieures.<br><br>La dérivée par rapport au temps du moment cinétique d'un système est à chaque instant égal au moment résultant des forces extérieures lorsque le point de référence est fixe dans le référentiel galiléen.<br>
+Soit dans un référentiel galiléen, O étant fixe :<br>
+<br><br>?]]></description><link>1a/physique/meca/3-dynamique.html</link><guid isPermaLink="false">1A/Physique/Meca/3 - Dynamique.md</guid><pubDate>Thu, 11 Apr 2024 22:50:39 GMT</pubDate><enclosure url="1a/physique/meca/attachments/pasted-image-20240313115506.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="1a/physique/meca/attachments/pasted-image-20240313115506.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[4 - Énergie]]></title><description><![CDATA[ 
+ <br><br>Travail : résistant ou moteur<br>Une force "travaille" si son point d'application se déplace<br>Puissance développée par la force<br>
+<br><br><br><br><br><br><br> est la résultante des forces<br>
+Travail total le long de la courbe  :<br>
+<br><br>Avec <br><br><br><br><br>Unité : watt (W)<br><br>Unité : joule (J)<br><br>Soit un système  dont la position dépend de  paramètres indépendants  et de .<br>
+Les efforts exercés sur  admettent une énergie<br>
+potentielle s’ il existe une fonction  telle que la puissance de ces efforts soit :<br>
+<br>Note
+Seuls certains efforts particuliers admettent une énergie potentielle<br>
+Si  existe elle est définie à une constante près
+<br><br>Ou lorsque  ne dépend pas de t :<br>
+Le travail ne dépend alors que des positions initiale et finale<br><br>Travail du couple de rappel : <br>Si  n'existe pas : travail non conservatif (ex: frottements)<br><br>Soit  la résultante de toutes les forces appliquées à un pont matériel  de masse  et  sa vitesse (ref galiléen)<br>
+Donc :<br>
+<br><br>Note
+La variation d'énergie cinétique d'un point matériel entre deux instants quelconques est égale à la somme des travaux de toutes les forces appliquées à ce point, le long de la portion correspondante de trajectoire
+<br><br><br>Note
+La variation d’énergie cinétique d’un système matériel entre deux instants quelconques est égale à la somme algébrique des travaux effectués entre ces deux instants par toutes les forces (intérieures et extérieures) appliquées au système.
+<br><br>Soit un système conservatif c'est à dire tel que les forces intérieures permettent de définir une énergie potentielle<br>Si le système est mécaniquement isolé (= soumis à aucune force extérieure) :<br>
+<br><br>Les positions d'équilibre stable correspondent à des minimas d'énergie potentielle]]></description><link>1a/physique/meca/4-énergie.html</link><guid isPermaLink="false">1A/Physique/Meca/4 - Énergie.md</guid><pubDate>Wed, 10 Apr 2024 10:18:31 GMT</pubDate></item><item><title><![CDATA[5 - Oscillations]]></title><description><![CDATA[ 
+ <br>Info
+Un oscillateur est un système qui évolue de part et d'autre d'un équilibre stable<br>
+Lorsque sa position au cours du temps est une fonction sinusoïdale, on parle d'oscillateur harmonique
+<br>Cette année: pendules à un seul degré de liberté<br><br>Oscillateur libre : aucun système extérieur ne lui fournit de l'énergie après sa mise en mouvement = oscillations non entretenues<br>
+ apériodique<br>
+ = 0 : apériodique critique<br>
+ : pseudo-périodique<br>
+<br>
+Régime apériodique critique : <br><br><br>]]></description><link>1a/physique/meca/5-oscillations.html</link><guid isPermaLink="false">1A/Physique/Meca/5 - Oscillations.md</guid><pubDate>Tue, 07 May 2024 09:12:49 GMT</pubDate></item><item><title><![CDATA[2 - 1er principe 2024-03-20 10.30.30]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  Source chaude(T1 Cte)Source froide(T2 Cte)Moteur(cycle)Dispositif mécaniqueM]]></description><link>1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.30.30.excalidraw.html</link><guid isPermaLink="false">1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.md</guid><pubDate>Wed, 20 Mar 2024 09:35:19 GMT</pubDate></item><item><title><![CDATA[2 - 1er principe 2024-03-20 10.43.13]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  Source chaude(T1 Cte)Source froide(T2 Cte)Moteur(cycle)Dispositif mécaniqueM]]></description><link>1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.43.13.excalidraw.html</link><guid isPermaLink="false">1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.md</guid><pubDate>Wed, 20 Mar 2024 09:44:49 GMT</pubDate></item><item><title><![CDATA[Thermodynamique générale 2024-02-06 16.37.22]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  Stock d'énergieTransformateurSens des transferts]]></description><link>1a/thermodynamique/attachments/thermodynamique-générale-2024-02-06-16.37.22.excalidraw.html</link><guid isPermaLink="false">1A/Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.md</guid><pubDate>Tue, 06 Feb 2024 15:40:23 GMT</pubDate></item><item><title><![CDATA[Thermodynamique générale 2024-02-14 10.22.40]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  État solideÉtat liquideÉtat gazeuxFusionSublimationÉvaporationSolidificationLiquéfactionCondensation]]></description><link>1a/thermodynamique/attachments/thermodynamique-générale-2024-02-14-10.22.40.excalidraw.html</link><guid isPermaLink="false">1A/Thermodynamique/attachments/Thermodynamique générale 2024-02-14 10.22.40.excalidraw.md</guid><pubDate>Wed, 14 Feb 2024 09:29:39 GMT</pubDate></item><item><title><![CDATA[1 - Thermodynamique générale]]></title><description><![CDATA[ 
+ <br><br>Énergie : grandeur qui caractérise un système physique, gardant la même valeur au cours de toutes les transformations internes du système<br>
+Unité système international : Joule = 1 Newton qui se déplace d'un mètre<br>
+Autres unités :<br>
+<br>électronvolt eV   J
+<br>Calories 
+<br>kilowatt-heure : énergie consommé par un appareil de 1000 watts pendant 1 heure
+<br>TEP (Tonne équivalent pétrole)
+<br>Énergie primaire : <br>
+<br>nucléaire : uranium, hélium
+<br>chimique : pétrole, charbon, gaz, biomasse
+<br>mécanique : vent, marées, barrage 
+<br>(géo)thermique
+<br>2012: 8979 millions de TEP consommées  Énergie finale<br>
+Énergie primaire 2012 : 13371 Mtep  +5-7% en 2022<br>33% de pertes<br>Où  est le rendement <br>Énergie utile: <br>
+<br> : transport
+<br> : ordinateurs
+<br>
+<br><br>
+Travail  et chaleur 
+<br><br><img alt="Thermodynamique générale 2024-02-06 16.37.22.excalidraw.svg" src="1a/thermodynamique/attachments/thermodynamique-générale-2024-02-06-16.37.22.excalidraw.svg"><br>
+<br>HintL'énergie est, en thermodynamique, une valeur algébrique<br>
+Elle est positive lorsqu'elle est gagnée par le système et négative lorsqu'elle est perdue par le système = Convention du banquier
+On peut préciser :  ou <br>La thermodynamique : étudie<br>
+<br>Quoi ? Les transferts d'énergie et de matière entre
+<br>Qui ? des systèmes macroscopique et le milieu extérieur (environnement)
+<br>InfoSystème : ensemble de choses que l'on choisit (arbitrairement) d'étudier<br>
+Tout le reste constitue le milieu extérieur<br>Système isolé : système qui n'échange aucune énergie avec l'extérieur<br>
+Système fermé : système qui échange de l'énergie mais pas de matière avec l'extérieur<br>
+Sytème ouvert : système qui échange de l'énergie et de la matière avec l'extrérieur<br>Travail : on considère les forces extérieures au système<br>Transformation : évolution d'un système entre deux états d'équilibre A et B, liée à des forces extérieures<br>Variable extensives : <br>
+<br>dépendent de l'étendue du système
+<br>additives
+<br>exemples
+
+<br>nombre de moles
+<br>volume
+<br>masse
+
+
+<br>Variables intensives : ne dépendent pas de l'étendue du système<br>
+<br>température
+<br>pression
+<br>concentration
+<br>masse volumique
+<br>Transformation fermée : état final = état initial<br>Machine motrice : donne du travail, <br>
+Machine réceptrice : reçoit du travail, <br><br><br>Produit du travail à partir de chaleur<br><br>Nécessite du travail pour déplacer de la chaleur<br><br><br>
+<br>Pas d'intercation entyre les particules
+<br>Forte mobilité moléculaire
+<br>Propriétés du gaz parfait :*<br>
+<br>Molécules suffisaments éloignées pour négliger les interactions entre elles.<br>
+Loi des gazs parfaits<br>
+ : pression en Pa(scal)<br>
+ : volume en <br>
+<br>
+ : mol<br>
+ : Kelvin
+<br><br>Densité d'un gaz par rapport à un autre<br>
+<br>Fraction molaire :  et <br>
+Loi de Dalton : <br>
+<br><br><br>
+<br>Interactions entre particules fortes
+<br>Très faible mobilité moléculaire
+<br><br>Info
+Grandeur permettant de quantifier la possibilité qu'a un corps d'absorber ou de restituer de l'énergie par échange thermique
+<br><br>La capacité thermique dépend de la façon dont la variation de température est réalisée<br>
+<br>à volume constant () ou non
+<br>à pression constante () ou non
+<br>Pour les gaz parfaits : <br>
+ : coefficient de Laplace<br><img alt="Thermodynamique générale 2024-02-14 10.22.40.excalidraw.svg" src="1a/thermodynamique/attachments/thermodynamique-générale-2024-02-14-10.22.40.excalidraw.svg"><br>
+<br>Lors d'un changement d'état, la température et la pression sont constantes<br>Compression d'un gaz : 3 paliers : gaz  gaz/liquide  liquide (à partir d'une température suffisamment haute : gaz  liquide)<br>
+La pression nécessaire pour comprimer augmente très rapidement à partir de la phase liquide<br>Quand la température est assez basse, on peut avoir gaz  gaz/solide  solide<br><br>Lorsqu'un système est soumis uniquement à des forces conservatives ou à des forces dont le travail est nul, alors son énergie mécanique se conserve. <br>Lorsqu'un système est soumis à des forces non conservatives, alors son énergie mécanique ne se conserve pas. On peut écrire : ]]></description><link>1a/thermodynamique/1-thermodynamique-générale.html</link><guid isPermaLink="false">1A/Thermodynamique/1 - Thermodynamique générale.md</guid><pubDate>Mon, 23 Sep 2024 08:08:00 GMT</pubDate><enclosure url="1a/thermodynamique/attachments/thermodynamique-générale-2024-02-06-16.37.22.excalidraw.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="1a/thermodynamique/attachments/thermodynamique-générale-2024-02-06-16.37.22.excalidraw.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2 - 1er principe]]></title><description><![CDATA[ 
+ <br><br>Premier principe :<br>
+Il existe un fonction d'état extensive  , appelée énergie interne et homogène à une énergie.<br>
+Au cours d'une transformation d'un système d'un état 1 à  un état 2,<br>
+<br>
+<br>Transformation fermée : 
+<br>Transformation ouverte 
+<br>Fonction d'état : dépend seulement de l'état de départ et d'arrivée, et non pas de manière de passer de l'un à l'autre<br> est une fonction d'état<br>
+ et  n'en sont pas<br>Warning
+On peut avoir une transformation ouverte avec un système fermé.<br>
+Exemple : piston
+<br><br><br>Piston compresssé par un poids<br>
+2 cas :<br>
+<br>Transformation réversible  à tout instant
+<br>Transformation brusque <br>
+Soit  le déplacement élémentaire du point d'application<br>
+<br>
+Or  donc <br>
+Donc 
+<br>Il faut plus de travail pour une transformation brusque que réversible<br>Système fermé : En fonction du sens de la transformation, le travail  est positif ou négatif<br>monobare : <br>
+isobare : <br>
+monotherme : <br>
+isotherme : <br>
+isochore : volume toujours constant<br>
+adiabatique : transformation qui n'échange pas de chaleur<br><br><br>
+où <br> : "chaleur échangée" = fonction enthalpie du système / fonction d'état<br><br>Soit un système fermé avec  variables d'état<br>
+ dérivées partielles suffisent à<br>
+ : capacité calorifique à volume constant<br>
+ : chaleur latente d'expansion<br><br>Hint
+Une échange de chaleur n'implique pas forcément une variation de la température d'un système, il peut aussi agir sur son volume
+<br><br><br><br>
+<br><br>Adiabatique : <br><br>
+<br>Transformation adiabatique réversible d'un gaz parfait :<br>
+<br>
+<br><br>
+<br>fermée : état initial = état final; 
+<br>Isochore : ; 
+<br>Monobare : ; GP : ; liqu ou sol: 
+<br>Adiabatique : ...
+<br><br>Coefficient de performance<br>
+<br><img alt="2 - 1er principe 2024-03-20 10.30.30.excalidraw.svg" src="1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.30.30.excalidraw.svg"><br>
+<br>
+<br><br><img alt="2 - 1er principe 2024-03-20 10.43.13.excalidraw.svg" src="1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.43.13.excalidraw.svg"><br>
+<br>
+<br><br><img alt="Pasted image 20240320104952.png" src="1a/thermodynamique/attachments/pasted-image-20240320104952.png"><br>
+<br><br>]]></description><link>1a/thermodynamique/2-1er-principe.html</link><guid isPermaLink="false">1A/Thermodynamique/2 - 1er principe.md</guid><pubDate>Mon, 23 Sep 2024 08:08:00 GMT</pubDate><enclosure url="1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.30.30.excalidraw.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="1a/thermodynamique/attachments/2-1er-principe-2024-03-20-10.30.30.excalidraw.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3 - Second principe de la thermodynamique]]></title><description><![CDATA[ 
+ <br>La chaleur ne se déplace spontanément que vers une température plus basse<br>Tous les moteurs nécessitent 2 sources de chaleur à différentes températures.<br>Machine motrice : <br>Irréversibilité : due aux :<br>
+<br>pertes dues aux frottements, chocs, viscosité
+<br>transferts de chaleurs entre deux corps de température différentes<br>
+ on doit distinguer les machines parfaites des machines réelles
+<br><br>
+<br>Variable d'état (caractérise le système)
+<br>Non mesurable directement
+<br>Grandeur extensive (comme le volume)
+<br>But : prédire de façon absolue et quantitative le sens dans lequel l'énergie peut être transformée (ou pas)<br>Notée <br>ou Rappels :<br>
+Gaz parfait :<br>
+<br><br><br>Si la variation d'entropie est positive, alors la transformation est possible<br>Lorsqu'un système isolé énergétiquement évolue, son entropie  varie de telle façon que <br>
+Le système isolé (c'est à dire qui n'échange aucune énergie ni matière) s'apparente à ce qu'on a défini comme l'univers.<br>Système   milieu extérieur  univers (isolé)<br>Transformation réversible (idéale) de : <br>
+Transformation irréversible (réelle) de  : <br>
+Transformation impossible de  : <br>Si  est une source de température ( constante) : ]]></description><link>1a/thermodynamique/3-second-principe-de-la-thermodynamique.html</link><guid isPermaLink="false">1A/Thermodynamique/3 - Second principe de la thermodynamique.md</guid><pubDate>Wed, 10 Apr 2024 08:07:17 GMT</pubDate></item><item><title><![CDATA[5 - Fonction enthalpie libre]]></title><description><![CDATA[ 
+ <br>Variation d'entropie de l'univers peut être parfois difficile à calculer (à cause de la variation d'entropie de l'extérieur)<br><br>Notée <br>
+Définie sur le système  uniquement, permet de prédire la possibilité/nature d'une transformation<br>
+<br>Diminution: transformation irréversible
+<br>Stagnation: transformation réversible
+<br>Augmentation: impossible sans apport d'énergie
+<br>On retient :<br>
+Donc  est une fonction d'état:<br>
+<br>indépendante du chemin parcouru
+<br>ne dépend que de l'état initial et l'état final
+<br> différentielle exacte
+<br><br><br><br>: enthalpie libre molaire ou potentiel chimique<br><br>
+<br>Si  &gt;   alors  et 
+
+<br>Transfert de matière irréversible de  vers 
+
+
+<br>Si  &lt;   alors  et 
+
+<br>Transfert de matière irréversible de  vers 
+
+
+<br>Si   alors 
+]]></description><link>1a/thermodynamique/5-fonction-enthalpie-libre.html</link><guid isPermaLink="false">1A/Thermodynamique/5 - Fonction enthalpie libre.md</guid><pubDate>Wed, 26 Jun 2024 22:55:56 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+ <br>Bienvenue sur le sommaire des fiches  !<br><br><br><br>
+<br><a data-href="Démarche scientifique" href="1a/physique/bases/démarche-scientifique.html" class="internal-link" target="_self" rel="noopener">Démarche scientifique</a>
+<br><a data-href="Unités et Dimensions" href="1a/physique/bases/unités-et-dimensions.html" class="internal-link" target="_self" rel="noopener">Unités et Dimensions</a>
+<br><a data-href="Incertitudes et chiffres significatifs" href="1a/physique/bases/incertitudes-et-chiffres-significatifs.html" class="internal-link" target="_self" rel="noopener">Incertitudes et chiffres significatifs</a>
+<br><a data-href="Énergie" href="1a/physique/bases/énergie.html" class="internal-link" target="_self" rel="noopener">Énergie</a>
+<br><br>
+<br><a data-href="1 - Électrocinétique" href="1a/physique/electricité/1-électrocinétique.html" class="internal-link" target="_self" rel="noopener">1 - Électrocinétique</a>
+<br><a data-href="2 - Régimes transitoires" href="1a/physique/electricité/2-régimes-transitoires.html" class="internal-link" target="_self" rel="noopener">2 - Régimes transitoires</a>
+<br><a data-href="3 - Régime sinusoïdal permanent" href="1a/physique/electricité/3-régime-sinusoïdal-permanent.html" class="internal-link" target="_self" rel="noopener">3 - Régime sinusoïdal permanent</a>
+<br><br>
+<br><a data-href="1 - Statique" href="1a/physique/meca/1-statique.html" class="internal-link" target="_self" rel="noopener">1 - Statique</a>
+<br><a data-href="2 - Cinématique" href="1a/physique/meca/2-cinématique.html" class="internal-link" target="_self" rel="noopener">2 - Cinématique</a>
+<br><br>
+<br><a data-href="1-4 - Structure de l'atome" href="1a/chimie/1-4-structure-de-l'atome.html" class="internal-link" target="_self" rel="noopener">1-4 - Structure de l'atome</a>
+<br><a data-href="5 - Tableau périodique" href="1a/chimie/5-tableau-périodique.html" class="internal-link" target="_self" rel="noopener">5 - Tableau périodique</a>
+<br><a data-href="6 - Propriétés des atomes" href="1a/chimie/6-propriétés-des-atomes.html" class="internal-link" target="_self" rel="noopener">6 - Propriétés des atomes</a>
+<br><a data-href="7 - Spectroscopie des rayons X" href="1a/chimie/7-spectroscopie-des-rayons-x.html" class="internal-link" target="_self" rel="noopener">7 - Spectroscopie des rayons X</a>
+<br><a data-href="8 - Les liaisons" href="1a/chimie/8-les-liaisons.html" class="internal-link" target="_self" rel="noopener">8 - Les liaisons</a>
+<br><a data-href="9- Théorie des orbitales moléculaires" href="1a/chimie/9-théorie-des-orbitales-moléculaires.html" class="internal-link" target="_self" rel="noopener">9- Théorie des orbitales moléculaires</a>
+<br><a data-href="10-Différents types de liaisons" href="1a/chimie/10-différents-types-de-liaisons.html" class="internal-link" target="_self" rel="noopener">10-Différents types de liaisons</a>
+<br><a data-href="11 - Cristallographie" href="1a/chimie/11-cristallographie.html" class="internal-link" target="_self" rel="noopener">11 - Cristallographie</a>
+<br><br>
+<br><a data-href="1 - Thermodynamique générale" href="1a/thermodynamique/1-thermodynamique-générale.html" class="internal-link" target="_self" rel="noopener">1 - Thermodynamique générale</a>
+]]></description><link>1a/index.html</link><guid isPermaLink="false">1A/index.md</guid><pubDate>Wed, 13 Mar 2024 09:06:41 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+ ]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Mon, 23 Sep 2024 08:08:15 GMT</pubDate></item></channel></rss>

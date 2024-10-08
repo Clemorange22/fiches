@@ -1,4 +1,68 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[project-alpha]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>project-alpha</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 01 Oct 2024 06:51:59 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 01 Oct 2024 06:51:55 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[4 - Thermochimie]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[project-alpha]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>project-alpha</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 08 Oct 2024 06:57:41 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 08 Oct 2024 06:57:38 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[2 - Étude des mélanges binaires]]></title><description><![CDATA[ 
+ <br><br>Solution : mélange homogène d'au moins 2 corps purs A et B<br>
+Solvant : constituant majoritaire<br>
+Soluté : constituant minoritaire<br>Fraction molaires : notée  pour les solutions,  pour les vapeurs<br><br>État gazeux : les gaz sont toujours miscibles<br>
+État liquide : miscibilité totale, nulle ou partielle<br>
+État solide : same mais on le fait plus<br><br>
+<br>
+Solution idéale : mélange des composés A et B de structures chimiques voisines<br>
+"Idéale" : interactions égales entre toutes les molécules<br>
+vapeur = Gaz parfait<br>
+pressions partielles vérifient la loi de Raoult : =&gt; droites sur diagramme Px<br>
+Isobare :<br>
+<img alt="2 - Étude des mélanges binaires 2024-09-27 10.23.19.excalidraw.svg" src="2a/chimie/attachments/2-étude-des-mélanges-binaires-2024-09-27-10.23.19.excalidraw.svg"><br>
+
+
+<br>
+Solution non idéale : On ne peut pas utiliser la loi de raoult<br>
+Diagrammes (x,P) plus linéaires<br>
+Cas des solutions diluées : Loi de Henry : 
+
+<br>Plus la fraction molaire de B est faible, plus on peut considérer que le mélange est homogène et utiliser la loi de Henry
+<br>Plus la fraction molaire de B est forte, plus on peut considérer que le mélange est homogène et utiliser la loi de Raoult<br>
+Pour certaine espèces, il y a un point où les 2 courbes se touchent = azéotrope (le mélange s'y  comporte comme un corps pur)
+
+
+<br>Liquide-Vapeur solutions non_idéales miscibilité incomplète:<br>
+Règle des moments chimiques]]></description><link>2a/chimie/2-étude-des-mélanges-binaires.html</link><guid isPermaLink="false">2A/Chimie/2 - Étude des mélanges binaires.md</guid><pubDate>Fri, 04 Oct 2024 06:56:54 GMT</pubDate><enclosure url="2a/chimie/attachments/2-étude-des-mélanges-binaires-2024-09-27-10.23.19.excalidraw.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="2a/chimie/attachments/2-étude-des-mélanges-binaires-2024-09-27-10.23.19.excalidraw.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2 - Electrostatique]]></title><description><![CDATA[ 
+ <br><br>Champs électriques crées par plusieurs charges s'additionnent<br>Symétrie :<br>
+Un plan de symétrie des sources est un plan de symétrie du champ <br>
+Antisymétrie :<br>
+Charges volumiques :<br>
+<br><br><br>	Peut a<br>
+Th d'Ostrogradski appliqué à une surface fermée<br>
+<br><br><br><br>Boule de rayon a et de centre O<br><br>Intégration pour avoir l'expression du champ, en distinguant les cas en dehaors et dans la boule (prolongement par continuité)<br><br>Appliquer le th d'ostrogradski permet d'avoir l'expression du champ (choisir une surface fermée, calculer le flux et la charge intérieure)<br><br>La composante tangentielle du champ électrique est toujours continue à la traversée d’une interface entre deux milieux LHI<br>La composante normale du champ électrique est discontinue à la traversée d’une interface séparant deux milieux LHI si :<br>
+<br> et 
+<br>
+<br>Ces résultats sont exprimés par les relations de passage:<br>
+]]></description><link>2a/electromagnétisme/2-electrostatique.html</link><guid isPermaLink="false">2A/Electromagnétisme/2 - Electrostatique.md</guid><pubDate>Fri, 04 Oct 2024 13:53:29 GMT</pubDate></item><item><title><![CDATA[3 - Énergie électrostatique]]></title><description><![CDATA[ 
+ <br><br>Un champ électrique est associé à une quantité d'énergie finie dans un espace<br>
+Densité d'énergie électrostatique en un point<br>en <br>On somme cette expression sur un volume pour obtenir l'énergie associée à la distribution des charges<br><br>Dans un métal : en équilibre,  car les électrons se déplacent dans le conducteur pour former un champ électrique opposé. Il existe un court régime transitoire dans lequel les électrons se déplacent.<br>
+<br>Surface d'un conducteur équipotentielle (potentiel uniforme)
+<br>Charge volumique  nulle, seule des charges de surface  existent
+<br>Théorème de Coulomb : À la limite extérieure d'un conducteur,  normale sortante du conducteur
+<br><br>Si un conducteur est creux, le champ électrique est nul à l'intérieur ??<br><br>Frotter une surface métallique avec du tissu<br>
+Connexion filaire avec un générateur<br><br>Faibles !<br>
+<br> hétérogène pour les conducteurs non sphériques car les charges opposées se repoussent<br>
+ les charges sont plus importantes sur les pointes (rayon de courbure faible)<br><br>En rapprochant 2 conducteurs, un chargé et un déchargé, on modifie :<br>
+<br>La distribution de charge sur les 2 surfaces
+<br>Le potentiel des conducteurs
+<br>Pas la charge globale de chaque conducteur
+<br>Armatures : deux disques conducteurs de rayon  séparés de  et vérifiant <br>Dans l'espace inter-armatures,  est dirigé suivant  en  et en <br>Puisque  on suppose que <br><br>Claquage du condensateur : ionisation du diélectrique (peut être provoquée si la distance entre les armatures est trop faible)<br><br>Vitesse de charge élevé  effet Joule important]]></description><link>2a/electromagnétisme/3-énergie-électrostatique.html</link><guid isPermaLink="false">2A/Electromagnétisme/3 - Énergie électrostatique.md</guid><pubDate>Tue, 08 Oct 2024 06:56:42 GMT</pubDate></item><item><title><![CDATA[2024-10-07 2024-10-07 17.15.36]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  123Always gettingstuck in toiletsJammed door ?FALSEHe killed a ratwith his shoeTRUEHe is the "guardianof the cows" in his countyTRUE]]></description><link>2a/english/attachments/2024-10-07-2024-10-07-17.15.36.excalidraw.html</link><guid isPermaLink="false">2A/English/attachments/2024-10-07 2024-10-07 17.15.36.excalidraw.md</guid><pubDate>Mon, 07 Oct 2024 15:33:11 GMT</pubDate></item><item><title><![CDATA[2024-10-07]]></title><description><![CDATA[ 
+ <br>genre : gen-ruh<br>formation  training program<br>
+<br>Be forced to dance or sing every time 
+<br>Control fire or water
+<br>Flying carpet / underwater car
+<br><img alt="2024-10-07 2024-10-07 17.15.36.excalidraw.svg" src="2a/english/attachments/2024-10-07-2024-10-07-17.15.36.excalidraw.svg"><br>
+]]></description><link>2a/english/2024-10-07.html</link><guid isPermaLink="false">2A/English/2024-10-07.md</guid><pubDate>Mon, 07 Oct 2024 15:15:37 GMT</pubDate><enclosure url="2a/english/attachments/2024-10-07-2024-10-07-17.15.36.excalidraw.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="2a/english/attachments/2024-10-07-2024-10-07-17.15.36.excalidraw.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[4 - Thermochimie]]></title><description><![CDATA[ 
  <br>On s'intéresse maintenant à des transformations chimiques<br>
 Rappel : enthalpie<br>
 <br>
@@ -29,40 +93,13 @@ Avec :<br>
 <br>
  si plusieurs constituants<br>Mélange très dilué:<br>
 <br>
-]]></description><link>2a/chimie/1-potentiel-chimique.html</link><guid isPermaLink="false">2A/Chimie/1 - Potentiel Chimique.md</guid><pubDate>Thu, 26 Sep 2024 07:15:49 GMT</pubDate></item><item><title><![CDATA[2 - Étude des mélanges binaires]]></title><description><![CDATA[ 
- <br><br>Solution : mélange homogène d'au moins 2 corps purs A et B<br>
-Solvant : constituant majoritaire<br>
-Soluté : constituant minoritaire<br>Fraction molaires : notée  pour les solutions,  pour les vapeurs<br><br>État gazeux : les gaz sont toujours miscibles<br>
-État liquide : miscibilité totale, nulle ou partielle<br>
-État solide : same mais on le fait plus<br><br>
-<br>Solution idéale : mélange des composés A et B de structures chimiques voisines<br>
-"Idéale" : interactions égales entre toutes les molécules<br>
-vapeur = Gaz parfait<br>
-pressions partielles vérifient la loi de Raoult : =&gt; droites sur diagramme Px
-<br> <img alt="2 - Étude des mélanges binaires 2024-09-27 10.23.19.excalidraw.svg" src="2a/chimie/attachments/2-étude-des-mélanges-binaires-2024-09-27-10.23.19.excalidraw.svg"><br>
-<br>
-<br>Solution non idéale : On ne peut pas utiliser la loi de raoult<br>
-Diagrammes (x,P) plus linéaires<br>
-Cas des solutions diluées : Loi de Henry : 
-
-<br>Plus la fraction molaire de B est faible, plus on peut considérer que le mélange est homogène et utiliser la loi de Henry
-<br>Plus la fraction molaire de B est forte, plus on peut considérer que le mélange est homogène et utiliser la loi de Raoult<br>
-Pour certaine espèces, il y a un point où les 2 courbes se touchent = azéotrope
-
-
-]]></description><link>2a/chimie/2-étude-des-mélanges-binaires.html</link><guid isPermaLink="false">2A/Chimie/2 - Étude des mélanges binaires.md</guid><pubDate>Fri, 27 Sep 2024 09:00:34 GMT</pubDate><enclosure url="2a/chimie/attachments/2-étude-des-mélanges-binaires-2024-09-27-10.23.19.excalidraw.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="2a/chimie/attachments/2-étude-des-mélanges-binaires-2024-09-27-10.23.19.excalidraw.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[1 - Les opérateurs de la théorie des champs]]></title><description><![CDATA[ 
+]]></description><link>2a/chimie/1-potentiel-chimique.html</link><guid isPermaLink="false">2A/Chimie/1 - Potentiel Chimique.md</guid><pubDate>Thu, 26 Sep 2024 07:15:49 GMT</pubDate></item><item><title><![CDATA[1 - Les opérateurs de la théorie des champs]]></title><description><![CDATA[ 
  <br>QCM de révision d'élec (DC, AC, reg. variable) &gt; test début novembre<br>Repère cartésien direct <br>
 En un point  de cet espace il existe un champ vectoriel <br><br><br><br><br><br>Circulation conservative sur une courbe fermée<br><br>Transforme un champ vectoriel en champ scalaire.<br>
 Sert à exprimer des équations de conservation locales (de la charge électrique, matière...)<br>
 <br>Théorème d'Ostrogradski :<br>Le flux d'un champ  sortant d'une surface fermé est égale à l'intégrale triple de la divergence de  sur le volume délimité par la surface fermée<br>Si ,  Divergence nulle  flux conservatif<br><br><br><br>Transforme un champ vectoriel en champ vectoriel<br>
 Si  est un vecteur, son rotationnel est un pseudo-vecteur (moment) et inversement<br>Théorème de Stokes :<br>
-La circulation d'un champ  le long d'un contour (fermé) orienté est égale au flux de son rotationnel à travers toute surface s'appuyant sur ce même contour orienté.<br>Rotationnel nul dans un domaine simplement connexe   dérive d'un potentiel scalaire (sa forme différentielle est exacte) et circulation conservative<br><br>Divergence du gradient de  (champ scalaire)<br>Laplacien vectoriel d'un champ de vecteurs  est un champ vectoriel de composantes le laplacien scalaire de chacune des composantes de ]]></description><link>2a/electromagnétisme/1-les-opérateurs-de-la-théorie-des-champs.html</link><guid isPermaLink="false">2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md</guid><pubDate>Fri, 27 Sep 2024 13:54:02 GMT</pubDate></item><item><title><![CDATA[2 - Electrostatique]]></title><description><![CDATA[ 
- <br><br>Champs électriques crées par plusieurs charges s'additionnent<br>Symétrie :<br>
-Un plan de symétrie des sources est un plan de symétrie du champ <br>
-Antisymétrie :<br>
-Charges volumiques :<br>
-<br><br><br>Th d'Ostrogradski appliqué à une surface fermée<br>
-]]></description><link>2a/electromagnétisme/2-electrostatique.html</link><guid isPermaLink="false">2A/Electromagnétisme/2 - Electrostatique.md</guid><pubDate>Tue, 01 Oct 2024 06:51:30 GMT</pubDate></item><item><title><![CDATA[Structure de l'atome 2023-10-02 09.15.37]]></title><description><![CDATA[ 
+La circulation d'un champ  le long d'un contour (fermé) orienté est égale au flux de son rotationnel à travers toute surface s'appuyant sur ce même contour orienté.<br>Rotationnel nul dans un domaine simplement connexe   dérive d'un potentiel scalaire (sa forme différentielle est exacte) et circulation conservative<br><br>Divergence du gradient de  (champ scalaire)<br>Laplacien vectoriel d'un champ de vecteurs  est un champ vectoriel de composantes le laplacien scalaire de chacune des composantes de ]]></description><link>2a/electromagnétisme/1-les-opérateurs-de-la-théorie-des-champs.html</link><guid isPermaLink="false">2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md</guid><pubDate>Fri, 27 Sep 2024 13:54:02 GMT</pubDate></item><item><title><![CDATA[Structure de l'atome 2023-10-02 09.15.37]]></title><description><![CDATA[ 
  
   
   
