@@ -17,3 +17,27 @@ Dans un métal : en équilibre, $\vec{E}=\vec{0}$ car les électrons se déplace
 - **Théorème de Coulomb :** À la limite extérieure d'un conducteur, $$\vec{E}=\frac{\sigma}{\epsilon_{0}}\vec{n}$$
 $\vec{n}$ normale sortante du conducteur
 
+#### Conducteur creux
+
+Si un conducteur est creux, le champ électrique est nul à l'intérieur ??
+#### Charger un conducteur
+Frotter une surface métallique avec du tissu
+Connexion filaire avec un générateur
+
+### Capacité
+Faibles !
+$$Q=CV$$
+$C_{\text{Terre}}=700\ \mu F$
+
+$\sigma$ hétérogène pour les conducteurs non sphériques car les charges opposées se repoussent
+$\implies$ les charges sont plus importantes sur les pointes (rayon de courbure faible)
+
+### Influence de 2 conducteurs
+
+En rapprochant 2 conducteurs, un chargé et un déchargé, on modifie :
+- La distribution de charge sur les 2 surfaces
+- Le potentiel des conducteurs
+- Pas la charge globale de chaque conducteur
+
+Résolution difficile, sauf quand un conducteur en entoure un autre
+
