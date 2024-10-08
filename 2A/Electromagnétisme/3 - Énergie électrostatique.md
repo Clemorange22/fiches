@@ -39,5 +39,9 @@ En rapprochant 2 conducteurs, un chargé et un déchargé, on modifie :
 - Le potentiel des conducteurs
 - Pas la charge globale de chaque conducteur
 
-Résolution difficile, sauf quand un conducteur en entoure un autre
+Armatures : deux disques conducteurs de rayon $r$ séparés de $e$ et vérifiant $e\ll r$
+
+Dans l'espace inter-armatures, $\vec{E}$ est dirigé suivant $\vec{u_{x}}$ en $x=0$ et en $x=e-$
+
+Puisque $e\ll r$ on suppose que $\vec{E}=E(x)\vec{u_{x}}$
 
