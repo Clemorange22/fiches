@@ -14,4 +14,14 @@ Droite $\to$ gauche : hydrolyse
 - Pression
 - Concentrations
 
+**Rendement d'un produit**
+$$r({B_{i} })=\frac{n_{Bi}(\text{equilibre})}{n_{Bi}(\text{reaction totale})}$$
+**Coefficient de dissociation**
+$$\sigma({A_{i} })=\frac{-\Delta n_{Ai}(\text{disparue})}{n_{Ai}(\text{initiale})}$$
+### Principe de Le Chatelier
 
+```ad-info
+Lorsque la modification d'un facteur d'un système initialement à l'équilibre provoque une évolution vers un nouvel état d'équilibre, l'évolution s'oppose aux perturbations qui l'ont engendrée et en modère les effets
+```
+
+Exemple :  
