@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2A/Chimie/2 - Étude des mélanges binaires.md",
+                "file": "2A/Chimie/3 - Application de la thermodynamique aux systèmes chimiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/Chimie/2 - Étude des mélanges binaires.md",
+                "file": "2A/Chimie/3 - Application de la thermodynamique aux systèmes chimiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2A/Chimie/2 - Étude des mélanges binaires.md",
+                "file": "2A/Chimie/3 - Application de la thermodynamique aux systèmes chimiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/Chimie/2 - Étude des mélanges binaires.md"
+                "file": "2A/Chimie/3 - Application de la thermodynamique aux systèmes chimiques.md"
               }
             }
           },
@@ -196,6 +196,8 @@
   },
   "active": "c7c47f83653a077c",
   "lastOpenFiles": [
+    "2A/Chimie/2 - Étude des mélanges binaires.md",
+    "2A/Chimie/3 - Application de la thermodynamique aux systèmes chimiques.md",
     "2A/Electromagnétisme/3 - Énergie électrostatique.md",
     "html/html/lib/search-index.json",
     "html/html/lib/rss.xml",
@@ -219,7 +221,6 @@
     "html/html/1a/chimie/corrections-exos/attachments/exo-4-spectres-du-lithium-2023-10-14-10.28.28.excalidraw.svg",
     "2A/English/attachments/2024-10-07 2024-10-07 17.15.36.excalidraw.md",
     "2A/Electromagnétisme/2 - Electrostatique.md",
-    "2A/Chimie/2 - Étude des mélanges binaires.md",
     "2A/English/2024-10-07.md",
     "1A/Physique/Meca/4 - Énergie.md",
     "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
