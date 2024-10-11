@@ -26,6 +26,8 @@
 	- Plus la fraction molaire de B est forte, plus on peut considérer que le mélange est homogène et utiliser la loi de Raoult
 	Pour certaine espèces, il y a un point où les 2 courbes se touchent = **azéotrope** (le mélange s'y  comporte comme un corps pur)
 
-Liquide-Vapeur solutions non_idéales miscibilité incomplète:
+Liquide-Vapeur solutions non idéales miscibilité incomplète:
+- Hétéro-azéotrope
+Hétéroazéotrope
 Règle des moments chimiques
 
