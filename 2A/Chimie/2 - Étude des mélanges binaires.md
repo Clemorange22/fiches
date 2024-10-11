@@ -31,3 +31,6 @@ Liquide-Vapeur solutions non idéales miscibilité incomplète:
 Hétéroazéotrope
 Règle des moments chimiques
 
+TODO: Ajouter diagramme des différentes miscibilités
+
+
