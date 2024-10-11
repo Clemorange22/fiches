@@ -25,3 +25,8 @@ Lorsque la modification d'un facteur d'un système initialement à l'équilibre 
 ```
 
 Exemple :  
+- Augmentation de T : sens 1 (endo)
+- Compression : Sens baisse de $\sum P_{i}$ : 2
+- Ajout de CH4 : Augmentation  $P_{CH4}$ à compenser : sens 1
+- Ajout de C : pas d'influence sur P ou V : pas d'effet
+- 
