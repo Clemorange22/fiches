@@ -7,5 +7,8 @@
 
 Exemple: $$CH_{3}COOH+CH_{3}CH_{2}OH \leftrightarrow CH_{3}COOCH_{3}CH_{2}+H_{2}O$$
 Gauche $\to$ droite : estérification
-Droite $\to$ gauche : hydrollyse
+Droite $\to$ gauche : hydrolyse
+
+
+
 
