@@ -1,4 +1,4 @@
-
+## Lois qualitatives
 **Équilibre :** 
 - une réaction chimique est **terminée** lorsque la composition microscopique du système ne varie plus.
 - une réaction chimique est **complète** lorsqu'au moins un des réactifs a disparu
@@ -30,3 +30,20 @@ Exemple :
 - Ajout de CH4 : Augmentation  $P_{CH4}$ à compenser : sens 1
 - Ajout de C : pas d'influence sur P ou V : pas d'effet
 - 
+
+## Lois quantitatives
+
+Réaction : 
+Si $G$ diminue, la réaction évolue
+Si $G$ est minimal, l'équilibre est atteint
+
+$x = \frac{n_{B}}{n_{A}°}$ : rendement fraction de $A$ convertie en $B$
+
+$$G = n_{A}\mu_{A}+n_{B}\mu_{B}$$
+
+$$\overline{g}=\frac{G}{n_{A}°}$$
+
+
+$$\mathrm{d}\xi = -\frac{\mathrm{d}n_{A_{i}}}{a_{i}}=\frac{\mathrm{d}n_{B_{i}}}{b_{i}}$$
+Avec $\xi$ l'avancement de la réaction chimique
+
