@@ -55,3 +55,5 @@ $$\Delta_{r}G^{0}_{T}=\Delta_{r}H_{T}^{0}-T\Delta_{r}S_{T}^{0}=-RT \ln(K^{0}_{T}
 $$q = \frac{\prod^{n_{\text{produit}}}_{j=1}a_{B_{j}}^{\nu_{B_{j}}}}{\prod^{n_{\text{reactif}}}_{i=1}a_{A_{i}}^{\nu_{A_{i}}}}$$
 
 
+CO(g) + H20 (l) = CO2 (g) + Hé (g)
+$$K_{p}=p_{e, CO_{2}} \frac{p_{e, H_{2}}}{p_{e, CO}}$$
