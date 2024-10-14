@@ -47,3 +47,11 @@ $$\overline{g}=\frac{G}{n_{A}°}$$
 $$\mathrm{d}\xi = -\frac{\mathrm{d}n_{A_{i}}}{a_{i}}=\frac{\mathrm{d}n_{B_{i}}}{b_{i}}$$
 Avec $\xi$ l'avancement de la réaction chimique
 
+$$\frac{\mathrm{d}G_{T,P}}{\mathrm{d}\xi}=\sum_{j=1}^{n_{\text{produit}}} \nu_{B_{j}}\mu_{B_{j}}-\sum_{i=1}^{n_{\text{reactif}}} \nu_{A_{i}}\mu_{A_{i}} = \Delta_{r}G_{T, P}$$ 
+$$\Delta_{r} G_{T, P} = \Delta_{r}G^{0}_{T}+RT\ln Q$$
+
+$$\Delta_{r}G^{0}_{T}=\Delta_{r}H_{T}^{0}-T\Delta_{r}S_{T}^{0}=-RT \ln(K^{0}_{T})$$
+
+$$q = \frac{\prod^{n_{\text{produit}}}_{j=1}a_{B_{j}}^{\nu_{B_{j}}}}{\prod^{n_{\text{reactif}}}_{i=1}a_{A_{i}}^{\nu_{A_{i}}}}$$
+
+
