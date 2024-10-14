@@ -49,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1A/Physique/Meca/4 - Énergie.md",
+                "file": "2A/Chimie/4 - Évolution quantitative d'une réaction chimique.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "931164338e959ffa",
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/Chimie/3 - Application de la thermodynamique aux systèmes chimiques.md",
+                "file": "2A/Chimie/4 - Évolution quantitative d'une réaction chimique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2A/Chimie/3 - Application de la thermodynamique aux systèmes chimiques.md",
+                "file": "2A/Chimie/4 - Évolution quantitative d'une réaction chimique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/Chimie/3 - Application de la thermodynamique aux systèmes chimiques.md"
+                "file": "2A/Chimie/4 - Évolution quantitative d'une réaction chimique.md"
               }
             }
           },
@@ -194,10 +196,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7c47f83653a077c",
+  "active": "18d343bb94504208",
   "lastOpenFiles": [
-    "2A/Chimie/2 - Étude des mélanges binaires.md",
     "2A/Chimie/3 - Application de la thermodynamique aux systèmes chimiques.md",
+    "2A/Chimie/Untitled.md",
+    "2A/Chimie/4 - Évolution quantitative d'une réaction chimique.md",
+    "1A/Physique/Meca/4 - Énergie.md",
+    "2A/Chimie/1 - Potentiel Chimique.md",
+    "2A/Chimie/2 - Étude des mélanges binaires.md",
     "2A/Electromagnétisme/3 - Énergie électrostatique.md",
     "html/html/lib/search-index.json",
     "html/html/lib/rss.xml",
@@ -222,9 +228,7 @@
     "2A/English/attachments/2024-10-07 2024-10-07 17.15.36.excalidraw.md",
     "2A/Electromagnétisme/2 - Electrostatique.md",
     "2A/English/2024-10-07.md",
-    "1A/Physique/Meca/4 - Énergie.md",
     "2A/Electromagnétisme/1 - Les opérateurs de la théorie des champs.md",
-    "2A/Chimie/1 - Potentiel Chimique.md",
     "2A/Chimie/attachments/2 - Étude des mélanges binaires 2024-09-27 10.23.19.excalidraw.md",
     "1A/Thermodynamique/4 - Thermochimie.md",
     "2024-10-01.md",
@@ -239,8 +243,6 @@
     "1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.md",
     "1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.md",
     "1A/Physique/Meca/5 - Oscillations.md",
-    "1A/Physique/Meca/3 - Dynamique.md",
-    "1A/Physique/Meca/2 - Cinématique.md",
-    "1A/Physique/Meca/1 - Statique.md"
+    "1A/Physique/Meca/3 - Dynamique.md"
   ]
 }

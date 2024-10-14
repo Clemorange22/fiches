@@ -31,3 +31,4 @@ Mélange très dilué:
 $\mu_{\text{solvant}}(T,P)=\mu°_{\text{solvant}}(T)$
 $\mu_{\text{solute}}(T,P,C_{i})=\mu°_{\text{solute}}(T,C°)+RT\ln\left( \frac{C_{i}}{C°} \right)$
 
+
