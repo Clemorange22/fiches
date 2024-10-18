@@ -58,3 +58,4 @@ $$q = \frac{\prod^{n_{\text{produit}}}_{j=1}a_{B_{j}}^{\nu_{B_{j}}}}{\prod^{n_{\
 CO(g) + H20 (l) = CO2 (g) + Hé (g)
 $$K_{p}=p_{e, CO_{2}} \frac{p_{e, H_{2}}}{p_{e, CO}}$$
 
+LIquide, solvant majoritaire ou solide pas pris en compte car $a_{i}=1$
