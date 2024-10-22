@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2A/Chimie/3 - Application de la thermodynamique aux systèmes chimiques.md",
+                "file": "2A/Electromagnétisme/4 - Courant continu et résistance électrique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Application de la thermodynamique aux systèmes chimiques"
+              "title": "4 - Courant continu et résistance électrique"
             }
           }
         ],
@@ -222,8 +222,9 @@
   },
   "active": "91d505441e375ef5",
   "lastOpenFiles": [
-    "2A/Chimie/4 - Évolution quantitative d'une réaction chimique.md",
     "2A/Chimie/3 - Application de la thermodynamique aux systèmes chimiques.md",
+    "2A/Electromagnétisme/4 - Courant continu et résistance électrique.md",
+    "2A/Chimie/4 - Évolution quantitative d'une réaction chimique.md",
     "2A/Chimie/Untitled.md",
     "1A/Physique/Meca/4 - Énergie.md",
     "2A/Chimie/1 - Potentiel Chimique.md",
@@ -266,7 +267,6 @@
     "1A/Thermodynamique/attachments/Thermodynamique générale 2024-02-06 16.37.22.excalidraw.md",
     "1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.43.13.excalidraw.md",
     "1A/Thermodynamique/attachments/2 - 1er principe 2024-03-20 10.30.30.excalidraw.md",
-    "1A/Physique/Meca/5 - Oscillations.md",
-    "1A/Physique/Meca/3 - Dynamique.md"
+    "1A/Physique/Meca/5 - Oscillations.md"
   ]
 }
