@@ -31,5 +31,14 @@ On peut idéaliser un courant comme filiforme (1D) ou surfacique (2D).
 
 ## Régime lentement variable
 
-En courant alternatif de basse fréquence ($<<1 \text{ GHz}$), les équation vue précédemment sont toujours valables
+En courant alternatif de basse fréquence ($<<1 \text{ GHz}$), les équations vue précédemment sont toujours valables
 
+Paradoxe du condensateur : 
+
+Dans le cas où la charge est autorisée à s'accumuler, il faut modifier la loi de maxwell:
+
+$$\vec{\nabla} \cdot (\vec{j}+\vec{j_{D}})=0$$
+Avec
+* $\vec{j}$ courant de conduction
+* $\vec{j_{D}}$ courant de déplacement (accumulation des charges)
+$$\vec{j_{D}} =\epsilon\frac{ \partial \vec{E}}{\partial t}$$
