@@ -17,3 +17,6 @@ $$U=RI$$
 $$R=\frac{l}{\gamma S}=\frac{\rho l}{S}$$
 où $\rho = 1/\gamma$ est la résistivité du conducteur
 
+$\vec{j}\cdot \vec{E}$ : W/m^3 Puissance de dissipation par effet joule par unité de volume
+
+
