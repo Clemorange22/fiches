@@ -29,3 +29,7 @@ On peut idéaliser un courant comme filiforme (1D) ou surfacique (2D).
 
 
 
+## Régime lentement variable
+
+En courant alternatif de basse fréquence ($<<1 \text{ GHz}$), les équation vue précédemment sont toujours valables
+
