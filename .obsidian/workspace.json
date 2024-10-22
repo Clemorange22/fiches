@@ -62,21 +62,9 @@
               "icon": "lucide-file",
               "title": "3 - Application de la thermodynamique aux systèmes chimiques"
             }
-          },
-          {
-            "id": "0b92f3fb4ca72256",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b92f3fb4ca72256",
+  "active": "91d505441e375ef5",
   "lastOpenFiles": [
     "2A/Chimie/4 - Évolution quantitative d'une réaction chimique.md",
     "2A/Chimie/3 - Application de la thermodynamique aux systèmes chimiques.md",
