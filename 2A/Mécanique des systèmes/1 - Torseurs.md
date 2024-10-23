@@ -5,3 +5,4 @@ Défini par un vecteur et un point
 
 ### Relation fondamentale des moments
 
+$$\vec{M}(B)=\vec{M}(A)+\vec{BA} \wedge\vec{R}$$
