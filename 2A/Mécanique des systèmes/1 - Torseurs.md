@@ -25,3 +25,6 @@ Ensemble de 2 champs de vecteurs : la résultante $\vec{R}$ et les moments $\vec
 **Axe central d'un torseur :**
 Axe $\Delta$ où la résultante et le moment sont colinéaires
 
+#### Comoment
+
+$$C=T_{1} \times T_{2} = \vec{R_{1}}$$
